@@ -1,0 +1,45 @@
+name: Fetch Stealth (Playwright undetected)
+
+on:
+  repository_dispatch:
+    types: [fetch-stealth]
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install playwright
+          npx playwright install chromium
+      - name: Fetch with stealth
+        run: |
+          mkdir -p fetched
+          NAME='${{ github.event.client_payload.name }}'
+          URL='${{ github.event.client_payload.url }}'
+          node -e "
+          const { chromium } = require('playwright');
+          (async () => {
+            const browser = await chromium.launch({ headless: true });
+            const page = await browser.newPage({
+              userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            });
+            await page.goto('$URL', { waitUntil: 'domcontentloaded', timeout: 30000 });
+            const html = await page.content();
+            require('fs').writeFileSync('fetched/' + '$NAME', html);
+            await browser.close();
+          })();
+          "
+      - name: Commit and push
+        run: |
+          git config user.name "souluozi-bridge"
+          git config user.email "souluozi@users.noreply.github.com"
+          git add fetched/
+          git diff --cached --quiet || git commit -m "fetch(stealth): $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
