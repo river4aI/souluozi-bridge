@@ -1,0 +1,14 @@
+name: Test Simple
+
+on:
+  repository_dispatch:
+    types: [test-simple]
+
+permissions:
+  contents: write
+
+jobs:
+  simple:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "Hello World" > /tmp/test.txt
