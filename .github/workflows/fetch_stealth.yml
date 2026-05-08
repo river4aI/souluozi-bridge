@@ -4,6 +4,9 @@ on:
   repository_dispatch:
     types: [fetch-stealth]
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -37,7 +40,7 @@ jobs:
         env:
           NAME: "${{ github.event.client_payload.name }}"
           URL: "${{ github.event.client_payload.url }}"
-      - name: Commit
+      - name: Commit and push
         run: |
           git config user.name "Souluozi Bridge"
           git config user.email "souluozi@bridge"
