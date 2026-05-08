@@ -4,6 +4,9 @@ on:
   repository_dispatch:
     types: [fetch-url-v2]
 
+permissions:
+  contents: write
+
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -16,7 +19,7 @@ jobs:
           URL="${{ github.event.client_payload.url }}"
           USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           curl -L -sS --max-time 30 -H "User-Agent: $USER_AGENT" -o "fetched/$NAME" "$URL"
-      - name: Commit
+      - name: Commit and push
         run: |
           git config user.name "Souluozi Bridge"
           git config user.email "souluozi@bridge"
