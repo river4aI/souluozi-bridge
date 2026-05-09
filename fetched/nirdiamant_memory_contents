@@ -1,0 +1,1653 @@
+{
+  "sha": "4532e01f07119441e0c6653df15e44af2c07447a",
+  "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/4532e01f07119441e0c6653df15e44af2c07447a",
+  "tree": [
+    {
+      "path": ".env.example",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "68d0be785fb37037d1af873575368827aa7ba8ff",
+      "size": 384,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/68d0be785fb37037d1af873575368827aa7ba8ff"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9f446924dbfa4a7968a6b21d3f968e1bfd14b57c",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/9f446924dbfa4a7968a6b21d3f968e1bfd14b57c"
+    },
+    {
+      "path": ".github/CODE_OF_CONDUCT.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7b41b5b023e233aea9b75b02c898d6ad5a4d882",
+      "size": 2332,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/a7b41b5b023e233aea9b75b02c898d6ad5a4d882"
+    },
+    {
+      "path": ".github/CONTRIBUTING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a4a3b9989109c12cec2bf8dff0130c58cf0a2ce",
+      "size": 5302,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/8a4a3b9989109c12cec2bf8dff0130c58cf0a2ce"
+    },
+    {
+      "path": ".github/FUNDING.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10cc9874173067aec04d69639c9d0ec876c423d0",
+      "size": 19,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/10cc9874173067aec04d69639c9d0ec876c423d0"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c67d773f5e7bfce03d9755f3c0497106d6442b3b",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/c67d773f5e7bfce03d9755f3c0497106d6442b3b"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e85691fa273be238f4a47b58608c8988fdd6d507",
+      "size": 696,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/e85691fa273be238f4a47b58608c8988fdd6d507"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdcf36a458908dc1c19675ba9116a0a9ab29cdea",
+      "size": 691,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/bdcf36a458908dc1c19675ba9116a0a9ab29cdea"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/implement_technique.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6822841e585c5861f31a61bf3b8998d9d5accde1",
+      "size": 875,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/6822841e585c5861f31a61bf3b8998d9d5accde1"
+    },
+    {
+      "path": ".github/SECURITY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2239742a5c0a5a06e0321c459b493711988cf1e7",
+      "size": 1120,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2239742a5c0a5a06e0321c459b493711988cf1e7"
+    },
+    {
+      "path": ".github/pull_request_template.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93580eb3a2b9e8fbcc2cdcebbd55864144f241cc",
+      "size": 712,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/93580eb3a2b9e8fbcc2cdcebbd55864144f241cc"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fef124ec45c3e03842d8c3a34d5fd06e325e40da",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/fef124ec45c3e03842d8c3a34d5fd06e325e40da"
+    },
+    {
+      "path": ".github/workflows/validate.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b05219822a543d529f4d5830152fde7e5fb0842",
+      "size": 858,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/0b05219822a543d529f4d5830152fde7e5fb0842"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "100623f4ce129406382d29cc599223cd9c38048d",
+      "size": 331,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/100623f4ce129406382d29cc599223cd9c38048d"
+    },
+    {
+      "path": ".pre-commit-config.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "201a33560ebf9698ed4c202ba8048ac35358cfe3",
+      "size": 460,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/201a33560ebf9698ed4c202ba8048ac35358cfe3"
+    },
+    {
+      "path": "CITATION.cff",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "688cc10aaab813705a3a4c2d474ff0356dbcb721",
+      "size": 815,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/688cc10aaab813705a3a4c2d474ff0356dbcb721"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dd5295b4d22059a8d803dd240ead5d6c4313f76",
+      "size": 11304,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/5dd5295b4d22059a8d803dd240ead5d6c4313f76"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "23f01dbd2d45b7fa05874bc797dd22199e62df2b",
+      "size": 34280,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/23f01dbd2d45b7fa05874bc797dd22199e62df2b"
+    },
+    {
+      "path": "ROADMAP.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fddb89686aff00c5421d9c9c3ee3d7712728bafc",
+      "size": 3006,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/fddb89686aff00c5421d9c9c3ee3d7712728bafc"
+    },
+    {
+      "path": "all_techniques",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c10f77c264fe70043984e7056d033c006e627d3",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/9c10f77c264fe70043984e7056d033c006e627d3"
+    },
+    {
+      "path": "all_techniques/01_conversation_buffer_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "84624d841e67cf2f173c47ed2fdfcb662e2f1569",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/84624d841e67cf2f173c47ed2fdfcb662e2f1569"
+    },
+    {
+      "path": "all_techniques/01_conversation_buffer_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80af3cb86780fac682764012f497eb723ba3d793",
+      "size": 9799,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/80af3cb86780fac682764012f497eb723ba3d793"
+    },
+    {
+      "path": "all_techniques/01_conversation_buffer_memory/conversation_buffer_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45cec1f47644b1c90ca4b3c15bc14c595d848ad2",
+      "size": 23516,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/45cec1f47644b1c90ca4b3c15bc14c595d848ad2"
+    },
+    {
+      "path": "all_techniques/02_sliding_window_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2ecc781f5e72cfad7ee702fa42e205761a8c0820",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/2ecc781f5e72cfad7ee702fa42e205761a8c0820"
+    },
+    {
+      "path": "all_techniques/02_sliding_window_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ffbed1cf30ff41598986afc6b4abe81290bae574",
+      "size": 9126,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/ffbed1cf30ff41598986afc6b4abe81290bae574"
+    },
+    {
+      "path": "all_techniques/02_sliding_window_memory/sliding_window_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eace3ecfc5cb04ae37cba087b1a54736eda7c9bf",
+      "size": 28606,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/eace3ecfc5cb04ae37cba087b1a54736eda7c9bf"
+    },
+    {
+      "path": "all_techniques/03_summary_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ae1a91a53a7a1f56a6546b38da1318b5a3da2f29",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/ae1a91a53a7a1f56a6546b38da1318b5a3da2f29"
+    },
+    {
+      "path": "all_techniques/03_summary_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b60c0cdc1199c02bdf0deb497cf02a60b585afd",
+      "size": 9373,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/7b60c0cdc1199c02bdf0deb497cf02a60b585afd"
+    },
+    {
+      "path": "all_techniques/03_summary_memory/summary_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fce0d7931b530c0ec6d97a6b675cdabf892fe8d",
+      "size": 35797,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/7fce0d7931b530c0ec6d97a6b675cdabf892fe8d"
+    },
+    {
+      "path": "all_techniques/04_summary_buffer_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1e5ca23abd72e3a11f34b9cc64144488930dde42",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/1e5ca23abd72e3a11f34b9cc64144488930dde42"
+    },
+    {
+      "path": "all_techniques/04_summary_buffer_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f47de2ee3a1cd156e2cdf09a404d69884e988ff",
+      "size": 9649,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/5f47de2ee3a1cd156e2cdf09a404d69884e988ff"
+    },
+    {
+      "path": "all_techniques/04_summary_buffer_memory/summary_buffer_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8e88ce8dfb8f85cba9befd1f39dc9512cbdeafb",
+      "size": 27528,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/e8e88ce8dfb8f85cba9befd1f39dc9512cbdeafb"
+    },
+    {
+      "path": "all_techniques/05_token_buffer_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8a8ba66930e86accc2bac1465f8827c23e2e3e61",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/8a8ba66930e86accc2bac1465f8827c23e2e3e61"
+    },
+    {
+      "path": "all_techniques/05_token_buffer_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9a8d8e1c63b3e94f648c2d5c02a66f2f775b7d4",
+      "size": 9025,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b9a8d8e1c63b3e94f648c2d5c02a66f2f775b7d4"
+    },
+    {
+      "path": "all_techniques/05_token_buffer_memory/token_buffer_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1bbb5a7a72eaac36abba37dd6bde59e4b7ad4dd0",
+      "size": 25600,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1bbb5a7a72eaac36abba37dd6bde59e4b7ad4dd0"
+    },
+    {
+      "path": "all_techniques/06_vector_store_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c4de98f3e58e02f67daf71064eef7f23513dff8d",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/c4de98f3e58e02f67daf71064eef7f23513dff8d"
+    },
+    {
+      "path": "all_techniques/06_vector_store_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee2dd037574239d04fdb49613f98024c8474d0a7",
+      "size": 10850,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/ee2dd037574239d04fdb49613f98024c8474d0a7"
+    },
+    {
+      "path": "all_techniques/06_vector_store_memory/vector_store_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b3945b1f891c92587c1949a9210eca448eda869",
+      "size": 50503,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/8b3945b1f891c92587c1949a9210eca448eda869"
+    },
+    {
+      "path": "all_techniques/07_entity_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e1cf9ea8c60de1884c92ffc72d95da6521c4329e",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/e1cf9ea8c60de1884c92ffc72d95da6521c4329e"
+    },
+    {
+      "path": "all_techniques/07_entity_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16efbcd1d200711dc742fc6130bbbcb8195907d8",
+      "size": 10347,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/16efbcd1d200711dc742fc6130bbbcb8195907d8"
+    },
+    {
+      "path": "all_techniques/07_entity_memory/entity_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3b4caf9f469ca349b9744f1b13610bc42e67a2f",
+      "size": 44996,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b3b4caf9f469ca349b9744f1b13610bc42e67a2f"
+    },
+    {
+      "path": "all_techniques/08_knowledge_graph_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "49ea6e913ef655a79c5f082da25785839216c5b3",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/49ea6e913ef655a79c5f082da25785839216c5b3"
+    },
+    {
+      "path": "all_techniques/08_knowledge_graph_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6c3877bec34f09646ad54985deb1c2200963ecdd",
+      "size": 10945,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/6c3877bec34f09646ad54985deb1c2200963ecdd"
+    },
+    {
+      "path": "all_techniques/08_knowledge_graph_memory/knowledge_graph_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "199cc460d990a4b0a21b3a70e14e3d138fd7be5d",
+      "size": 52694,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/199cc460d990a4b0a21b3a70e14e3d138fd7be5d"
+    },
+    {
+      "path": "all_techniques/09_episodic_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "276eaef54f8bf449f3f5cfb373a8368e886ba52a",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/276eaef54f8bf449f3f5cfb373a8368e886ba52a"
+    },
+    {
+      "path": "all_techniques/09_episodic_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7832e85543e0dd937d55a749fe06878a2399966",
+      "size": 9697,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/c7832e85543e0dd937d55a749fe06878a2399966"
+    },
+    {
+      "path": "all_techniques/09_episodic_memory/episodic_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b41609cb75327796411cfd86daa3968eb713242",
+      "size": 38991,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1b41609cb75327796411cfd86daa3968eb713242"
+    },
+    {
+      "path": "all_techniques/10_semantic_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "65a3279f42cd76fba7da80cd39beb58059a310f8",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/65a3279f42cd76fba7da80cd39beb58059a310f8"
+    },
+    {
+      "path": "all_techniques/10_semantic_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0335477037a0ccd21c72cc957b629f27f60a781e",
+      "size": 10878,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/0335477037a0ccd21c72cc957b629f27f60a781e"
+    },
+    {
+      "path": "all_techniques/10_semantic_memory/semantic_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "187b0acb92e8555c0f081afd9c282780f027427f",
+      "size": 35468,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/187b0acb92e8555c0f081afd9c282780f027427f"
+    },
+    {
+      "path": "all_techniques/11_procedural_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ea8358718e9cedfc840dbe5211850b3703814aa3",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/ea8358718e9cedfc840dbe5211850b3703814aa3"
+    },
+    {
+      "path": "all_techniques/11_procedural_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d03f48ee398b7df4b7b46484f557417ff3fd034",
+      "size": 10634,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/7d03f48ee398b7df4b7b46484f557417ff3fd034"
+    },
+    {
+      "path": "all_techniques/11_procedural_memory/procedural_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa28bf0f060450af1fa1e535186b9920fe168a2c",
+      "size": 31264,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/aa28bf0f060450af1fa1e535186b9920fe168a2c"
+    },
+    {
+      "path": "all_techniques/12_working_memory_context_window",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "371464dd13e645058801174a3e6d8c1ba95d8ef6",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/371464dd13e645058801174a3e6d8c1ba95d8ef6"
+    },
+    {
+      "path": "all_techniques/12_working_memory_context_window/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93691ca6a37157c8005cae344fc21887c19f2617",
+      "size": 11188,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/93691ca6a37157c8005cae344fc21887c19f2617"
+    },
+    {
+      "path": "all_techniques/12_working_memory_context_window/working_memory_context_window.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ccd795e51fe68b4b8a09262f31cb94061bfbd44",
+      "size": 40602,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/3ccd795e51fe68b4b8a09262f31cb94061bfbd44"
+    },
+    {
+      "path": "all_techniques/13_hierarchical_memory_layers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1519843231f80bb66d1a5f34c337b263e8596dc8",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/1519843231f80bb66d1a5f34c337b263e8596dc8"
+    },
+    {
+      "path": "all_techniques/13_hierarchical_memory_layers/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a0a3c833195d8fe4ca21fc1d0fecb25ef856909",
+      "size": 11188,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/6a0a3c833195d8fe4ca21fc1d0fecb25ef856909"
+    },
+    {
+      "path": "all_techniques/13_hierarchical_memory_layers/hierarchical_memory_layers.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd44dec3993605090f294671e588b4ad0429a78a",
+      "size": 39796,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/fd44dec3993605090f294671e588b4ad0429a78a"
+    },
+    {
+      "path": "all_techniques/14_memory_consolidation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "709fcc31c3d5798a649d1a7f6644cdd3374986d4",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/709fcc31c3d5798a649d1a7f6644cdd3374986d4"
+    },
+    {
+      "path": "all_techniques/14_memory_consolidation/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb55cf7feb9989f9d286f8828eee2e515c1c2ed7",
+      "size": 11339,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/cb55cf7feb9989f9d286f8828eee2e515c1c2ed7"
+    },
+    {
+      "path": "all_techniques/14_memory_consolidation/memory_consolidation.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c671c70712997b3822348a61e4574af193d4b2f",
+      "size": 41151,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/7c671c70712997b3822348a61e4574af193d4b2f"
+    },
+    {
+      "path": "all_techniques/15_memory_compaction",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "26fd8eb36981b9af177f119079d9184e9c222073",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/26fd8eb36981b9af177f119079d9184e9c222073"
+    },
+    {
+      "path": "all_techniques/15_memory_compaction/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8812571c2d59f10dfc694fab3e63495776c80b0d",
+      "size": 11462,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/8812571c2d59f10dfc694fab3e63495776c80b0d"
+    },
+    {
+      "path": "all_techniques/15_memory_compaction/memory_compaction.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71adf0e579ee655729078fb9b87b9cade4cc1841",
+      "size": 39049,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/71adf0e579ee655729078fb9b87b9cade4cc1841"
+    },
+    {
+      "path": "all_techniques/16_self_reflection_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ebf77d524e7aaae589e23df786db7cb723459601",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/ebf77d524e7aaae589e23df786db7cb723459601"
+    },
+    {
+      "path": "all_techniques/16_self_reflection_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4eb6692a5893e05f773c1cf90ff92227fa38386d",
+      "size": 11377,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/4eb6692a5893e05f773c1cf90ff92227fa38386d"
+    },
+    {
+      "path": "all_techniques/16_self_reflection_memory/self_reflection_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5691998c05359ab1c3de641b7fa3e088a7cc6b8",
+      "size": 55824,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/f5691998c05359ab1c3de641b7fa3e088a7cc6b8"
+    },
+    {
+      "path": "all_techniques/17_memory_routing",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ec42ccad4bff87687f67cbe1f156a93aa9323e2",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/8ec42ccad4bff87687f67cbe1f156a93aa9323e2"
+    },
+    {
+      "path": "all_techniques/17_memory_routing/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "38f80fec487398822be0a596d8a3565e64ff2385",
+      "size": 9882,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/38f80fec487398822be0a596d8a3565e64ff2385"
+    },
+    {
+      "path": "all_techniques/17_memory_routing/memory_routing.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9efcbd7d0cf4f5d629552f2d3f353ebbe0e3221b",
+      "size": 27569,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/9efcbd7d0cf4f5d629552f2d3f353ebbe0e3221b"
+    },
+    {
+      "path": "all_techniques/18_temporal_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5abb2a74a2d180e5406a2c34a3307ee771d60e0e",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/5abb2a74a2d180e5406a2c34a3307ee771d60e0e"
+    },
+    {
+      "path": "all_techniques/18_temporal_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f4e1d04cdbf7a99bbf6ebb93029a9545b7cd60b4",
+      "size": 10873,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/f4e1d04cdbf7a99bbf6ebb93029a9545b7cd60b4"
+    },
+    {
+      "path": "all_techniques/18_temporal_memory/temporal_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d0fd0f352a719f0146d908c9ec7d42c1f4aca8c",
+      "size": 47122,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2d0fd0f352a719f0146d908c9ec7d42c1f4aca8c"
+    },
+    {
+      "path": "all_techniques/19_forgetting_and_decay",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "61d511e80aa3c2556b94a1c874f95a5bbf7b068a",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/61d511e80aa3c2556b94a1c874f95a5bbf7b068a"
+    },
+    {
+      "path": "all_techniques/19_forgetting_and_decay/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d38b73b4a2de5f7f778d85bfec86a28b00be5206",
+      "size": 11360,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d38b73b4a2de5f7f778d85bfec86a28b00be5206"
+    },
+    {
+      "path": "all_techniques/19_forgetting_and_decay/forgetting_and_decay.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2643a10236a268566633e30d4541304951393b6",
+      "size": 38051,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b2643a10236a268566633e30d4541304951393b6"
+    },
+    {
+      "path": "all_techniques/20_memory_retrieval_patterns",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ed7083bcbc3d5b792791803516c552f6c1e896b6",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/ed7083bcbc3d5b792791803516c552f6c1e896b6"
+    },
+    {
+      "path": "all_techniques/20_memory_retrieval_patterns/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "de42482af01944a5c67b5c7df6d4adea95c90325",
+      "size": 9963,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/de42482af01944a5c67b5c7df6d4adea95c90325"
+    },
+    {
+      "path": "all_techniques/20_memory_retrieval_patterns/memory_retrieval_patterns.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5f54efbf30ffd78dca73d0058007bd7bbc42ff9",
+      "size": 45605,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/c5f54efbf30ffd78dca73d0058007bd7bbc42ff9"
+    },
+    {
+      "path": "all_techniques/21_cross_session_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bfde4281c30f255cd1533744b770237a7f6624fc",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/bfde4281c30f255cd1533744b770237a7f6624fc"
+    },
+    {
+      "path": "all_techniques/21_cross_session_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c8ba85713bc22b40d1cc19a3b5714ebc04917b78",
+      "size": 12270,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/c8ba85713bc22b40d1cc19a3b5714ebc04917b78"
+    },
+    {
+      "path": "all_techniques/21_cross_session_memory/cross_session_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bb8c8983f3ec403e738e0fd2739a6b5a6becbaf",
+      "size": 34890,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/9bb8c8983f3ec403e738e0fd2739a6b5a6becbaf"
+    },
+    {
+      "path": "all_techniques/22_multi_agent_shared_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "303cdde903aaa1725ed1e7b44a67c550f7be39c7",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/303cdde903aaa1725ed1e7b44a67c550f7be39c7"
+    },
+    {
+      "path": "all_techniques/22_multi_agent_shared_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1954913845e698a4a71e043f426c6ecbbd352cd3",
+      "size": 11542,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1954913845e698a4a71e043f426c6ecbbd352cd3"
+    },
+    {
+      "path": "all_techniques/22_multi_agent_shared_memory/multi_agent_shared_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "724540c44d90809c77d3559457a3887164cd9456",
+      "size": 43122,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/724540c44d90809c77d3559457a3887164cd9456"
+    },
+    {
+      "path": "all_techniques/23_memory_with_tools",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "4edcf3a3d1a9d6737670acc3a41fc3784aeb454c",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/4edcf3a3d1a9d6737670acc3a41fc3784aeb454c"
+    },
+    {
+      "path": "all_techniques/23_memory_with_tools/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58ffa9537b2da42a4aeeb073d2123a3acbdedd64",
+      "size": 10929,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/58ffa9537b2da42a4aeeb073d2123a3acbdedd64"
+    },
+    {
+      "path": "all_techniques/23_memory_with_tools/memory_with_tools.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a94bad05768f9a2f4967be3b7b424ef2eb688f44",
+      "size": 34040,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/a94bad05768f9a2f4967be3b7b424ef2eb688f44"
+    },
+    {
+      "path": "all_techniques/24_graph_memory_graphiti",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a7665986806fa8949b9235c88620024c57dec9cf",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/a7665986806fa8949b9235c88620024c57dec9cf"
+    },
+    {
+      "path": "all_techniques/24_graph_memory_graphiti/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8815b40a4e23fe85e69c650b9502eefde14e1df",
+      "size": 11847,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/a8815b40a4e23fe85e69c650b9502eefde14e1df"
+    },
+    {
+      "path": "all_techniques/24_graph_memory_graphiti/graph_memory_graphiti.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f07203a506706a3e5c852d7f181e27f5bea68e76",
+      "size": 31842,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/f07203a506706a3e5c852d7f181e27f5bea68e76"
+    },
+    {
+      "path": "all_techniques/25_mem0_patterns",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cec0de238383e780b15459d2d6e0c6bc2cff416c",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/cec0de238383e780b15459d2d6e0c6bc2cff416c"
+    },
+    {
+      "path": "all_techniques/25_mem0_patterns/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9354a1fef31045a8cde579b749d85c5995533869",
+      "size": 12470,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/9354a1fef31045a8cde579b749d85c5995533869"
+    },
+    {
+      "path": "all_techniques/25_mem0_patterns/mem0_patterns.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c9daf5ce75a8541e9981cb19789838e998ec0bf",
+      "size": 37620,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/5c9daf5ce75a8541e9981cb19789838e998ec0bf"
+    },
+    {
+      "path": "all_techniques/26_letta_memgpt_patterns",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2391549524d769a02c8df4c2e967ef6242bdc868",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/2391549524d769a02c8df4c2e967ef6242bdc868"
+    },
+    {
+      "path": "all_techniques/26_letta_memgpt_patterns/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cefb58b22159ef1978570eabb89f4d220bdbb839",
+      "size": 12966,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/cefb58b22159ef1978570eabb89f4d220bdbb839"
+    },
+    {
+      "path": "all_techniques/26_letta_memgpt_patterns/letta_memgpt_patterns.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bba43c57b41126cb67e90efcdb78340c6d3bc78f",
+      "size": 59242,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/bba43c57b41126cb67e90efcdb78340c6d3bc78f"
+    },
+    {
+      "path": "all_techniques/27_zep_memory",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "24b085ef75fca98ec0e088a4672de4046582a95e",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/24b085ef75fca98ec0e088a4672de4046582a95e"
+    },
+    {
+      "path": "all_techniques/27_zep_memory/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "535936ceb2353bccbf8aa3168606d1a64c7adff1",
+      "size": 12775,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/535936ceb2353bccbf8aa3168606d1a64c7adff1"
+    },
+    {
+      "path": "all_techniques/27_zep_memory/zep_memory.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15f3c8d697da022a59d39325dc384ff4d44bb4b9",
+      "size": 23831,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/15f3c8d697da022a59d39325dc384ff4d44bb4b9"
+    },
+    {
+      "path": "all_techniques/28_memory_evaluation",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d071ee005a30cfd1a525a7b0c6fdf525c81f0c4d",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/d071ee005a30cfd1a525a7b0c6fdf525c81f0c4d"
+    },
+    {
+      "path": "all_techniques/28_memory_evaluation/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d166ce5e94a32071f8e052a6222010b4557d279f",
+      "size": 12008,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d166ce5e94a32071f8e052a6222010b4557d279f"
+    },
+    {
+      "path": "all_techniques/28_memory_evaluation/memory_evaluation.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fba929b4ef85e0debaef334b2714460de77b31e",
+      "size": 51385,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2fba929b4ef85e0debaef334b2714460de77b31e"
+    },
+    {
+      "path": "all_techniques/29_memory_benchmarks_LoCoMo",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8fa6eba3e242e676850f6e84120e53e6fae7cd6f",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/8fa6eba3e242e676850f6e84120e53e6fae7cd6f"
+    },
+    {
+      "path": "all_techniques/29_memory_benchmarks_LoCoMo/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc78444af349a62f58c222d4e8e850c31f45bda2",
+      "size": 10319,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/fc78444af349a62f58c222d4e8e850c31f45bda2"
+    },
+    {
+      "path": "all_techniques/29_memory_benchmarks_LoCoMo/memory_benchmarks_locomo.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3295d9543eda7688be75171072315a19fc949b17",
+      "size": 38397,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/3295d9543eda7688be75171072315a19fc949b17"
+    },
+    {
+      "path": "all_techniques/30_production_memory_patterns",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c6b8e88d0ad8298060e789131a01faf8724e70ac",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/c6b8e88d0ad8298060e789131a01faf8724e70ac"
+    },
+    {
+      "path": "all_techniques/30_production_memory_patterns/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b32d4a157c8c416ab9619353ccd5ebeaaf45d9f9",
+      "size": 14358,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b32d4a157c8c416ab9619353ccd5ebeaaf45d9f9"
+    },
+    {
+      "path": "all_techniques/30_production_memory_patterns/production_memory_patterns.ipynb",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90bd49ed5075d22a76c69ff899b5bf6d9c8bc38a",
+      "size": 76992,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/90bd49ed5075d22a76c69ff899b5bf6d9c8bc38a"
+    },
+    {
+      "path": "data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b5b97246c246d0dfafe12b0d1e823e2d4e8148eb",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/b5b97246c246d0dfafe12b0d1e823e2d4e8148eb"
+    },
+    {
+      "path": "data/README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34888d55bc1e517e2e89a608ead175be16aadc64",
+      "size": 601,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/34888d55bc1e517e2e89a608ead175be16aadc64"
+    },
+    {
+      "path": "data/sample_conversation.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1012fe4945b5bec6224c05289e4c46153fc6c2c3",
+      "size": 1118,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1012fe4945b5bec6224c05289e4c46153fc6c2c3"
+    },
+    {
+      "path": "docs",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "da622bf10369970f4149b552453862a0c2001cd4",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/da622bf10369970f4149b552453862a0c2001cd4"
+    },
+    {
+      "path": "docs/CONTENT_STANDARDS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0e7cfb7bad3bfc0563e7d272954cb6cb320c878",
+      "size": 6425,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/f0e7cfb7bad3bfc0563e7d272954cb6cb320c878"
+    },
+    {
+      "path": "docs/FAQ.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3cc97165c4b8c50a54e71a5b5de209a0110959b",
+      "size": 30968,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b3cc97165c4b8c50a54e71a5b5de209a0110959b"
+    },
+    {
+      "path": "docs/architecture.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a9b1b4ba81b6eee8021f38214aa1951b0d4e6d39",
+      "size": 34951,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/a9b1b4ba81b6eee8021f38214aa1951b0d4e6d39"
+    },
+    {
+      "path": "docs/comparison.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b24e99bd07e28843f74709d4beaa26a9ee5c4134",
+      "size": 4356,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b24e99bd07e28843f74709d4beaa26a9ee5c4134"
+    },
+    {
+      "path": "docs/glossary.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ecf230dfe6b59037f9aeec4bee8f86d269a37c5",
+      "size": 17520,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/8ecf230dfe6b59037f9aeec4bee8f86d269a37c5"
+    },
+    {
+      "path": "docs/learning_path.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35ae615fa94db30f56cd191c45b680ebaaef2583",
+      "size": 17650,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/35ae615fa94db30f56cd191c45b680ebaaef2583"
+    },
+    {
+      "path": "docs/roadmap.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a33c0d688edbc8eea40edb22f88f2de7933ded",
+      "size": 12685,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/94a33c0d688edbc8eea40edb22f88f2de7933ded"
+    },
+    {
+      "path": "docs/topics.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c831efa336f1af071df54b4f3c6953c4a791897",
+      "size": 1720,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2c831efa336f1af071df54b4f3c6953c4a791897"
+    },
+    {
+      "path": "images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b57b605a7cf7cd09bd7efdd92d01aec7a248976f",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/b57b605a7cf7cd09bd7efdd92d01aec7a248976f"
+    },
+    {
+      "path": "images/banner.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "280878b7fcf28df7d81ef4121fb9b2d2c410d6de",
+      "size": 396930,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/280878b7fcf28df7d81ef4121fb9b2d2c410d6de"
+    },
+    {
+      "path": "images/decision_tree.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ad8fecb129a8cec6736cec808c188812e7cf053",
+      "size": 15032,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/3ad8fecb129a8cec6736cec808c188812e7cf053"
+    },
+    {
+      "path": "images/diagrams",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d1a11f484a1e4fcf915eafc9bc31d25de65029b6",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/d1a11f484a1e4fcf915eafc9bc31d25de65029b6"
+    },
+    {
+      "path": "images/diagrams/01_conversation_buffer_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0bbeba95600603497be04751d831a5da97fe9912",
+      "size": 8585,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/0bbeba95600603497be04751d831a5da97fe9912"
+    },
+    {
+      "path": "images/diagrams/02_sliding_window_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6ed41a1aadeddb2ece3de51280a8c179e0b1c36",
+      "size": 9643,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/e6ed41a1aadeddb2ece3de51280a8c179e0b1c36"
+    },
+    {
+      "path": "images/diagrams/03_summary_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbc5645a2829d07e3d21ba3a3d2c6a658a801dde",
+      "size": 9465,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/bbc5645a2829d07e3d21ba3a3d2c6a658a801dde"
+    },
+    {
+      "path": "images/diagrams/04_summary_buffer_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0649d17e780a6105553b6e02fb48db060a56ae30",
+      "size": 8911,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/0649d17e780a6105553b6e02fb48db060a56ae30"
+    },
+    {
+      "path": "images/diagrams/05_token_buffer_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd0758c3202b53a6e4cbf739fff5d33fb9d82cdf",
+      "size": 8145,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/cd0758c3202b53a6e4cbf739fff5d33fb9d82cdf"
+    },
+    {
+      "path": "images/diagrams/06_vector_store_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0051b49063c944b48bffbaf29f85e083ab3f6b90",
+      "size": 7770,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/0051b49063c944b48bffbaf29f85e083ab3f6b90"
+    },
+    {
+      "path": "images/diagrams/07_entity_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90725fc1a6be8c7eb4b71154f4beb5a04c9bf449",
+      "size": 8318,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/90725fc1a6be8c7eb4b71154f4beb5a04c9bf449"
+    },
+    {
+      "path": "images/diagrams/08_knowledge_graph_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d425aad3e15864bb92b773c5c0294ef4a4c113ff",
+      "size": 9772,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d425aad3e15864bb92b773c5c0294ef4a4c113ff"
+    },
+    {
+      "path": "images/diagrams/09_episodic_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2e41da58ccfa0833b316fcca93568269ad9e593",
+      "size": 8419,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b2e41da58ccfa0833b316fcca93568269ad9e593"
+    },
+    {
+      "path": "images/diagrams/10_semantic_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f99ae57976a8d6ac4a1d23f75a6349ab4b10195d",
+      "size": 9582,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/f99ae57976a8d6ac4a1d23f75a6349ab4b10195d"
+    },
+    {
+      "path": "images/diagrams/11_procedural_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "518adb37d8a19fd32f0df87f8721da70d8fc46dd",
+      "size": 8897,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/518adb37d8a19fd32f0df87f8721da70d8fc46dd"
+    },
+    {
+      "path": "images/diagrams/12_working_memory_context_window.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cb0a2ee3b253ff3f42411395e265543e29cbdd5",
+      "size": 9775,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/7cb0a2ee3b253ff3f42411395e265543e29cbdd5"
+    },
+    {
+      "path": "images/diagrams/13_hierarchical_memory_layers.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "348db694be1c9e0761ee9feae8a669a917826134",
+      "size": 8426,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/348db694be1c9e0761ee9feae8a669a917826134"
+    },
+    {
+      "path": "images/diagrams/14_memory_consolidation.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2032b0a29fc4d9290ecd35df028dbec00f537f5a",
+      "size": 7853,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2032b0a29fc4d9290ecd35df028dbec00f537f5a"
+    },
+    {
+      "path": "images/diagrams/15_memory_compaction.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12bb42f4b4abf70e7fa54ccf2fdca31d0de0a123",
+      "size": 9534,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/12bb42f4b4abf70e7fa54ccf2fdca31d0de0a123"
+    },
+    {
+      "path": "images/diagrams/16_self_reflection_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b22fe94cb6381ae54b4aca7ef8efe68c7ca4a378",
+      "size": 9013,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b22fe94cb6381ae54b4aca7ef8efe68c7ca4a378"
+    },
+    {
+      "path": "images/diagrams/17_memory_routing.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd12e9e43b301d0804ce1e489cb527344b64ec13",
+      "size": 11196,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/fd12e9e43b301d0804ce1e489cb527344b64ec13"
+    },
+    {
+      "path": "images/diagrams/18_temporal_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ef5c49e1e2251994874d42515ec2239b040fb3b",
+      "size": 9730,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/6ef5c49e1e2251994874d42515ec2239b040fb3b"
+    },
+    {
+      "path": "images/diagrams/19_forgetting_and_decay.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b4e7439d0674efce349289542a6b81f7c9cbd745",
+      "size": 11935,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b4e7439d0674efce349289542a6b81f7c9cbd745"
+    },
+    {
+      "path": "images/diagrams/20_memory_retrieval_patterns.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27c9b0dfe3b6389e36e9608f372f3e8ee4c13ecb",
+      "size": 10547,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/27c9b0dfe3b6389e36e9608f372f3e8ee4c13ecb"
+    },
+    {
+      "path": "images/diagrams/21_cross_session_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58eed3310e8f3a37655f75a9a706f0f1aea8a816",
+      "size": 14342,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/58eed3310e8f3a37655f75a9a706f0f1aea8a816"
+    },
+    {
+      "path": "images/diagrams/22_multi_agent_shared_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "184dda0379a5888750b84d1eafdcc485c871427f",
+      "size": 11655,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/184dda0379a5888750b84d1eafdcc485c871427f"
+    },
+    {
+      "path": "images/diagrams/23_memory_with_tools.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8d8a534d71b91550c473c2c4012021a94170ac22",
+      "size": 11418,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/8d8a534d71b91550c473c2c4012021a94170ac22"
+    },
+    {
+      "path": "images/diagrams/24_graph_memory_graphiti.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3ad122175c6891fe3f568adecc033da9a6b96b2",
+      "size": 9891,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d3ad122175c6891fe3f568adecc033da9a6b96b2"
+    },
+    {
+      "path": "images/diagrams/25_mem0_patterns.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a650d000c02a4e236bdfad8fa31bd1582a5ff2a4",
+      "size": 10708,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/a650d000c02a4e236bdfad8fa31bd1582a5ff2a4"
+    },
+    {
+      "path": "images/diagrams/26_letta_memgpt_patterns.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "602916e5c09bbef10529c9853325235f0b12e9c2",
+      "size": 12678,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/602916e5c09bbef10529c9853325235f0b12e9c2"
+    },
+    {
+      "path": "images/diagrams/27_zep_memory.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0844d2635a6c0c584137a2ad1128fec36b40497",
+      "size": 10938,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b0844d2635a6c0c584137a2ad1128fec36b40497"
+    },
+    {
+      "path": "images/diagrams/28_memory_evaluation.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eac5cd42933d566a16ac4daafd7413e80bf98b71",
+      "size": 9773,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/eac5cd42933d566a16ac4daafd7413e80bf98b71"
+    },
+    {
+      "path": "images/diagrams/29_memory_benchmarks_LoCoMo.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9dc05f8cba1bc8e35b4c3fdacb59dbebf4c7483",
+      "size": 13029,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/e9dc05f8cba1bc8e35b4c3fdacb59dbebf4c7483"
+    },
+    {
+      "path": "images/diagrams/30_production_memory_patterns.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f2a382830b214932550132287f352b6080a46b3",
+      "size": 13079,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2f2a382830b214932550132287f352b6080a46b3"
+    },
+    {
+      "path": "images/diagrams/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6ba858c5bb966f35da8954218772e1a8034d9abe",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/6ba858c5bb966f35da8954218772e1a8034d9abe"
+    },
+    {
+      "path": "images/diagrams/src/01_conversation_buffer_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d52c87299c5246f7ae1ae0558866a071f8eacc45",
+      "size": 626,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d52c87299c5246f7ae1ae0558866a071f8eacc45"
+    },
+    {
+      "path": "images/diagrams/src/02_sliding_window_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "369a8bdc6c3fc7ae8bf5a420adcc9c4e06b84635",
+      "size": 977,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/369a8bdc6c3fc7ae8bf5a420adcc9c4e06b84635"
+    },
+    {
+      "path": "images/diagrams/src/03_summary_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b23f56b2b0b8f4663d95f1c7db46e73028351c55",
+      "size": 879,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/b23f56b2b0b8f4663d95f1c7db46e73028351c55"
+    },
+    {
+      "path": "images/diagrams/src/04_summary_buffer_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54047e6ce0671c12a6ad10c09bdca0bac917fbc0",
+      "size": 563,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/54047e6ce0671c12a6ad10c09bdca0bac917fbc0"
+    },
+    {
+      "path": "images/diagrams/src/05_token_buffer_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2298a2127d35cd3e8d3017eec4a136554cdaa3c",
+      "size": 430,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/f2298a2127d35cd3e8d3017eec4a136554cdaa3c"
+    },
+    {
+      "path": "images/diagrams/src/06_vector_store_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bb8863910c6305056185e64f2ad1446122cf1f0",
+      "size": 712,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/8bb8863910c6305056185e64f2ad1446122cf1f0"
+    },
+    {
+      "path": "images/diagrams/src/07_entity_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ec758742a2e63c0bbeda7cab13435c136fb71b0",
+      "size": 863,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1ec758742a2e63c0bbeda7cab13435c136fb71b0"
+    },
+    {
+      "path": "images/diagrams/src/08_knowledge_graph_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e900cb274dd2787dd95bab0b0407aad44c9c84e2",
+      "size": 945,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/e900cb274dd2787dd95bab0b0407aad44c9c84e2"
+    },
+    {
+      "path": "images/diagrams/src/09_episodic_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ab589d7efd09e2f83203d4af635fa422f2f1c1d",
+      "size": 531,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1ab589d7efd09e2f83203d4af635fa422f2f1c1d"
+    },
+    {
+      "path": "images/diagrams/src/10_semantic_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c067dc36fb432476815f75224f4ee33281a90b00",
+      "size": 625,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/c067dc36fb432476815f75224f4ee33281a90b00"
+    },
+    {
+      "path": "images/diagrams/src/11_procedural_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48576ef6559142a45a7b54b36fd2dc0088383faa",
+      "size": 590,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/48576ef6559142a45a7b54b36fd2dc0088383faa"
+    },
+    {
+      "path": "images/diagrams/src/12_working_memory_context_window.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cdcf3c8eab020b538a5b856fefdf886bfa228e96",
+      "size": 598,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/cdcf3c8eab020b538a5b856fefdf886bfa228e96"
+    },
+    {
+      "path": "images/diagrams/src/13_hierarchical_memory_layers.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dab0798fb775cbf1b0649520724f764a2872c33",
+      "size": 842,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/3dab0798fb775cbf1b0649520724f764a2872c33"
+    },
+    {
+      "path": "images/diagrams/src/14_memory_consolidation.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95e72fb64737bed5586da0a4a937a46348a33195",
+      "size": 524,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/95e72fb64737bed5586da0a4a937a46348a33195"
+    },
+    {
+      "path": "images/diagrams/src/15_memory_compaction.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "522a0a9859dc3fec82a270462f6e8680c2bf79e4",
+      "size": 728,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/522a0a9859dc3fec82a270462f6e8680c2bf79e4"
+    },
+    {
+      "path": "images/diagrams/src/16_self_reflection_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ece0c536d533e0c2680144948a7874d90012475",
+      "size": 1030,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1ece0c536d533e0c2680144948a7874d90012475"
+    },
+    {
+      "path": "images/diagrams/src/17_memory_routing.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c58ecb4add03c9d4ba61ff21dec84ed898fca57b",
+      "size": 868,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/c58ecb4add03c9d4ba61ff21dec84ed898fca57b"
+    },
+    {
+      "path": "images/diagrams/src/18_temporal_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e83822aa6d4e58ceeb5ce9f676e2b19752e39855",
+      "size": 542,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/e83822aa6d4e58ceeb5ce9f676e2b19752e39855"
+    },
+    {
+      "path": "images/diagrams/src/19_forgetting_and_decay.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c81bd542ffaeed05d4de8a4eb0ea6c673069e65c",
+      "size": 756,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/c81bd542ffaeed05d4de8a4eb0ea6c673069e65c"
+    },
+    {
+      "path": "images/diagrams/src/20_memory_retrieval_patterns.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c1180deca7f210a81afa5109222050febe58978c",
+      "size": 581,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/c1180deca7f210a81afa5109222050febe58978c"
+    },
+    {
+      "path": "images/diagrams/src/21_cross_session_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7eb4f7f235681c50ecc085e182bc1122a1575229",
+      "size": 873,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/7eb4f7f235681c50ecc085e182bc1122a1575229"
+    },
+    {
+      "path": "images/diagrams/src/22_multi_agent_shared_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cefa1a8915062959c7df521035c9b7d54f63168",
+      "size": 822,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/3cefa1a8915062959c7df521035c9b7d54f63168"
+    },
+    {
+      "path": "images/diagrams/src/23_memory_with_tools.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e11ec5dabb8410ea312a0448ab295347970b1623",
+      "size": 1091,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/e11ec5dabb8410ea312a0448ab295347970b1623"
+    },
+    {
+      "path": "images/diagrams/src/24_graph_memory_graphiti.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0b74693009de4717b1ba9710b114a07fc3be37cf",
+      "size": 1092,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/0b74693009de4717b1ba9710b114a07fc3be37cf"
+    },
+    {
+      "path": "images/diagrams/src/25_mem0_patterns.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82fcc1292788b843a54c053cef4aade1ec62c76d",
+      "size": 926,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/82fcc1292788b843a54c053cef4aade1ec62c76d"
+    },
+    {
+      "path": "images/diagrams/src/26_letta_memgpt_patterns.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eb23847aa9ae6479ef1db8fc64f2444aba64e14e",
+      "size": 1525,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/eb23847aa9ae6479ef1db8fc64f2444aba64e14e"
+    },
+    {
+      "path": "images/diagrams/src/27_zep_memory.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4dfdf97104d40d0e13cc24eed78caf7b77a7b88f",
+      "size": 1130,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/4dfdf97104d40d0e13cc24eed78caf7b77a7b88f"
+    },
+    {
+      "path": "images/diagrams/src/28_memory_evaluation.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2df3619787e7e240d728bb83655a7b852244f1d4",
+      "size": 855,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2df3619787e7e240d728bb83655a7b852244f1d4"
+    },
+    {
+      "path": "images/diagrams/src/29_memory_benchmarks_LoCoMo.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cf9bf9806d9e4cf48423aa850a6b243f7161f4e",
+      "size": 1031,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/6cf9bf9806d9e4cf48423aa850a6b243f7161f4e"
+    },
+    {
+      "path": "images/diagrams/src/30_production_memory_patterns.mmd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1faa1f1b9a9ffefba412ae7cbd5a40384d386e87",
+      "size": 1525,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/1faa1f1b9a9ffefba412ae7cbd5a40384d386e87"
+    },
+    {
+      "path": "images/hero_dark.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4480f9d433c514f91311636dc1330472647eae93",
+      "size": 422132,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/4480f9d433c514f91311636dc1330472647eae93"
+    },
+    {
+      "path": "images/rag_book_best_seller.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "368a9f3332b8de39df04b488cc4fb486f138e7cc",
+      "size": 12189,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/368a9f3332b8de39df04b488cc4fb486f138e7cc"
+    },
+    {
+      "path": "images/sections",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5e9a5d75150f83ab8ad66ebbb9af50178c94b15f",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/5e9a5d75150f83ab8ad66ebbb9af50178c94b15f"
+    },
+    {
+      "path": "images/sections/cognitive.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16bd40d5dda0bc62dc6cb92de8b6b8aba1afa44e",
+      "size": 492317,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/16bd40d5dda0bc62dc6cb92de8b6b8aba1afa44e"
+    },
+    {
+      "path": "images/sections/evaluation.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5eca7c717c2217e464654caeee58cf1e2e7a058",
+      "size": 262551,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d5eca7c717c2217e464654caeee58cf1e2e7a058"
+    },
+    {
+      "path": "images/sections/frameworks.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7fa67e41a94c518ebd1792aabf86747ccbd8669e",
+      "size": 482833,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/7fa67e41a94c518ebd1792aabf86747ccbd8669e"
+    },
+    {
+      "path": "images/sections/long_term.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "798da58f84885a42bcaa7ecc673ea0c6aa684d3c",
+      "size": 487617,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/798da58f84885a42bcaa7ecc673ea0c6aa684d3c"
+    },
+    {
+      "path": "images/sections/retrieval.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2464196f21a872e975f423e8b28191dcde33ecbe",
+      "size": 451951,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/2464196f21a872e975f423e8b28191dcde33ecbe"
+    },
+    {
+      "path": "images/sections/short_term.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84572fe8fc3ecaedf1d8a11d0b60b7308af5c41c",
+      "size": 534962,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/84572fe8fc3ecaedf1d8a11d0b60b7308af5c41c"
+    },
+    {
+      "path": "images/social_preview.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e30b41aceff3ba6b8fcfab1a1092ea168e110aa",
+      "size": 106884,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/3e30b41aceff3ba6b8fcfab1a1092ea168e110aa"
+    },
+    {
+      "path": "images/subscribe-button.svg",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d000ae36aee9e63569dd4554552df5846f5862fb",
+      "size": 1095,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d000ae36aee9e63569dd4554552df5846f5862fb"
+    },
+    {
+      "path": "images/substack_image.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b0b5f1261b7d5ce054a6f02a0356eb0a28a9d67",
+      "size": 165707,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/4b0b5f1261b7d5ce054a6f02a0356eb0a28a9d67"
+    },
+    {
+      "path": "images/taxonomy.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3c1cf4b39378eef8b66deb1cab82a152abd5112",
+      "size": 465883,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d3c1cf4b39378eef8b66deb1cab82a152abd5112"
+    },
+    {
+      "path": "llms.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "365933b746ac038f0774ea9c698bd70e2358de0e",
+      "size": 9282,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/365933b746ac038f0774ea9c698bd70e2358de0e"
+    },
+    {
+      "path": "requirements.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3379000e3a8086395a2b577d99e9e10f21659882",
+      "size": 218,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/3379000e3a8086395a2b577d99e9e10f21659882"
+    },
+    {
+      "path": "tests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6e4684342051f0296c94ac69384153b1b29744b9",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/6e4684342051f0296c94ac69384153b1b29744b9"
+    },
+    {
+      "path": "tests/conftest.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed171eff7c06dfe8bc46535238c09a8262a08c17",
+      "size": 95,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/ed171eff7c06dfe8bc46535238c09a8262a08c17"
+    },
+    {
+      "path": "tests/test_helpers.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4b7fe76cba096f4d537cee12cd9f0a253abf8e2",
+      "size": 1812,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/a4b7fe76cba096f4d537cee12cd9f0a253abf8e2"
+    },
+    {
+      "path": "tests/test_imports.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cc79767648771b07e51b53830e60ab879d439da",
+      "size": 1128,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/9cc79767648771b07e51b53830e60ab879d439da"
+    },
+    {
+      "path": "utils",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f01a889b5295bcc742e950594c01bf269d7a763d",
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/trees/f01a889b5295bcc742e950594c01bf269d7a763d"
+    },
+    {
+      "path": "utils/__init__.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67e2a0ec03f19a414ab353147b936be06672be35",
+      "size": 52,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/67e2a0ec03f19a414ab353147b936be06672be35"
+    },
+    {
+      "path": "utils/helpers.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "58fe686a5afd06163897ea47753f098c5efc2d04",
+      "size": 6221,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/58fe686a5afd06163897ea47753f098c5efc2d04"
+    },
+    {
+      "path": "utils/validate_cells.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d56416ad9bbfa057c0e7f52835fad3e152f06b95",
+      "size": 2483,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/d56416ad9bbfa057c0e7f52835fad3e152f06b95"
+    },
+    {
+      "path": "utils/validate_style.py",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a063903cd95b436440789c89c025c72097c920f3",
+      "size": 5511,
+      "url": "https://api.github.com/repos/NirDiamant/Agent_Memory_Techniques/git/blobs/a063903cd95b436440789c89c025c72097c920f3"
+    }
+  ],
+  "truncated": false
+}
