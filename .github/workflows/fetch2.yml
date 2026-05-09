@@ -25,4 +25,5 @@ jobs:
           git config user.email "souluozi@bridge"
           git add fetched/
           git diff --cached --quiet || git commit -m "fetch: $NAME"
-          git push
+          git pull --rebase || true
+          git push || git push --force
