@@ -1,0 +1,11 @@
+{
+  "args": {}, 
+  "headers": {
+    "Accept": "*/*", 
+    "Host": "httpbin.org", 
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36", 
+    "X-Amzn-Trace-Id": "Root=1-69fe7e6c-2ddbfed405693c645bbb527d"
+  }, 
+  "origin": "172.182.226.229", 
+  "url": "https://httpbin.org/get"
+}
