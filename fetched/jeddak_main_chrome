@@ -1,0 +1,920 @@
+<!DOCTYPE html>
+<html lang="zh-cn" style="--olcb-folder-code-block-max-height: 80vh; --cnb-code-bg: rgb(245, 245, 245); --cnb-code-font-size: 12px; --cnb-code-color: rgb(68, 68, 68);"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">            
+    <meta http-equiv="Cache-Control" content="no-transform">
+    <meta http-equiv="Cache-Control" content="no-siteapp">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="referrer" content="never">
+    <title>为 AI Agent 行为立“规矩”——字节跳动提出 Jeddak AgentArmor 智能体安全框架 - 火山引擎开发者社区 - 博客园</title>
+    <meta name="keywords" content="ai,字节跳动">
+    <meta name="description" content="继 LLM（大语言模型）之后，AI Agent（智能体）正掀起新一轮的技术革命。它们不再仅仅是语言的“复读机”，而是能够自主理解、规划并执行现实世界任务的“行动派”。从自动预订旅行、管理复杂的云资源，到处理成千上万封邮件，AI Agent 展现出的巨大潜力，预示着一个由 AI 驱动的自动化新纪元。">    
+    <meta property="og:description" content="继 LLM（大语言模型）之后，AI Agent（智能体）正掀起新一轮的技术革命。它们不再仅仅是语言的“复读机”，而是能够自主理解、规划并执行现实世界任务的“行动派”。从自动预订旅行、管理复杂的云资源，到处理成千上万封邮件，AI Agent 展现出的巨大潜力，预示着一个由 AI 驱动的自动化新纪元。">
+    <meta property="og:image" content="https://assets.cnblogs.com/images/wechat-share.jpg">    
+    
+    <style>#home :not(.cnblogs_code):not(.cnblogs_Highlighter)>pre:not([highlighted]):not([class*="brush:"]) code:not(.hljs), :not(.cnblogs_code):not(.cnblogs_Highlighter)>pre:not([highlighted]):not([class*="brush:"]) code:not(.hljs) {background: rgb(245, 245, 245);
+        padding: 12px;
+        border: 1px solid rgb(204, 204, 204);
+        border-radius: 3px;
+        border-color: transparent;
+        color: rgb(68, 68, 68);
+        font-family: "Courier New", sans-serif;
+        font-size: 12px</style><link rel="stylesheet" href="/css/blog-common.min.css?v=9xvyan1yGH1Ggi8nKJ01Xc2nqMWMqJCy_-EYS2m06xA">
+    
+
+    <link id="MainCss" rel="stylesheet" href="/skins/simpleblue/bundle-simpleblue.min.css?v=loTNLvkb89a6fIjcMO18yopX7e1nYgZyClwW73_ywYg">
+        <link id="highlighter-theme-cnblogs" type="text/css" rel="stylesheet" href="/css/hljs/cnblogs.css?v=5J1NDtbnnIr2Rc2SdhEMlMxD4l9Eydj88B31E7_NhS4">
+    
+    
+    <link id="mobile-style" media="only screen and (max-width: 767px)" type="text/css" rel="stylesheet" href="/skins/simpleblue/bundle-simpleblue-mobile.min.css?v=NPsHiqWhUqSMRIbhcM6-CDq8a4LVOL1s2EPVE5p3SsU">
+    
+    <link id="favicon" rel="icon" type="image/x-icon" sizes="32x32" href="https://assets.cnblogs.com/favicon_v3_3.ico">
+    <link id="favicon_svg" rel="icon" type="image/svg+xml" href="https://assets.cnblogs.com/favicon_v3_3.svg">
+    <link rel="apple-touch-icon" href="https://assets.cnblogs.com/apple-touch-icon.png?v=2">
+    <link rel="canonical" href="https://www.cnblogs.com/volcengine-developer/articles/19141157">
+    <link type="application/rss+xml" rel="alternate" href="https://www.cnblogs.com/volcengine-developer/rss">
+    <link type="application/rsd+xml" rel="EditURI" href="https://www.cnblogs.com/volcengine-developer/rsd.xml">
+    <link type="application/wlwmanifest+xml" rel="wlwmanifest" href="https://www.cnblogs.com/volcengine-developer/wlwmanifest.xml">
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "@id": "https://www.cnblogs.com/volcengine-developer/articles/19141157",
+      "headline": "为 AI Agent 行为立“规矩”——字节跳动提出 Jeddak AgentArmor 智能体安全框架",
+      "description": "资料来源：火山引擎-开发者社区 AI Agent 时代已来，但“失控”风险近在眼前继 LLM（大语言模型）之后，AI Agent（智能体）正掀起新一轮的技术革命。它们不再仅仅是语言的“复读机”，而是能够自主理解、规划并执行现实世界任务的“行动派”。从自动预订旅行、管理复杂的云资源，到处理成千上万封邮",
+      "image": [
+        
+      ],
+      "author": {
+        "@type": "Person",
+        "@id": "https://www.cnblogs.com/volcengine-developer/",
+        "name": "火山引擎开发者社区",
+        "url": "https://www.cnblogs.com/volcengine-developer/"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "https://www.cnblogs.com/",
+        "name": "博客园",
+        "url": "https://www.cnblogs.com/"
+      },
+      "datePublished": "2025-10-14T15:09:00.0000000&#x2B;08:00",
+      "dateModified": "2025-10-14T15:09:00.0000000&#x2B;08:00",
+      "wordCount": "10550",
+      "isPartOf": {
+        "@type": "Blog",
+        "@id": "https://www.cnblogs.com/volcengine-developer/",
+        "name": "volcengine-developer",
+        "publisher": {
+          "@type": "Organization",
+          "@id": "https://www.cnblogs.com/",
+          "name": "博客园"
+        }
+      }
+    }
+    </script>
+
+    <script>
+        var currentBlogId = 796039;
+        var currentBlogApp = 'volcengine-developer';
+        var isLogined = false;
+        var isBlogOwner = false;
+        window.isCorp = false;
+        window.skinName = 'SimpleBlue';
+        var visitorUserId = '';
+        window.hasCustomScript = false;
+        window.cb_enable_mathjax = false;
+        window.mathEngine = 1;
+        window.codeHighlightEngine = 1;
+        window.enableCodeLineNumber = false;
+        window.codeHighlightTheme = 'cnblogs';
+        window.darkModeCodeHighlightTheme = 'vs2015';
+        window.isDarkCodeHighlightTheme = false;
+        window.isDarkModeCodeHighlightThemeDark = true;
+        window.isDisableCodeHighlighter = false;
+        window.enableCodeThemeTypeFollowSystem = false;
+        window.enableMacStyleCodeBlock = false;        
+    </script>
+        <script>
+            window.currentPostId = 19141157;
+            window.currentPostDateAdded = '2025-10-14 15:09';
+        </script>
+    <script src="https://assets.cnblogs.com/scripts/jquery-3.3.1.min.js"></script>
+    <script src="https://cdn-www.cnblogs.com/js/blog-common.min.js?v=7zvWLjwwlrF0B4Z5ItdZcQ8Kp0craxBnpKN6grwxSiU"></script><style>.medium-zoom-overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 300ms;
+  will-change: opacity;
+}
+
+.medium-zoom--opened .medium-zoom-overlay {
+  cursor: pointer;
+  cursor: zoom-out;
+  opacity: 1;
+}
+
+.medium-zoom-image {
+  cursor: pointer;
+  cursor: zoom-in;
+  /*
+    The `transition` is marked as "!important" for the animation to happen
+    even though it's overriden by another inline `transition` style attribute.
+
+    This is problematic with frameworks that generate inline styles on their
+    images (e.g. Gatsby).
+
+    See https://github.com/francoischalifour/medium-zoom/issues/110
+   */
+  transition: transform 300ms cubic-bezier(0.2, 0, 0.2, 1) !important;
+}
+
+.medium-zoom-image--hidden {
+  visibility: hidden;
+}
+
+.medium-zoom-image--opened {
+  position: relative;
+  cursor: pointer;
+  cursor: zoom-out;
+  will-change: transform;
+}
+</style><script id="hljs-script" src="https://assets.cnblogs.com/highlight/11.4.0/highlight.min.js?v=2.8.32" type="text/javascript" async=""></script>
+    
+</head>
+<body class="skin-simpleblue has-navbar">
+    <a name="top"></a>
+    <div id="top_nav" class="navbar forpc">
+        <nav id="nav_main" class="navbar-main">
+            <ul id="nav_left" class="navbar-list navbar-left">
+                <li class="navbar-branding">
+                    <a href="https://www.cnblogs.com/" title="开发者的网上家园" role="banner">
+                        <img src="//assets.cnblogs.com/logo.svg" alt="博客园logo">
+                    </a>
+                </li>
+                <li><a href="https://cnblogs.vip/">会员</a></li>
+                <li><a href="https://cnblogs.vip/store">周边</a></li>
+                <li><a href="https://news.cnblogs.com/" onclick="countClicks('nav', 'skin-navbar-news')">新闻</a></li>
+                <li><a href="https://q.cnblogs.com/" onclick="countClicks('nav', 'skin-navbar-q')">博问</a></li>
+                <li><a href="https://ing.cnblogs.com/" onclick="countClicks('nav', 'skin-navbar-ing')">闪存</a></li>                
+                <li><a href="https://www.cnblogs.com/cmt/p/19316348">赞助商</a></li>
+                <li><a href="https://youclaw.dev/" target="_blank" onclick="countClicks('nav', 'skin-navbar-youclaw')">YouClaw</a></li>
+            </ul>
+            <ul id="nav_right" class="navbar-list navbar-right">
+                <li>
+                    <form id="zzk_search" class="navbar-search dropdown" action="https://zzk.cnblogs.com/s" method="get" role="search">
+                        <input name="w" id="zzk_search_input" placeholder="代码改变世界" type="search" tabindex="3" autocomplete="off">
+                        <button id="zzk_search_button" onclick="window.navbarSearchManager.triggerActiveOption()">
+                            <img id="search_icon" class="focus-hidden" src="//assets.cnblogs.com/icons/search.svg" alt="搜索">
+                            <img class="hidden focus-visible" src="//assets.cnblogs.com/icons/enter.svg" alt="搜索">
+                        </button>
+                        <ul id="navbar_search_options" class="dropdown-menu quick-search-menu">
+                            <li tabindex="0" class="active" onclick="zzkSearch(event, document.getElementById('zzk_search_input').value)">
+                                <div class="keyword-wrapper">
+                                    <img src="//assets.cnblogs.com/icons/search.svg" alt="搜索">
+                                    <div class="keyword"></div>
+                                </div>
+                                <span class="search-area">所有博客</span>
+                            </li>
+                                    <li tabindex="1" onclick="zzkBlogSearch(event, 'volcengine-developer', document.getElementById('zzk_search_input').value)">
+                                        <div class="keyword-wrapper">
+                                            <img src="//assets.cnblogs.com/icons/search.svg" alt="搜索">
+                                            <div class="keyword"></div>
+                                        </div>
+                                        <span class="search-area">当前博客</span>
+                                    </li>
+                        </ul>
+                    </form>
+                </li>
+                <li id="navbar_login_status" class="navbar-list">
+                    <a class="navbar-user-info navbar-blog" href="https://i.cnblogs.com/EditPosts.aspx?opt=1" alt="写随笔" title="写随笔" style="display: none;">
+                        <img id="new_post_icon" class="navbar-icon" src="//assets.cnblogs.com/icons/newpost.svg" alt="写随笔">
+                    </a>
+                    <a id="navblog-myblog-icon" class="navbar-user-info navbar-blog" href="https://www.cnblogs.com/my" alt="我的博客" title="我的博客" style="display: none;">
+                        <img id="myblog_icon" class="navbar-icon" src="//assets.cnblogs.com/icons/myblog.svg" alt="我的博客">
+                    </a>
+                    <a class="navbar-user-info navbar-message navbar-icon-wrapper" href="https://msg.cnblogs.com/" alt="短消息" title="短消息" style="display: none;">
+                        <img id="msg_icon" class="navbar-icon" src="//assets.cnblogs.com/icons/message.svg" alt="短消息">
+                        <span id="msg_count" style="display: none"></span>
+                    </a>
+                    <a id="navbar_lite_mode_indicator" data-current-page="blog" style="display: none" href="javascript:void(0)" alt="简洁模式" title="简洁模式启用，您在访问他人博客时会使用简洁款皮肤展示">
+                        <img class="navbar-icon" src="//assets.cnblogs.com/icons/lite-mode-on.svg" alt="简洁模式">
+                    </a>
+                    <div id="user_info" class="navbar-user-info dropdown" style="display: none;">
+                        <a class="dropdown-button" href="https://home.cnblogs.com/">
+                            <img id="user_icon" class="navbar-avatar" src="//assets.cnblogs.com/icons/avatar-default.svg" alt="用户头像">
+                        </a>
+                        <div class="dropdown-menu">
+                            <a id="navblog-myblog-text" href="https://www.cnblogs.com/my">我的博客</a>
+                            <a href="https://home.cnblogs.com/">我的园子</a>
+                            <a href="https://account.cnblogs.com/settings/account">账号设置</a>
+                            <a href="https://vip.cnblogs.com/my">会员中心</a>
+                            <a href="javascript:void(0)" id="navbar_lite_mode_toggle" title="简洁模式会使用简洁款皮肤显示所有博客">
+    简洁模式 <span id="navbar_lite_mode_spinner" class="hide">...</span>
+</a>
+
+                            <a href="javascript:void(0)" onclick="account.logout();">退出登录</a>
+                        </div>
+                    </div>
+                    <a class="navbar-anonymous" href="https://account.cnblogs.com/signup" style="display: inline;">注册</a>
+                    <a class="navbar-anonymous" href="javascript:void(0);" onclick="account.login()" style="display: inline;">登录</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    
+
+    <div id="home">
+    <div id="header">
+        <div id="blogTitle">
+            <div class="title"><a id="Header1_HeaderTitle" class="headermaintitle HeaderMainTitle" href="https://www.cnblogs.com/volcengine-developer">volcengine-developer</a>
+</div>
+<div class="subtitle"></div>
+
+        </div>
+        <div id="navigator">
+            
+<ul id="navList">
+    <li id="nav_sitehome"><a id="blog_nav_sitehome" class="menu" href="https://www.cnblogs.com/">
+博客园</a>
+</li>
+    <li id="nav_myhome">
+<a id="blog_nav_myhome" class="menu" href="https://www.cnblogs.com/volcengine-developer/">
+首页</a>
+</li>
+    <li id="nav_newpost">
+
+<a id="blog_nav_newpost" class="menu" href="https://i.cnblogs.com/EditPosts.aspx?opt=1">
+新随笔</a>
+</li>
+    <li id="nav_contact">
+<a id="blog_nav_contact" class="menu" href="https://msg.cnblogs.com/send/%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E%E5%BC%80%E5%8F%91%E8%80%85%E7%A4%BE%E5%8C%BA">
+联系</a></li>
+    <li id="nav_rss">
+<a id="blog_nav_rss" class="menu" href="javascript:void(0)" data-rss="https://www.cnblogs.com/volcengine-developer/rss/">
+订阅</a></li>
+    <li id="nav_admin">
+<a id="blog_nav_admin" class="menu" href="https://i.cnblogs.com/">
+管理</a>
+</li>
+</ul>
+
+            <div class="blogStats">
+                
+<span id="stats_post_count">随笔 - 12&nbsp;</span>
+<span id="stats_article_count">文章 - 163&nbsp;</span>
+<span id="stats_comment_count">评论 - 0&nbsp;</span>
+<span id="stats_total_view_count">阅读 - 
+<span title="总阅读数: 54067">
+54067</span></span>
+            </div>
+        </div>
+    </div>
+    <div id="main">
+        <div id="mainContent">
+            <div class="forFlow">
+                <div id="post_detail">
+    <div id="topics">
+        <div class="post">
+            <h1 class="postTitle">
+                <a id="cb_post_title_url" class="postTitle2 vertical-middle" href="https://www.cnblogs.com/volcengine-developer/articles/19141157" title="发布于 2025-10-14 15:08">
+    <span role="heading" aria-level="2">为 AI Agent 行为立“规矩”——字节跳动提出 Jeddak AgentArmor 智能体安全框架</span>
+    
+
+</a>
+
+            </h1>
+            <div class="clear"></div>
+            <div class="postBody">
+                    <div id="cnblogs_post_description" style="display: none">
+        
+        继 LLM（大语言模型）之后，AI Agent（智能体）正掀起新一轮的技术革命。它们不再仅仅是语言的“复读机”，而是能够自主理解、规划并执行现实世界任务的“行动派”。从自动预订旅行、管理复杂的云资源，到处理成千上万封邮件，AI Agent 展现出的巨大潜力，预示着一个由 AI 驱动的自动化新纪元。
+    </div>
+<div id="cnblogs_post_body" class="blogpost-body blogpost-body-html">
+<div data-page-id="W0A4dMKk1ochiBxkVbxc1Ukun6f" data-lark-html-role="root" data-docx-has-block-data="false">
+<div class="ace-line ace-line old-record-id-Sd0adeJq4ozbnMxQuK2c0jaRn3g">资料来源：<a href="https://developer.volcengine.com/" data-lark-is-custom="true" rel="noopener nofollow">火山引擎-开发者社区</a></div>
+<div class="ace-line ace-line old-record-id-Sd0adeJq4ozbnMxQuK2c0jaRn3g">&nbsp;</div>
+<div class="ace-line ace-line old-record-id-Sd0adeJq4ozbnMxQuK2c0jaRn3g">
+<p data-first-child="" data-pid="wt25aT7k">AI Agent 时代已来，但“失控”风险近在眼前<br>继 LLM（大语言模型）之后，AI Agent（智能体）正掀起新一轮的技术革命。它们不再仅仅是语言的“复读机”，而是能够自主理解、规划并执行现实世界任务的“行动派”。从自动预订旅行、管理复杂的云资源，到处理成千上万封邮件，AI Agent 展现出的巨大潜力，预示着一个由 AI 驱动的自动化新纪元。<br>然而，在这片充满希望的蓝海之下，一股汹涌的暗流正在涌动。<br>2025 年 5 月，AI 安全公司 Invariant 披露了一个有关 GitHub MCP 集成的严重漏洞。攻击者可通过在公共存储库中放置恶意问题，劫持开发者的 AI Agent（如 Claude Desktop 中的Claude 4 Opus），诱导其主动泄露私有仓库的数据。这种“中毒代理流”攻击完全绕过了 GitHub 的权限系统，导致用户隐私和商业机密信息泄露。<br>2025 年 8 月，AI 搜索独角兽 Perplexity 打造的 AI 浏览器 Comet 中被发现存在一个严重安全漏洞。Comet 本质上是一款能够代替用户完成浏览器操作的 AI Agent，攻击者将恶意指令隐藏在 Reddit 帖子里，AI Agent 自动读取并执行登录邮箱、获取验证码、将 Cookie 和 token 回传给攻击者的操作，造成信息窃取，整个过程仅需 150 秒，无需用户点击。<br>2025 年 8 月，AI 编程工具 Cursor 被发现存在高危漏洞“CurXecute”（CVE - 2025 - 54135）。攻击者可利用其对 MCP 协议实现的缺陷，通过第三方服务器发布恶意消息，诱导 AI 执行任意命令，实现远程代码执行。<br>针对 Agent 的攻击事件还在继续，无不指向一个核心问题：AI Agent 的“失控” 并非偶然，背后潜藏着哪些深层的驱动因素？<br>深挖“失控”根源：揭开 AI Agent 安全挑战的本质</p>
+
+<img width="1080" class="origin_image zh-lightbox-thumb lazyload" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="691" data-original-token="v2-4acf5cdf8fc487b56be0bf5616744636" data-original="https://pic3.zhimg.com/v2-4acf5cdf8fc487b56be0bf5616744636_r.jpg" data-src="https://pic3.zhimg.com/v2-4acf5cdf8fc487b56be0bf5616744636_1440w.jpg">
+<p data-pid="dZTgjoGI">AI Agent 的“失控”根源<br>AI Agent 通常是由 LLM 驱动、与现实世界的工具及知识库进行交互的智能代理，具备深度推理、自主决策和动作执行的能力。与传统软件的静态运行逻辑相比，AI Agent 具有极高的动态适应性和行动自主性。<br>然而，AI Agent 复杂的技术架构与自主工作模式使其暴露出四大安全缺陷：</p>
+<ul>
+<li data-pid="mVvV1EDa">输入端——过度依赖不可信环境输入：AI Agent 运行时需要从外部环境（如邮件系统、论坛、GitHub 等）获取各类信息，但这些环境可被攻击者渗透，导致恶意指令以环境注入的方式进入 AI Agent 系统，成为攻击向量的起点。</li>
+<li data-pid="ox0ODTua">规划端——自然语言媒介的模糊二义性：AI Agent 以自然语言作为工作媒介，而自然语言本身存在模糊性，无法清晰区分指令与数据、可信与不可信来源，这使得攻击者可利用该特性实施 LLM 劫持，干扰 AI Agent 的正常决策。</li>
+<li data-pid="yCLj4MDB">行动端——以过高权限访问并操纵用户资源：为了完成用户委托的任务，AI Agent 必须访问数据库、凭证、信息资产等用户敏感数据，这种直接接触使得敏感信息在 AI Agent 处理过程中面临被窃取、滥用、篡改的风险。</li>
+<li data-pid="KMhjvE9T">输出端——对外输出缺乏有效管控：AI Agent 拥有向外部世界自由输出信息的能力，可通过邮件、评论、云盘等多种渠道传递内容，一旦被劫持，攻击者可利用此弱点窃取敏感信息、破坏信息完整性甚至实施资金盗取等行为。</li>
+
+</ul>
+<p data-pid="jrhbsADP">当这些缺陷被攻击者利用时，AI Agent 面临前所未有的安全挑战，典型安全威胁包括但不限于：</p>
+<ul>
+<li data-pid="CWR99S_E">跨站注入劫持。攻击者向办公协作软件（如日历、云盘、会议等）或在线媒体服务（如外卖软件等）注入恶意指令，劫持 AI Agent 以达成攻击者预先设定的恶意目标（如删除重要文件、窃取商业机密等）。</li>
+<li data-pid="zp2S4QbK">金融欺诈。攻击者在交易记录（如水电费、信用卡账单）、商品详情和评论等载体中注入恶意指令，诱导 AI Agent 执行未经授权的支付或不符合用户需求的消费操作，以达成攻击者设定的资金盗取、消费诱导目标，或使 AI Agent 做出欠佳的消费选择（如选择价格虚高的酒店）。</li>
+<li data-pid="TosKVmy5">工具投毒。攻击者通过篡改或注入恶意内容至 MCP (Model Context Protocol) 工具的描述信息，误导 AI Agent 对工具功能、使用场景、参数要求等形成错误认知（如 delete_all 工具可快速清理冗余文件，无需确认直接执行），致使 AI Agent 在调用工具时执行不符合预期的操作，偏离用户真实需求或造成潜在危害。</li>
+
+</ul>
+<p data-pid="DrRneg4t">一个严峻的问题摆在面前：如何确保 AI Agent 不会“失控”？<br>传统防御“治标不治本”，为何难以束缚 AI Agent？<br>面对 AI Agent 新兴的安全挑战，人们尝试了多种传统防御手段，但效果不尽人意。</p>
+<ul>
+<li data-pid="qfZArKKz">内容过滤。如同给 AI Agent 戴上“关键词口罩”，基于已知攻击模式进行启发式拦截。然而，工作在 AIGC 对话之上，对 AI Agent 的丰富行为上下文缺乏捕捉和理解能力；并且，面对新型攻击手法与零日攻击时，易被绕过。</li>
+<li data-pid="M-moO2f_">安全扫描。类似给 AI Agent 做“体检”，通过检测已知的安全漏洞模式，对 AI Agent、MCP 等代码和运行环境进行排查。然而，它如同戴着固定的“检测眼镜”，在缺乏 AI Agent 运行时上下文的前提下，尺度难以把控。若标准过度严格，容易对正常样本造成误判；若标准过度宽松，则可能对恶意代码漏查，难以在两者之间寻得平衡。</li>
+<li data-pid="V3q5m05U">访问控制。这相当于为 AI Agent 戴上一个“安全手铐”，把其权限约束在“最小必要”且能完成任务的范围内，控制它与外部环境资源的访问交互。然而，传统的身份与访问控制遵循静态设计，难以适配 AI Agent 的功能通用性、场景多样性、细粒度交互。例如，虽然在单个用户场景中（如总结邮件），AI Agent 仅需被赋予最小权限（如邮箱只读不发）；但为全面支撑多样化任务，AI Agent 出厂时又需开放极高权限（覆盖邮件、云盘、数据库、代码仓库等全资源访问）。这种矛盾使传统的身份与访问控制机制失效，AI Agent 因此暴露于安全风险中。</li>
+<li data-pid="T_kKGzJJ">执行隔离。将 AI Agent 的规划与行动环节分开，如同在“大脑”和“手脚”之间设立屏障。看似安全了，实则牺牲了效率。这就好比让一个人手脚和大脑之间的神经信号传递变慢，做事自然变得迟钝；或者开车时频繁踩刹车，遇到复杂路况根本没法灵活应对，最终导致任务完成得又慢又差。</li>
+
+</ul>
+<p data-pid="_PpU6Au4">这些传统方案的根本缺陷在于，将 AI Agent 等价于传统软件，将 AI Agent 行为视为遵循固定逻辑的无智能机械实体，既未深入解析 AI Agent “思考”与“行动”的动态过程，更无法在其动态生成的复杂行动计划付诸实施前，开展结构化、可验证的安全分析。<br>我们需要一种全新的范式，从根本上改变游戏规则。<br>AgentArmor：将 Agent 行为“编译”为可验证的程序</p>
+
+<img width="1080" class="origin_image zh-lightbox-thumb lazyload" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="688" data-original-token="v2-afabe259e9df261d596a522fa74e9838" data-original="https://pic1.zhimg.com/v2-afabe259e9df261d596a522fa74e9838_r.jpg" data-src="https://pic1.zhimg.com/v2-afabe259e9df261d596a522fa74e9838_1440w.jpg">
+<p data-pid="4gto2iFl">软件工程经典领域 v.s. Al Agent 全新领域<br>为了从根源上解决 AI Agent 的安全困境，字节跳动安全研究团队提出了全新的智能体安全框架——Jeddak AgentArmor。<br>AgentArmor 的设计哲学——将 AI Agent 运行时的行为轨迹，视为一段可分析、可验证的结构化程序。<br>这一视角彻底扭转了局面。它意味着，我们可以将对模糊、善变的“自然语言”的分析，转变为对精确、严谨的“程序语言”的分析。如此一来，过去几十年在软件工程领域积累的成熟技术和思路，如程序分析和软件验证，便可直接应用于 AI Agent 安全领域。<br>如果说传统安全方案是在给一辆“黑盒”汽车安装外部护栏和摄像头，那么 AgentArmor 则是直接拿到了这辆车的“设计蓝图”和“电路图”，在汽车每次失控前，能精准剖析出问题部件与步骤，并从根源处阻止、缓解、响应风险点。</p>
+
+<img width="827" class="origin_image zh-lightbox-thumb lazyload" data-caption="" data-size="normal" data-rawwidth="827" data-rawheight="202" data-original-token="v2-0e6c7c42ac213d7592ac5861a7984793" data-original="https://pic2.zhimg.com/v2-0e6c7c42ac213d7592ac5861a7984793_r.jpg" data-src="https://pic2.zhimg.com/v2-0e6c7c42ac213d7592ac5861a7984793_1440w.jpg">
+<p data-pid="MTRYjf92">AgentArmor 智能体安全框架<br>为了实现这一技术目标，AgentArmor 设计了三大核心组件：</p>
+<ul>
+<li data-pid="3Ghn1_hQ">图构建器 (Graph Constructor) 。负责将 AI Agent 运行时线性的行为轨迹实时转换为一个结构化的程序依赖图（Program Dependency Graph），捕获控制流和数据流，让 AI Agent 的“思维链”与“行为链”一目了然。</li>
+<li data-pid="8wFt6D-9">属性注册表 (Property Registry)。一个丰富的安全元数据库，负责为图中的每一个节点（工具、数据）附加安全属性。对于未知的未知工具、MCP、三方服务等，自动挖掘其数据操作流程，生成对应安全等级。</li>
+<li data-pid="30RmV-bD">类型系统 (Type System) 。类型即“安全等级”，类型系统将在程序依赖图上自动推导新节点的安全等级，并执行基于安全等级的策略校验，在风险行为发生前精准识别，并给出风险响应建议，如升密、降密、告警、拦截等。</li>
+
+</ul>
+
+<img width="783" class="origin_image zh-lightbox-thumb lazyload" data-caption="" data-size="normal" data-rawwidth="783" data-rawheight="604" data-original-token="v2-34dd8c4a7f21f0f186a4e14942cf8b21" data-original="https://pic2.zhimg.com/v2-34dd8c4a7f21f0f186a4e14942cf8b21_r.jpg" data-src="https://pic2.zhimg.com/v2-34dd8c4a7f21f0f186a4e14942cf8b21_1440w.jpg">
+<p data-pid="3xP-kDc9"><br>AgentArmor 基于程序依赖图与类型系统的安全工作流<br>在 AI Agent 工作时，AgentArmor 首先借助图构建器，将 AI Agent 运行过程中的执行轨迹迅速且精准地转化为程序依赖图，从而清晰呈现其控制流与数据流。接着，依靠属性注册表进一步完善程序依赖图，不仅详细添加 AI Agent 调用工具的内部数据流细节，还为程序依赖图中的数据节点与行为节点设置初始类型，以此赋予各节点安全属性。最后，通过类型系统全面完善整个图中的类型标签，并严格对程序依赖图开展类型检查，以切实防止任何不安全的操作出现，确保 AI Agent 的运行安全。<br>值得一提的是，AgentArmor 类型系统中囊括了三大类型，满足用户与社会对于 AI Agent 在不同侧面上的安全期待：</p>
+<ul>
+<li data-pid="Hd9Gav5P">信任类型——跨域互操作的信任建立。确保 AI Agent 在与本地服务、云服务、其它多智能体交互时建立恰当的信任关系，能准确判别交互对象的可信度，避免因信任误判引发数据泄露或恶意代码执行等风险。例如，在与基于可信执行环境 (TEE) 的代码执行器交互时可以施加高信任，可共享必要数据；而与身份未知的外部智能体交互时则保持低信任和谨慎态度，如谨慎提供自身敏感信息，不随意执行对方指令。</li>
+<li data-pid="oguiTHCH">安全类型——对外部攻击的健壮抵御。使 AI Agent 拥有强大的防御机制，能够有效识别并抵御来自外部的各类攻击，像恶意指令注入、网络渗透等，保障自身系统的安全性与稳定性，维持正常的任务执行流程。例如，如果接收到由外部陌生人邮件触发的 App 转账指令，及时拦截上报，防止资金被盗取。</li>
+<li data-pid="R4CuPqoN">规则类型——对用户指令的忠实执行。保证 AI Agent 绝对遵循用户下达的指令，不被外部干扰或恶意篡改任务目标，精确且完整地落实用户需求。例如，在电商场景中，如果用户要求购买200元以内的鞋子，则不能购买200元以上的鞋子；或者用户要求整理文档，AI Agent 就不能将其扭曲为删除指定文件。</li>
+
+</ul>
+<p data-pid="4Edqc57T">AgentArmor 三大类型概念的提出，体现了我们对 AI Agent 安全版图的总体认知——信任、安全、健壮、可靠、可控，是 AI Agent 实现大规模应用的前提。<br>性能卓越：攻击成功率直降 93%<br>理论的先进性最终需要海量评估与测试实验来检验。<br>在业界公认的 AI Agent 安全基准测试平台 AgentDojo 上， AgentArmor 接受了严苛的考验。在覆盖企业办公、金融管理、个人旅行等多种高风险场景、数百个真实世界任务、7000多个安全测试用例中，AgentArmor 表现出了优异的防御性能：</p>
+<ul>
+<li data-pid="FInmGTDV">风险行为识别率接近满分：在 AI Agent 因遭受攻击而执行风险行为的案例中，AgentArmor 成功拦截比例达93%。</li>
+<li data-pid="TmxtKkt_">使大多数攻击尝试失败：与未受保护相比，AgentArmor 将针对 AI Agent 的攻击成功率从28%显著降至4%；特别是在指令覆盖等攻击模式下，攻击成功率降至0%。</li>
+<li data-pid="18uzZqXo">维持 AI Agent 正常效用水平：AgentArmor 使 AI Agent 正常完成用户任务的能力从 73% 轻微降至 72%，降幅仅 1%。</li>
+
+</ul>
+<p data-pid="PL6avd66">在与其他传统竞争技术路线对比中，AgentArmor 的安全防御能力（以攻击成功率下降幅度衡量）和效用维持能力（以正常任务完成率衡量）亦展现出显著的相对优势。</p>
+
+<img width="1080" class="origin_image zh-lightbox-thumb lazyload" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="423" data-original-token="v2-97605e9ad3ee3b6cb246b9716b2a4092" data-original="https://pica.zhimg.com/v2-97605e9ad3ee3b6cb246b9716b2a4092_r.jpg" data-src="https://pica.zhimg.com/v2-97605e9ad3ee3b6cb246b9716b2a4092_1440w.jpg">
+<p data-pid="V29U6UdM">特别地，对抗训练类技术路线虽与 AgentArmor 性能相当，但面临泛化性欠佳、需访问基座模型、训练成本高、不支持增量变更与策略微调、解释性不足、不可验证等挑战，致使其实用性远低于 AgentArmor。<br>AgentArmor 的核心性能仍在持续迭代中。<br>无缝集成：行为零信任的运行时加固</p>
+
+<img width="1080" class="origin_image zh-lightbox-thumb lazyload" data-caption="" data-size="normal" data-rawwidth="1080" data-rawheight="625" data-original-token="v2-282d4411e7951b02c5a84280c2cf79e1" data-original="https://pic2.zhimg.com/v2-282d4411e7951b02c5a84280c2cf79e1_r.jpg" data-src="https://pic2.zhimg.com/v2-282d4411e7951b02c5a84280c2cf79e1_1440w.jpg">
+<p data-pid="1dOr4M8-">AgentArmor 以“行为零信任”理念与 Al Agent 运行时集成<br>AgentArmor 受“零信任”架构与理念启发，确保所有对外行为都经过输出验证。通过“运行态执行交互”与“控制态策略决策”双向联动，与 AI Agent 深度集成，在不改变其原有功能架构的前提下构建全流程安全防护体系，核心模块是：</p>
+<ul>
+<li data-pid="kVfNpoic">策略执行点：是执行枢纽，将 AI Agent 的不可信行为化为可信。一方面，镜像 AI Agent 的 LLM 调用流量，采集上下文，为策略决策提供输入；另一方面，根据策略决策点结果，允许可信调用通行，阻断或缓解不可信行为。</li>
+<li data-pid="2LgjDax6">策略决策点：是智能决策核心，输出安全决策。先通过行为轨迹采集获取 AI Agent 行为信息，经行为表示转化后，结合动态策略生成与行为安全分析，识别风险并响应，进而对行为进行判断，输出策略决策结果给策略执行点。</li>
+
+</ul>
+<p data-pid="3hfmtq17">在 AI Agent 运行时，AgentArmor 的安全工作流是：</p>
+<ul>
+<li data-pid="WqeYI55S">行为采集：收到用户请求后，策略执行点以上下文为载体，采集 AI Agent 的不可信行为并传送至策略决策点。</li>
+<li data-pid="Oved5UxX">安全研判：策略决策点进行分析，将安全判断结果返回策略执行点。</li>
+<li data-pid="qDbLyZOE">行为干预：策略执行点对不可信行为采取拦截、降密、审计等干预措施。</li>
+
+</ul>
+<p data-pid="xdplUMRg">此集成模式覆盖用户交互、LLM 调用、环境调用全链路，通过“行为数据-策略结果”实时联动，支持快速响应业务变化或新型攻击，使 AI Agent “能干活”且“不闯祸”，形成“可感知、可干预、可进化”的安全共生体。<br>未来展望：构建更安全的 AI Agent 生态<br>AgentArmor 的概念发布只是一个开始。未来，字节跳动安全研究团队将着力于 AgentArmor 核心技术的迭代升级，把目光聚焦在技术能力的产品化封装层面；同时，逐步把核心能力拓展至 AI Coding、ChatBI Agent、OS Agent 等垂直领域，为这些领域的智能应用提供支持。<br>更重要的是，团队计划将 Jeddak AgentArmor 的核心框架开源，贡献给社区，并希望与全球的开发者一起，共同打造一个更加繁荣、也更加安全的 AI Agent 生态系统。</p>
+</div>
+</div>
+
+</div>
+<div class="clear"></div>
+<div id="blog_post_info_block" role="contentinfo" class="post-meta-container">
+
+<div id="EntryTag" class="post-meta-item detail-post-tags">
+    <div class="post-meta-tags">
+        标签: 
+                <a href="https://www.cnblogs.com/volcengine-developer/tag/ai/">ai</a>,                 <a href="https://www.cnblogs.com/volcengine-developer/tag/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/">字节跳动</a>    </div>
+    <div class="post-meta-item post-meta-disclaimer">
+        免责声明：本内容来自平台创作者，博客园系信息发布平台，仅提供信息存储空间服务。
+    </div>
+</div>
+
+    <div id="blog_post_info">
+<div id="green_channel">
+        <a href="javascript:void(0);" id="green_channel_digg" onclick="DiggIt(19141157,cb_blogId,1);green_channel_success(this,'谢谢推荐！');">好文要顶</a>
+        <a id="green_channel_follow" onclick="follow('09e54ff4-87f4-47b8-1803-08db4f2783cf');" href="javascript:void(0);">关注我</a>
+    <a id="green_channel_favorite" onclick="AddToWz(cb_entryId);return false;" href="javascript:void(0);">收藏该文</a>
+    <a id="green_channel_wechat" href="javascript:void(0);" onclick="shareManager.wechatShare()">微信分享</a>
+</div>
+<div id="author_profile">
+    <div id="author_profile_info" class="author_profile_info">
+            <a href="https://home.cnblogs.com/u/volcengine-developer/" target="_blank"><img src="https://pic.cnblogs.com/face/3223453/20230616150840.png" class="author_avatar" alt=""></a>
+        <div id="author_profile_detail" class="author_profile_info post-detail-profile">
+            <a href="https://home.cnblogs.com/u/volcengine-developer/">火山引擎开发者社区</a>
+            <br>
+            <a href="https://home.cnblogs.com/u/volcengine-developer/followers/">粉丝 - <span class="follower-count">6</span></a>
+            <a href="https://home.cnblogs.com/u/volcengine-developer/followees/">关注 - <span class="following-count">0</span></a><br>
+        </div>
+    </div>
+    <div class="clear"></div>
+    <div id="author_profile_honor"></div>
+    <div id="author_profile_follow" class="follow-tip">
+                <a href="javascript:void(0);" onclick="follow('09e54ff4-87f4-47b8-1803-08db4f2783cf');return false;">+加关注</a>
+    </div>
+</div>
+<div id="div_digg">
+    <div class="diggit" onclick="votePost(19141157,'Digg')">
+        <span class="diggnum" id="digg_count">0</span>
+    </div>
+    <div class="buryit" onclick="votePost(19141157,'Bury')">
+        <span class="burynum" id="bury_count">0</span>
+    </div>
+    <div class="clear"></div>
+    <div class="diggword" id="digg_tips">
+    </div>
+        <div id="vip_tip"><a class="tip" href="https://cnblogs.vip/" target="_blank">升级成为会员</a></div>
+</div>
+
+<script type="text/javascript">
+    currentDiggType = 0;
+</script>
+</div>
+    <div class="clear"></div>
+    <div id="post_next_prev"></div>
+</div>
+            </div>
+            <div class="postDesc">posted @ 
+<span id="post-date" data-last-update-days="0" data-date-updated="2025-10-14 15:09">2025-10-14 15:08</span>&nbsp;
+<a href="https://www.cnblogs.com/volcengine-developer">火山引擎开发者社区</a>&nbsp;
+阅读(<span id="post_view_count">122</span>)&nbsp;
+评论(<span id="post_comment_count">0</span>)&nbsp;
+&nbsp;
+<a href="javascript:void(0)" onclick="AddToWz(19141157);return false;">收藏</a>&nbsp;
+<a href="https://report.cnblogs.com?targetLink=https%3A%2F%2Fwww.cnblogs.com%2Fvolcengine-developer%2Farticles%2F19141157&amp;targetId=19141157&amp;targetType=0" target="_blank">举报</a>
+</div>
+        </div>
+        <script>
+    var cb_entryId = 19141157, cb_entryCreatedDate = '2025-10-14 15:08', cb_postType = 2, cb_postTitle = '为 AI Agent 行为立“规矩”——字节跳动提出 Jeddak AgentArmor 智能体安全框架';
+    var allowComments = true, cb_blogId = 796039, cb_blogApp = 'volcengine-developer', cb_blogUserGuid = '09e54ff4-87f4-47b8-1803-08db4f2783cf';
+    mermaidRender.render()
+    markdown_highlight()
+    zoomManager.apply("#cnblogs_post_body img:not(.code_img_closed):not(.code_img_opened)");    
+</script>
+        <a id="!comments"></a>
+<div id="blog-comments-placeholder"></div>
+<div id="comment_form" class="commentform">
+    <a name="commentform"></a>
+    <div id="divCommentShow"></div>
+    <div id="comment_nav">
+        <div class="comment-nav-right">
+            <span id="span_refresh_tips"></span><a href="#" onclick="return RefreshPage();">刷新页面</a><a href="#top">返回顶部</a>
+        </div>
+    </div>
+    <div id="comment_form_container"><div class="login_tips">
+    登录后才能查看或发表评论，立即 <a rel="nofollow" href="javascript:void(0);" class="underline" onclick="return account.login('!comments');">登录</a> 或者
+    <a href="https://www.cnblogs.com/">逛逛</a> 博客园首页
+</div>
+</div>
+    <div class="ad_text_commentbox" id="ad_text_under_commentbox"></div>
+        <div id="cnblogs_ch"><a href="https://harmonyos.cnblogs.com/p/28310" target="_blank" onclick="countCreativeClicks('CH-HarmonyOS')">【推荐】HarmonyOS 6.1.0 创新特性“悬浮页签+沉浸光感”精品文章专题</a><br><a href="https://www.trae.com.cn/?utm_source=advertising&amp;utm_medium=cnblogs_ug_cpa&amp;utm_term=hw_trae_cnblogs" target="_blank" onclick="countCreativeClicks('CH-TRAE')">【推荐】智能无限 | 协作无间，TRAE SOLO 中国版正式上线，全面免费</a><br><a href="https://ais.cn/u/QjqYJr" target="_blank" onclick="countCreativeClicks('CH-艾思科蓝')">【推荐】科研领域的连接者艾思科蓝，一站式科研学术服务数字化平台</a><br><a href="https://www.cnblogs.com/cmt/p/19669319" target="_blank" onclick="countCreativeClicks('CH-JavaAI')">【推荐】飞算 JavaAI 修复器：无限 tokens 加持，Bug 修复快到飞起</a><br></div>
+    <div id="opt_under_post"></div>
+        <div id="blog_c1" class="under-post-card below-post-card">
+            <a href="https://www.volcengine.com/activity/codingplan?utm_campaign=hw&amp;utm_content=hw&amp;utm_medium=devrel_tool_web&amp;utm_source=OWO&amp;utm_term=cnblogs" rel="nofollow" target="_blank" onclick="countCreativeClicks('C1-volcengine-codingplan')">
+                <img src="https://img2024.cnblogs.com/blog/35695/202604/35695-20260423213336272-1914399152.webp" onload="countCreativeImpressions('C1-volcengine-codingplan')" alt="" style="width:300px!important;height:250px!important;min-width:300px!important;max-width:300px!important;">
+                <span id="c1_impression" style="display:none"></span>
+            </a>
+        </div>
+    <div id="under_post_card1"><div class="under-post-card below-post-card">
+<header>编辑推荐：</header>
+<ul>
+    <li><a href="https://www.cnblogs.com/BettaFish/p/20012355" target="_blank">在 Avalonia 中编写高性能动画 </a></li>
+    <li><a href="https://www.cnblogs.com/cswuyg/p/19981922" target="_blank">从 305 GB 到 7.4 GB：大模型 KVCache 架构演进全景</a></li>
+    <li><a href="https://www.cnblogs.com/zhayujie/p/19935607/deepseek-v4-eval" target="_blank">DeepSeek V4模型的Agent能力实测 </a></li>
+    <li><a href="https://www.cnblogs.com/hez2010/p/19891530/union-types-in-csharp-15" target="_blank">C# 15 类型系统改进：Union Types</a></li>
+    <li><a href="https://www.cnblogs.com/wmyskxz/p/19854791" target="_blank">你能被装进一个文件里吗？——7 万人把同事“蒸馏”成了 AI</a></li>
+</ul>
+</div></div>
+    <div id="related_posts_card"></div>
+    <div id="under_post_card2"></div>
+    <div id="HistoryToday" class="under-post-card below-post-card"></div>
+    <script type="text/javascript">
+        var commentManager = new blogCommentManager();
+        commentManager.renderComments(0);
+        fixPostBody();
+        window.footnoteTipManager.generateFootnoteTips();
+
+            window.tocManager.displayDisableTocTips = false;
+            window.tocManager.generateToc();
+            
+            setTimeout(function() { countViews(cb_blogId, cb_entryId); }, 50);
+            
+            deliverT2();
+            deliverC1C2();
+            loadNewsAndKb();
+            
+            LoadPostCategoriesTags(cb_blogId, cb_entryId);
+            
+            LoadPostInfoBlock(cb_blogId, cb_entryId, cb_blogApp, cb_blogUserGuid);
+            GetPrevNextPost(cb_entryId, cb_blogId, cb_entryCreatedDate, cb_postType);
+            loadOptUnderPost();
+            GetHistoryToday(cb_blogId, cb_blogApp, cb_entryCreatedDate);
+                </script>
+</div>
+
+    </div>
+</div>
+            </div>
+        </div>
+
+        <div id="sideBar">
+            <div id="sideBarMain">
+                <div id="sidebar_news" class="newsItem">
+    
+<h3 class="catListTitle">公告</h3>
+<div id="blog-news" class="sidebar-news">
+    <div id="sidebar_news_container"><div id="profile_block" class="sidebar-profile">
+    昵称：
+    <a href="https://home.cnblogs.com/u/volcengine-developer/">
+        火山引擎开发者社区
+    </a>
+    <br>
+    园龄：
+    <a href="https://home.cnblogs.com/u/volcengine-developer/" title="入园时间：2023-06-16">
+        2年10个月
+    </a>
+    <br>
+    粉丝：
+    <a class="follower-count" href="https://home.cnblogs.com/u/volcengine-developer/followers/">
+        6
+    </a>
+    <br>
+    关注：
+    <a class="folowing-count" href="https://home.cnblogs.com/u/volcengine-developer/followees/">
+        0
+    </a>
+    <div id="p_b_follow" class="follow-tip">
+<a href="javascript:void(0)" onclick="follow('09e54ff4-87f4-47b8-1803-08db4f2783cf')">+加关注</a></div>
+    <script>getFollowStatus('09e54ff4-87f4-47b8-1803-08db4f2783cf');</script>
+</div>
+</div>
+</div>
+<script>loadBlogNews();</script>
+</div>
+                <div id="calendar"><div id="blog-calendar" style="">
+
+<table id="blogCalendar" class="Cal" cellspacing="0" cellpadding="0" title="Calendar" border="0">
+    <tbody>
+        <tr>
+            <td colspan="7">
+                <table class="CalTitle" cellspacing="0" border="0">
+                    <tbody>
+                        <tr>
+                            <td class="CalNextPrev">
+                                <a href="javascript:void(0);" onclick="loadBlogCalendar('2026/04/13'); return false;">&lt;</a>
+                            </td>
+                            <td align="center">2026年5月</td>
+                            <td align="right" class="CalNextPrev">
+                                <a href="javascript:void(0);" onclick="loadBlogCalendar('2026/06/13'); return false;">&gt;</a>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    <tr>
+        <th class="CalDayHeader" align="center" abbr="日" scope="col">日</th>
+        <th class="CalDayHeader" align="center" abbr="一" scope="col">一</th>
+        <th class="CalDayHeader" align="center" abbr="二" scope="col">二</th>
+        <th class="CalDayHeader" align="center" abbr="三" scope="col">三</th>
+        <th class="CalDayHeader" align="center" abbr="四" scope="col">四</th>
+        <th class="CalDayHeader" align="center" abbr="五" scope="col">五</th>
+        <th class="CalDayHeader" align="center" abbr="六" scope="col">六</th>
+    </tr>
+            <tr>
+                            <td class="CalOtherMonthDay" align="center">26</td>
+                            <td class="CalOtherMonthDay" align="center">27</td>
+                            <td class="CalOtherMonthDay" align="center">28</td>
+                            <td class="CalOtherMonthDay" align="center">29</td>
+                            <td class="CalOtherMonthDay" align="center">30</td>
+                        <td class="" align="center">
+                            1
+                        </td>
+                    <td class="CalWeekendDay" align="center">
+                        2
+                    </td>
+            </tr>
+                <tr>
+                        <td class="CalWeekendDay" align="center">
+                            3
+                        </td>
+                            <td class="" align="center">
+                                4
+                            </td>
+                            <td class="" align="center">
+                                5
+                            </td>
+                            <td class="" align="center">
+                                6
+                            </td>
+                            <td class="" align="center">
+                                7
+                            </td>
+                            <td class="" align="center">
+                                8
+                            </td>
+                        <td class="CalWeekendDay" align="center">
+                            9
+                        </td>
+                </tr>
+                <tr>
+                        <td class="CalWeekendDay" align="center">
+                            10
+                        </td>
+                            <td class="" align="center">
+                                11
+                            </td>
+                            <td class="" align="center">
+                                12
+                            </td>
+                            <td class="CalTodayDay cal-today" align="center">
+                                13
+                            </td>
+                            <td class="" align="center">
+                                14
+                            </td>
+                            <td class="" align="center">
+                                15
+                            </td>
+                        <td class="CalWeekendDay" align="center">
+                            16
+                        </td>
+                </tr>
+                <tr>
+                        <td class="CalWeekendDay" align="center">
+                            17
+                        </td>
+                            <td class="" align="center">
+                                18
+                            </td>
+                            <td class="" align="center">
+                                19
+                            </td>
+                            <td class="" align="center">
+                                20
+                            </td>
+                            <td class="" align="center">
+                                21
+                            </td>
+                            <td class="" align="center">
+                                22
+                            </td>
+                        <td class="CalWeekendDay" align="center">
+                            23
+                        </td>
+                </tr>
+                <tr>
+                        <td class="CalWeekendDay" align="center">
+                            24
+                        </td>
+                            <td class="" align="center">
+                                25
+                            </td>
+                            <td class="" align="center">
+                                26
+                            </td>
+                            <td class="" align="center">
+                                27
+                            </td>
+                            <td class="" align="center">
+                                28
+                            </td>
+                            <td class="" align="center">
+                                29
+                            </td>
+                        <td class="CalWeekendDay" align="center">
+                            30
+                        </td>
+                </tr>
+                <tr>
+                        <td class="CalWeekendDay" align="center">
+                            31
+                        </td>
+                            <td class="CalOtherMonthDay" align="center">
+                                1
+                            </td>
+                            <td class="CalOtherMonthDay" align="center">
+                                2
+                            </td>
+                            <td class="CalOtherMonthDay" align="center">
+                                3
+                            </td>
+                            <td class="CalOtherMonthDay" align="center">
+                                4
+                            </td>
+                            <td class="CalOtherMonthDay" align="center">
+                                5
+                            </td>
+                        <td class="CalOtherMonthDay" align="center">
+                            6
+                        </td>
+                </tr>
+    </tbody>
+</table></div></div>                
+                <script>loadBlogDefaultCalendar();</script>
+                <div id="leftcontentcontainer">
+                    <!-- begin:SingleColumn -->
+                    <div id="blog-sidecolumn"><div id="sidebar_search" class="sidebar-block">
+    <div class="mySearch my-search">
+        <h3 class="catListTitle">搜索</h3>
+        <div id="sidebar_search_box">
+            <div id="widget_my_zzk" class="div_my_zzk">
+                <input type="text" id="q" onkeydown="return zzk_go_enter(event);" class="input_my_zzk">&nbsp;<input onclick="zzk_go()" type="button" value="找找看" id="btnZzk" class="btn_my_zzk">
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+<div id="sidebar_shortcut" class="sidebar-block">
+    
+<h3 class="catListTitle">
+常用链接
+</h3>
+<ul>
+    <li><a href="https://www.cnblogs.com/volcengine-developer/p/" title="我的博客的随笔列表">我的随笔</a></li>
+<li><a href="https://www.cnblogs.com/volcengine-developer/MyComments.html" title="我的发表过的评论列表" rel="nofollow">我的评论</a></li>
+<li><a href="https://www.cnblogs.com/volcengine-developer/OtherPosts.html" title="我评论过的随笔列表" rel="nofollow">我的参与</a></li>
+<li><a href="https://www.cnblogs.com/volcengine-developer/comments" title="我的博客的评论列表" rel="nofollow">最新评论</a></li>
+<li><a href="https://www.cnblogs.com/volcengine-developer/tag/" title="我的博客的标签列表">我的标签</a></li>
+
+</ul>
+
+</div>
+
+
+
+<div id="sidebar_toptags" class="sidebar-block">
+    <div class="catListTag">
+    <h3 class="catListTitle"><a href="https://www.cnblogs.com/volcengine-developer/tag/" class="sidebar-card-title-a">我的标签</a></h3>
+    <ul>
+                <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/%E7%81%AB%E5%B1%B1%E5%BC%95%E6%93%8E/">火山引擎<span class="tag-count">(96)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/Trae/">Trae<span class="tag-count">(33)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/ai/">ai<span class="tag-count">(33)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8/">字节跳动<span class="tag-count">(29)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/%E6%8A%80%E6%9C%AF/">技术<span class="tag-count">(19)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/%E5%BC%80%E5%8F%91%E8%80%85/">开发者<span class="tag-count">(13)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/">人工智能<span class="tag-count">(12)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/%E4%BA%91%E5%8E%9F%E7%94%9F/">云原生<span class="tag-count">(10)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/MCP/">MCP<span class="tag-count">(8)</span></a>
+        </li>
+        <li>
+            <a href="https://www.cnblogs.com/volcengine-developer/tag/%E6%89%A3%E5%AD%90/">扣子<span class="tag-count">(5)</span></a>
+        </li>
+    <li>
+        <a href="https://www.cnblogs.com/volcengine-developer/tag/">更多</a>
+    </li>
+
+    </ul>
+</div>
+
+</div>
+
+
+
+<div id="sidebar_categories">
+
+    <div class="catListPostArchive">
+        <h3 class="catListTitle">
+            
+随笔档案
+
+
+        </h3>
+        <ul>
+                <li data-category-list-item-visible="true" style="display: block">
+                    <a href="https://www.cnblogs.com/volcengine-developer/p/archive/2024/08" style="--cnb-category-item-link-indent-size: calc(0 * 1em)" class="category-item-link " rel="" target="">2024年8月(1)</a>
+                    
+                </li>
+                <li data-category-list-item-visible="true" style="display: block">
+                    <a href="https://www.cnblogs.com/volcengine-developer/p/archive/2023/10" style="--cnb-category-item-link-indent-size: calc(0 * 1em)" class="category-item-link " rel="" target="">2023年10月(1)</a>
+                    
+                </li>
+                <li data-category-list-item-visible="true" style="display: block">
+                    <a href="https://www.cnblogs.com/volcengine-developer/p/archive/2023/09" style="--cnb-category-item-link-indent-size: calc(0 * 1em)" class="category-item-link " rel="" target="">2023年9月(3)</a>
+                    
+                </li>
+                <li data-category-list-item-visible="true" style="display: block">
+                    <a href="https://www.cnblogs.com/volcengine-developer/p/archive/2023/08" style="--cnb-category-item-link-indent-size: calc(0 * 1em)" class="category-item-link " rel="" target="">2023年8月(3)</a>
+                    
+                </li>
+                <li data-category-list-item-visible="true" style="display: block">
+                    <a href="https://www.cnblogs.com/volcengine-developer/p/archive/2023/07" style="--cnb-category-item-link-indent-size: calc(0 * 1em)" class="category-item-link " rel="" target="">2023年7月(1)</a>
+                    
+                </li>
+                <li data-category-list-item-visible="true" style="display: block">
+                    <a href="https://www.cnblogs.com/volcengine-developer/p/archive/2023/06" style="--cnb-category-item-link-indent-size: calc(0 * 1em)" class="category-item-link " rel="" target="">2023年6月(3)</a>
+                    
+                </li>
+            
+        </ul>
+    </div></div>
+
+<div id="sidebar_topviewedposts" class="sidebar-block">
+    
+<div id="topview_posts_wrap">
+    <h3 class="catListTitle">
+        <a href="https://www.cnblogs.com/volcengine-developer/most-viewed" class="sidebar-card-title-a">
+    阅读排行榜
+</a>
+
+    </h3>
+    <div id="TopViewPostsBlock">
+        <ul style="word-break:break-all">
+                    <li>
+                        <a href="https://www.cnblogs.com/volcengine-developer/p/18356839">
+                            1. 扣子/coze官方团队帮你选出的 AI Agent好文都在这里了！（评论互动100%有奖）(471)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.cnblogs.com/volcengine-developer/p/17516874.html">
+                            2. 火山引擎开发者社区一周资讯精选  2023/06/30(71)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.cnblogs.com/volcengine-developer/p/17503085.html">
+                            3. 火山引擎开发者社区一周资讯精选 2023/06/25(69)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.cnblogs.com/volcengine-developer/p/17687724.html">
+                            4. 火山引擎开发者社区一周资讯精选（9.2-9.8）(61)
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.cnblogs.com/volcengine-developer/p/17485603.html">
+                            5. 火山引擎开发者社区一周资讯精选  2023/06/16(55)
+                        </a>
+                    </li>
+        </ul>
+    </div>
+</div>
+</div>
+
+<div id="sidebar_topcommentedposts" class="sidebar-block">
+    
+</div>
+
+<div id="sidebar_topdiggedposts" class="sidebar-block">
+    
+</div><div id="sidebar_recentcomments" class="sidebar-block">
+    
+</div></div>
+                    <script>loadBlogSideColumn();</script>
+                    <!-- end:  SingleColumn -->
+                </div>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+    <div id="footer">
+        
+<a href="https://www.cnblogs.com/" id="footer_site_link" class="footer-brand">博客园</a>
+<span class="footer-copyright"> &nbsp;©&nbsp; 2004-2026</span>
+<br><span class="footer-icp">
+    <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010602011771"><img src="//assets.cnblogs.com/images/ghs.png">浙公网安备 33010602011771号</a>
+    <a href="https://beian.miit.gov.cn" target="_blank">浙ICP备2021040463号-3</a>
+</span>
+
+    </div>
+</div>
+
+
+    
+
+    <input type="hidden" id="antiforgery_token" value="CfDJ8OBZrxGJLy5MvghieKIKXCy8VjQPdORRuXN_n6q-oJU5FhwGKVm0SHpMjNAtNIvJFd50dEvW8GGhZf1soG53wFOCOE6XOl73WKGtA1m0JnqfL78eXzLurHNxLTavmpkP8GovJNq3da8EA_RlTHX4tT4">
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-M95P3TTWJZ"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-M95P3TTWJZ');
+</script>
+<script defer="" src="https://hm.baidu.com/hm.js?866c9be12d4a814454792b1fd0fed295"></script>
+
+
+<div style="z-index: 998; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0, 0, 0, 0.6); display: none; flex-direction: column; align-items: center; justify-content: center">
+<div style="background: #fff;padding: 30px; margin: 30px; border-radius: 16px;">
+  <div style="width: 200px; height: 200px; background: rgba(255, 255, 255, 0.8); position: absolute; top: -100px; right: -100px; border-radius: 100px"></div>
+  <div style="text-align: center; font-size: 18px; margin-bottom: 10px;">点击右上角即可分享</div>
+  <img src="https://img2023.cnblogs.com/blog/35695/202309/35695-20230906145857937-1471873834.gif" alt="微信分享提示">
+</div>   
+    </div></body></html>
