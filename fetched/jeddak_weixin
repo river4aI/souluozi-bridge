@@ -1,0 +1,231 @@
+
+<!doctype html>
+<html>
+<head>
+    <link rel="shortcut icon" href="//www.sogou.com/images/logo/new/favicon.ico?v=4" type="image/x-icon">
+    <link href="//dlweb.sogoucdn.com/logo/images/2018/apple-touch-icon.png" id="apple-touch-icon" rel="apple-touch-icon-precomposed"/>
+    <link href="//www.sogou.com/sug/css/m3.min.v.7.css" rel="stylesheet" type="text/css">
+    <link href="/new/pc/css/weixin-public-20230731.css" rel="stylesheet" type="text/css">
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Access-Control-Allow-Origin" content="*">
+    <meta content="width=device-width,initial-scale=1.0" id="vp" name="viewport">
+    <title>涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor的相关微信公众号文章 – 搜狗微信搜索</title>
+    
+    <script>
+        var sst = {h_s :(new Date()).getTime()};
+        var newpage = 1;
+        var passportUserId = "";
+        var oldQuery = "涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor";
+        var gbkQuery = "%E4%B8%BA%41I+Agent+%E8%A1%8C%E4%B8%BA%E7%AB%8B%E8%A7%84%E7%9F%3F+%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8+Jeddak+AgentArmor";
+        var uuid = "7d1054d5-1231-4953-8ade-cd1ec80d185f";
+        var keywords_string = "涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor";
+        var sab = "8";
+        var keywords = oldQuery.split(' ');
+        var now = 1778636400649;
+        var idc = "sjs";
+        var clientIp = "172.178.119.39";
+        var isIpad = false;
+        //var article_anti_url = "";
+        var  ssToken = "empty";
+    </script>
+    <script>
+        //以下为动态的全局 js，防止外部网站通过 window.opener.location 篡改我们的页面，以后不要通过 window.location 获取当前地址，只能用 document.location
+        
+    </script>
+    <script src="/js/jquery-1.11.0.min.js" charset="gbk"></script>
+    <script src="/new/pc/js/https_util.min.js?v=20180607"></script>
+    <script src="/js/lib/juicer-min.js"></script>
+    <script src="/new/weixin/js/common.min.js?v=20200414"></script>
+    <script src="/new/pc/js/common.min.js?v=20180607"></script>
+    
+    <script>
+        var uigs_para = {
+            "uigs_t": "1778636400649",
+            "uigs_productid": "vs_web",
+            "terminal"      : "web",
+            "vstype"        : "weixin",
+            "pagetype"      : "result",
+            "channel"       : "result_article",
+            "s_from"        : "",
+            "sourceid"      : "",
+            "type"          : "weixin_search_pc",
+            "uigs_cookie"   : "SUID,sct",
+            "uuid"          : "7d1054d5-1231-4953-8ade-cd1ec80d185f",
+            "query"         : "涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor",
+            "weixintype"    : "2",
+            "exp_status"    : "-1",
+            "exp_id_list"   : "0_0",
+            "wuid"          : "",
+            "snuid"         : "104F859B383E669E39EFA70F38494CD2",
+            "rn"            : 0,
+            "login"         : passportUserId ? "1" : "0",
+            "uphint"        : 0,
+            "bottomhint"    : 0,
+            "page"          : "1"
+        };
+        $.get('/approve?uuid=' + window.uigs_para.uuid + '&token=' + "empty" + '&from=search');
+    </script>
+</head>
+<body>
+    
+
+<!--start header-->
+<div class="header-box">
+    
+    <div class="login-info">
+        <a href="javascript:void(0)" id="cniil_wza" style="text-decoration: none;color: #999;padding-right: 20px;border-right: 1px solid #e7e7e7;line-height: 14px;margin-right: 20px;">无障碍</a>
+        <a id="top_login" href="javascript:void(0);" uigs="home_login_top">登录</a>
+    </div>
+
+    <div class="header" id="scroll-header">
+        <a title="回到搜狗首页" href="/" name="scroll-nav" class="logo" uigs="home"></a>
+        <ul class="searchnav" name="scroll-nav">
+            <li><a id="sogou_xinwen" href="https://www.sogou.com/sogou?ie=utf8&p=40230447&interation=1728053249&interV=&pid=sogou-wsse-7050094b04fd9aa3&query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=');" uigs="nav_xinwen">资讯</a></li>
+            <li><a id="sogou_wangye" href="http://www.sogou.com/web?ie=utf8&query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=');" uigs="nav_wangye">网页</a></li>
+            <li class="cur"><a href="javascript:void(0)">微信</a></li>
+            <li><a id="sogou_zhihu" href="http://zhihu.sogou.com/zhihu?ie=utf8&p=73351201&query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=')" uigs="nav_zhihu">知乎</a></li>
+            <li><a id="sogou_tupian" href="http://pic.sogou.com/pics?ie=utf8&p=40230504&query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=')" uigs="nav_tupian">图片</a></li>
+            <li><a id="sogou_shipin" href="https://v.sogou.com/v?ie=utf8&p=40230608&query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=')" uigs="nav_shipin">视频</a></li>
+            <li><a id="sogou_mingyi" href="https://www.sogou.com/web?m2web=mingyi.sogou.com&ie=utf8&query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=')" uigs="nav_mingyi">医疗</a></li>
+            <li><a id="sogou_hanyu" href="https://hanyu.sogou.com/result?query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=')" uigs="nav_hanyu">汉语</a></li>
+            <li><a id="sogou_fanyi" href="https://fanyi.sogou.com/text?ie=utf8&keyword=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'keyword=')" uigs="nav_fanyi">翻译</a></li>
+            <li><a id="sogou_wenwen" href="http://wenwen.sogou.com/s/?ch=weixinsearch&w=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" data-index="http://wenwen.sogou.com/?ch=weixinsearch" onclick="navBar(this,'w=')" uigs="nav_wenwen">问问</a></li>
+            <li><a id="sogou_baike" href="https://www.sogou.com/sogou?ie=utf8&insite=baike.sogou.com&pid=sogou-wsse-17737832ac17be52&query=涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" onclick="navBar(this,'query=')" uigs="nav_baike">百科</a></li>
+            <li><a id="top_more" href="http://www.sogou.com/docs/more.htm?v=1" target="_blank" uigs="nav_more">更多>></a></li>
+        </ul>
+        
+
+<form name="searchForm" action="/weixin">
+    <div class="querybox">
+        <div class="qborder">
+            <div class="qborder2">
+                <input type="hidden" name="type" value="2"/>
+                <input type="hidden" name="s_from" value="input"/>
+                <input type="text" class="query" name="query" id="query" ov="涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" value="涓篈I Agent 琛屼负绔嬭鐭� 瀛楄妭璺冲姩 Jeddak AgentArmor" autocomplete="off"/>
+                
+                    <input type="hidden" name="ie" value="utf8"/>
+                
+                <a href="javascript:void(0)" class="qreset2" name="reset" uigs="search_reset"></a>
+            </div>
+        </div>
+        <input type="button" value="搜文章" class="swz" onclick="search(this,2)" uigs="search_article"/>
+        <input type="hidden" name="_sug_" value="n"/>
+        <input type="hidden" name="_sug_type_" value=""/>
+    </div>
+</form>
+    </div>
+</div>
+<!--end header-->
+    
+    <div class="wrapper" id="wrapper">
+        <div class="main-left" id="main">
+            
+<div class="dy-pop2 dy-pop5 float" id="erweima_box" style="display: none"></div>
+<script type="text/template" id="erweima_tpl">
+    <a href="javascript:void(0)" class="close" data-except="1" uigs="other_float_weixin_close"></a>
+    <div class="fxico-box2">微信扫一扫关注<br/><img width="104" height="104" src="${imgsrc}"/></div>
+</script>
+            
+
+<script>
+    //高级工具参数对象
+    var toolParas = {
+        tsn : '0',
+        ft : '',
+        et : '',
+        interation : '',
+        wxid : '',
+        usip : ''
+    };
+    var from_tool = '0';
+</script>
+<div class="wx-topbox">
+    <div class="all-time">
+        <div class="all-time-y2 ">
+            <div class="all-time-y all-time-y-v1" id="text">
+                以下内容来自微信公众平台
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="news-box">
+    
+</div>
+
+
+<script>
+    $(".news-box").remove();
+</script>
+
+<div class="b404-box" id="noresult_part1_container" style="padding-right:40px; width:530px">
+	<img src="/new/pc/images/bg_404_2.png" width="217" height="217">
+	<div class="text-info" style="left:280px">
+		<p class="p1">呀！</p>
+		<p class="p3">
+		没有找到相关的微信公众号文章。
+		</p>
+	</div>
+</div>
+
+
+        </div>
+        
+            <div class="snb-right" id="right">
+                
+            </div>
+        
+    </div>
+    <div class="back-top" style="display: none;"><a href="javascript:void(0);" uigs="other_float_back_top"></a></div>
+    
+<div class="footer-box" id="s_footer">
+    <div class="footer">
+        <a id="sogou_webhelp" href="http://help.sogou.com/" target="_blank" uigs="bottom_ssbz">搜索帮助</a>&nbsp;<a href="https://fankui.sogou.com/index.php/web/web/index/type/4" target="_blank" uigs="bottom_yjfk">意见反馈及投诉</a>&nbsp;&copy;&nbsp;2026&nbsp;SOGOU.COM&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.sogou.com/docs/terms.htm" target="_blank" uigs="bottom_mzsm">免责声明</a>&nbsp;<a href="http://corp.sogou.com/private.html" target="_blank" uigs="bottom_yszc">隐私政策</a>
+    </div>
+</div>
+    
+        <script src="/new/pc/js/article.min.js?v=20161212"></script>
+    
+    <script>
+        var WX_SUGG_PAGE_FROM="pcArtSearch";
+        
+        var SugPara = {
+            "bigsize":true,
+            "enableSug":true,
+            "sugType":"wxart",
+            "domain":"w.sugg.sogou.com",
+            "productId":"web",
+            "sugFormName":"sf",
+            "submitId":"stb",
+            "suggestRid":"01015002",
+            "normalRid":"01019900",
+            "oms":1,
+            "nofixwidth":1,
+            "useParent":1
+        };
+        uigs_para.exp_id = "";
+        uigs_para.exp_id = uigs_para.exp_id.substring(0, uigs_para.exp_id.length - 1);
+    </script>
+    <script src="/new/weixin/js/uigs.min.js?v=20180607"></script>
+    <script src="/new/pc/js/log.min.js?v=20170321"></script>
+    <script src="/new/pc/js/event.min.js?v=20190822"></script>
+    <script src="/new/pc/js/search.min.js?v=20161107"></script>
+    <script src="/new/pc/js/suggestion.js?v=20231218"></script>
+    <script src="/new/weixin/js/form.min.js?v=20170101"></script>
+    
+
+<script>
+    (function(){$("a").on("mousedown click contextmenu",function(){var b=Math.floor(100*Math.random())+1,a=this.href.indexOf("url="),c=this.href.indexOf("&k=");-1!==a&&-1===c&&(a=this.href.substr(a+4+parseInt("21")+b,1),this.href+="&k="+b+"&h="+a)})})();
+</script>
+
+    <script defer async type="text/javascript" src="//dlweb.sogoucdn.com/barrier_free/pc/wzaV10/aria.js?appid=c4d5562ec7daa12a5a351cbe1a292da1" charset="utf-8"></script>
+</body>
+</html>
+<!--1778636400649-->
+<!--lyc-->
