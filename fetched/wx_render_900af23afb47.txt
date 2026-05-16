@@ -211,10 +211,10 @@ window.cgiData = {
     register_code : "4" * 1,
     target_url : "https://mp.weixin.qq.com/s/z4257_ENfqrCokrFF_Tn9w",
     cap_appid : "2003810213",
-    cap_sid : "16763955671936202314",
-    poc_sid : "HILRB2qjBOMoHNYEWpOtbjTu2LFD7LBwrI7qNAA3",
+    cap_sid : "9121118598884328752",
+    poc_sid : "HPzRB2qj1p6DWKqMsQIf5lufDwhXzMFHYxhK0hE5",
     timeout_ms : "120000" * 1,
-    poc_token : "HILRB2qjoUAeQrvL0QO6_rHLUP8K05KZcEL4pcCz",
+    poc_token : "HPzRB2qjpr_u4LRnCEFQ--KoUxGqO9H8MAymeMRS",
 }
 console.log('window.cgiData', window.cgiData);
 seajs.use('secitptpage/template/verify.js')
