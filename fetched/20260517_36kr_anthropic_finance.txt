@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html data-path="/search/:entity_key/:keyword"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, viewport-fit=cover">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="og:url" content="https://www.36kr.com/search/articles/anthropic%20%E9%87%91%E8%9E%8D%20%E6%99%BA%E8%83%BD%E4%BD%93"><meta name="og:type" content="article"><meta property="article:published_time" content="2026-05-17T23:19:34+08:00"><meta data-react-helmet="true" name="renderer" content="webkit"><meta data-react-helmet="true" name="apple-mobile-web-app-title" content="Title"><meta data-react-helmet="true" name="apple-mobile-web-app-capable" content="yes"><meta data-react-helmet="true" name="apple-mobile-web-app-status-bar-style" content="black"><meta data-react-helmet="true" name="HandheldFriendly" content="True"><meta data-react-helmet="true" name="MobileOptimized" content="320"><meta data-react-helmet="true" name="applicable-device" content="pc"><meta data-react-helmet="true" name="format-detection" content="telephone=no"><meta data-react-helmet="true" property="og:description" content="36氪为您提供创业资讯、科技新闻、投融资对接、股权投资、极速融资等创业服务，致力成为创业者可以依赖的创业服务平台，为创业者提供最好的产品和服务。"><meta data-react-helmet="true" property="og:image" content="https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg"><meta data-react-helmet="true" property="og:title" content="36氪_让一部分人先看到未来"><meta data-react-helmet="true" name="description" content="36氪为您提供创业资讯、科技新闻、投融资对接、股权投资、极速融资等创业服务，致力成为创业者可以依赖的创业服务平台，为创业者提供最好的产品和服务。"><meta data-react-helmet="true" name="keywords" content="创业,互联网创业,互联网创业项目"><meta data-react-helmet="true" name="baidu-site-verification" content="ET7tYDCqIv"><meta data-react-helmet="true" name="shenma-site-verification" content="8d43b014716644e38cc8fff2051c47a0_1623316092"><meta data-react-helmet="true" name="360-site-verification" content="b14201a8708468357bd6fab4ad556b78"><meta data-react-helmet="true" name="sogou_site_verification" content="5ZZdpkOf3U">
+    <title>anthropic 金融 智能体相关文章_36氪</title>
+    <link href="//staticx.36krcdn.com/36kr-web/static/app.6de6ab57.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//staticx.36krcdn.com/36kr-web/static/search-result.ab51e05c.css">
+    
+    <link data-react-helmet="true" href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><link data-react-helmet="true" rel="dns-prefetch" href="//sta.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//pic.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//static.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//img.36krcdn.com"><link data-react-helmet="true" rel="dns-prefetch" href="//file.36krcdn.com"><link data-react-helmet="true" href="/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"><script async="" src="https://static.sensorsdata.cn/sdk/1.12.5/sensorsdata.min.js" charset="UTF-8"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script src="https://hm.baidu.com/hm.js?713123c60a0e86982326bae1a51083e1"></script><script src="https://hm.baidu.com/hm.js?1684191ccae0314c6254306a8333d090"></script><script src="https://zz.bdstatic.com/linksubmit/push.js"></script><script data-react-helmet="true">
+      window.WEIXINSHARE = {
+        shareTitle: "36氪_让一部分人先看到未来",
+        shareImg: "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg",
+        imgUrl: "https://img.36krcdn.com/20191024/v2_1571894049839_img_jpg",
+        shareDesc: "36氪为您提供创业资讯、科技新闻、投融资对接、股权投资、极速融资等创业服务，致力成为创业者可以依赖的创业服务平台，为创业者提供最好的产品和服务。"
+      }
+    </script><script data-react-helmet="true">
+      (function () {
+        var bp = document.createElement('script');
+        var curProtocol = window.location.protocol.split(':')[0];
+        if (curProtocol === 'https') {
+          bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+        }
+        else {
+          bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+        }
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(bp, s);
+      })();
+      </script><script data-react-helmet="true">
+      // sem 统计代码
+      var _hmt= _hmt||[];
+      (function(){
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?1684191ccae0314c6254306a8333d090";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm,s);
+      })();
+    </script><script data-react-helmet="true">
+      //百度统计代码
+      var _hmt = _hmt || [];
+      (function () {
+          var hm = document.createElement('script');
+          hm.src = "https://hm.baidu.com/hm.js?713123c60a0e86982326bae1a51083e1";
+          var s = document.getElementsByTagName('script')[0];
+          s.parentNode.insertBefore(hm, s);
+      })();
+    </script><script data-react-helmet="true">
+        // 给百度seo主动推送,  文明确认
+        (function () {
+          var bp = document.createElement('script');
+          var curProtocol = window.location.protocol.split(':')[0];
+          if (curProtocol === 'https') {
+            bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+          }
+          else {
+            bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+          }
+          var s = document.getElementsByTagName("script")[0];
+          s.parentNode.insertBefore(bp, s);
+        })();
+      </script><script data-react-helmet="true">
+        // 神策统计代码
+        (function(para) {
+          var p = para.sdk_url, n = para.name, w = window, d = document, s = 'script',x = null,y = null;
+          w['sensorsDataAnalytic201505'] = n;
+          w[n] = w[n] || function(a) {return function() {(w[n]._q = w[n]._q || []).push([a, arguments]);}};
+          var ifs = ['track','quick','register','registerPage','registerOnce','trackSignup', 'trackAbtest', 'setProfile','setOnceProfile','appendProfile', 'incrementProfile', 'deleteProfile', 'unsetProfile', 'identify','login','logout','trackLink','clearAllRegister','getAppStatus'];
+          for (var i = 0; i < ifs.length; i++) {
+            w[n][ifs[i]] = w[n].call(null, ifs[i]);
+          }
+          if (!w[n]._t) {
+            x = d.createElement(s), y = d.getElementsByTagName(s)[0];
+            x.async = 1;
+            x.src = p;
+            x.setAttribute('charset','UTF-8');
+            y.parentNode.insertBefore(x, y);
+            w[n].para = para;
+          }
+        })({
+          sdk_url: 'https://static.sensorsdata.cn/sdk/1.12.5/sensorsdata.min.js',
+          heatmap_url: 'https://static.sensorsdata.cn/sdk/1.12.5/heatmap.min.js',
+          name: 'sa',
+          web_url: 'https://data.corp.36kr.com/',
+          server_url: "https://36kr.com/global/sensors/sa/sa",
+          heatmap:{
+            //default 表示开启，自动采集 $WebClick 事件，可以设置 'not_collect' 表示关闭。
+            clickmap:'default',
+            //default 表示开启，自动采集 $WebStay 事件，可以设置 'not_collect' 表示关闭。
+            scroll_notice_map:'default'
+          },
+          source_type: {
+            search: ['//baidu.com', 'cn.bing.com', '//sm.cn', 'quark.sm.cn'],
+            social: ['.facebook.com'],
+          },
+          show_log: false,
+        });
+        (function(){
+          const cookies = {};
+          document.cookie.split('; ').forEach((c) => {
+            const key = c.split('=')[0];
+            const value = c.split('=')[1];
+            cookies[key] = value;
+          });
+          const userid = cookies["userId"];
+          const cid = cookies["kr_stat_uuid"];
+          if (userid) {
+            sa.login(userid);
+          } else {
+            sa.login(cid);
+          }
+
+          sa.quick('autoTrack');
+        })();
+      </script><script data-react-helmet="true">
+        window.onload = function () {
+          if (window.appletSa || sessionStorage.getItem('appletSa')) {
+            sessionStorage.setItem('appletSa', window.appletSa || sessionStorage.getItem('appletSa'))
+            sa.track('MediaPageVIew', {media_event_value: window.appletSa})
+          }
+        }
+      </script><script>var __assign = (this && this.__assign) || function () {
+    __assign = Object.assign || function(t) {
+        for (var s, i = 1, n = arguments.length; i < n; i++) {
+            s = arguments[i];
+            for (var p in s) if (Object.prototype.hasOwnProperty.call(s, p))
+                t[p] = s[p];
+        }
+        return t;
+    };
+    return __assign.apply(this, arguments);
+};
+// 埋点需求详情 https://shimo.im/sheets/aJg66OpLVX0PGC28/
+/*****工具方法*****/
+function isNumber(path) {
+    return !isNaN(Number(path));
+}
+function isObj(key) {
+    return typeof key === 'object';
+}
+/**
+ * 判断obj中是否有key这个属性
+ * @param obj {object}
+ * @param key {string}
+ */
+function objHasKey(obj, key) {
+    return obj.hasOwnProperty(key);
+}
+/**
+ * @param {{
+  *  control: Boolean,
+  *  key: string,
+  *  value: string,
+  *  data?: obj,
+  *  elseValue?: string
+  * }} option
+  *
+  * 参数说明：
+  * control 判断条件
+  * data 最终返回的对象
+  * key 添加到data中的属性
+  * value 要添加的值
+  * elseValue 如果control不成立，添加到data的值 传入此参数则添加，不传则不会添加
+  */
+function setProperty(option) {
+    var _a = option.data, data = _a === void 0 ? {} : _a, key = option.key, value = option.value, control = option.control, elseValue = option.elseValue;
+    if (control) {
+        data[key] = value;
+    }
+    else if (elseValue) {
+        data[key] = elseValue;
+    }
+    return data;
+}
+function getClass(attributes) {
+    var classObj = attributes.class || {};
+    return classObj.value || "";
+}
+var Platform;
+(function (Platform) {
+    Platform["H5"] = "H5";
+    Platform["WEB"] = "web";
+})(Platform || (Platform = {}));
+;
+function judgePlatform(userAgent) {
+    if (!userAgent && typeof window !== 'undefined') {
+        userAgent = navigator.userAgent;
+    }
+    if (!userAgent)
+        return Platform.WEB;
+    if (userAgent.match(/iPad|iPhone/i)) {
+        return Platform.H5;
+    }
+    else if (userAgent.match(/Android/i)) {
+        return Platform.H5;
+    }
+    return Platform.WEB;
+}
+/*****工具方法end*****/
+/**
+ * 统计点击跳转外链的数据
+ * 包括media_content_id、media_event_value、source_id、media_source
+ * @param {String} hrefValue
+ */
+function externalLink(hrefValue) {
+    var data = {};
+    var externalLinkList = [
+        { pathKey: '/', mediaSourceValue: 'page_home' },
+        { pathKey: 'p', mediaSourceValue: 'article' },
+        { pathKey: 'newsflashes', mediaSourceValue: 'newsflash', subPathNotNumMediaSourceValue: 'page_newsflashes' },
+        { pathKey: 'topics', mediaSourceValue: 'topics' },
+    ];
+    var pathInfo = new PathInfo(window.location.pathname);
+    // 记录外链url
+    data.media_content_id = hrefValue;
+    // 详情页中（当前地址包含ID），含有外链，发送source_id
+    Object.assign(data, setProperty({
+        control: isNumber(pathInfo.sub),
+        key: 'source_id',
+        value: pathInfo.sub,
+    }));
+    // 地方站 外链记录media_event_value
+    if (pathInfo.root === 'local') {
+        data.media_event_value = 'local_' + pathInfo.sub;
+    }
+    return Object.assign(data, genMediaSource(externalLinkList, isNumber(pathInfo.sub)));
+}
+/**
+ * 统计点击跳转www.36kr.com内链的数据
+ * 根据主站路由规则,分析点击的地址
+ * 收集source_id、media_source、media_event_value、media_content_type、media_content_id
+ * @param {String} hrefValue
+ * @param {String} className 点击的a标签所带class
+ */
+function internalLink(hrefValue, className) {
+    var pageInfo = new PageInfo(hrefValue);
+    var data = {};
+    /* 聚合页跳转id */
+    Object.assign(data, setProperty({
+        control: pageInfo.currentPath.sub && isNumber(pageInfo.currentPath.sub) && pageInfo.destPath.sub && isNumber(pageInfo.destPath.sub),
+        key: 'source_id',
+        value: pageInfo.currentPath.sub,
+    }));
+    /* 搜索结果、资讯、地方 */
+    Object.assign(data, genMediaEventValue(hrefValue));
+    // 文章详情含有跳转链接
+    Object.assign(data, setProperty({
+        control: pageInfo.currentPath.root === 'p' && isNumber(pageInfo.currentPath.sub) && isNumber(pageInfo.destPath.sub),
+        key: 'media_source',
+        value: 'article',
+    }));
+    /* 不同页面，进入详情页 */
+    Object.assign(data, intoDetailPage(pageInfo.destPath.sub));
+    /* 添加media_conten_type 针对相应页面添加属性 */
+    Object.assign(data, genContentTypeAndId(hrefValue, className));
+    return data;
+}
+/**
+ * 获取media_event_value统一方法
+ * 点击搜索结果list和地方站list跳转到详情页
+ * @param currentPath
+ * @param subHref
+ */
+function genMediaEventValue(hrefValue) {
+    var data = {};
+    var key = 'media_event_value';
+    var pageInfo = new PageInfo(hrefValue);
+    var genMediaEventValueList = [
+        { pathKey: 'search', subPathList: [
+                { key: 'articles', value: 'search_articles' },
+                { key: 'newsflashes', value: 'search_flashnews' },
+                { key: 'video', value: 'search_videos' },
+                { key: 'monographic', value: 'search_topics' },
+                { key: 'user', value: 'search_writer' },
+            ] },
+        { pathKey: 'information', subPathList: [
+                'web_news', 'contact', 'enterpriseservice', 'happy_life', 'travel',
+                'real_estate', 'web_recommend', 'technology', { key: 'zhichang', value: 'web_zhichang' }, 'innovate',
+            ] },
+        { pathKey: 'local' }
+    ];
+    for (var _i = 0, genMediaEventValueList_1 = genMediaEventValueList; _i < genMediaEventValueList_1.length; _i++) {
+        var pathItem = genMediaEventValueList_1[_i];
+        if (pageInfo.currentPath.root === pathItem.pathKey) {
+            if (pageInfo.currentPath.root === 'local') {
+                // 城市
+                data.media_event_value = 'local_' + pageInfo.currentPath.sub;
+            }
+            else {
+                for (var _a = 0, _b = pathItem.subPathList; _a < _b.length; _a++) {
+                    var subPathItem = _b[_a];
+                    var value = isObj(subPathItem) ? subPathItem.value : subPathItem;
+                    var subPathKey = isObj(subPathItem) ? subPathItem.key : subPathItem;
+                    if (pageInfo.currentPath.sub === subPathKey) {
+                        Object.assign(data, setProperty({
+                            control: isNumber(pageInfo.destPath.sub),
+                            key: key,
+                            value: value,
+                        }));
+                    }
+                }
+            }
+        }
+    }
+    return data;
+}
+/**
+ * 不同页面点击详情链接跳转到详情页，添加media_source
+ * @param subHref
+ */
+function intoDetailPage(subHref) {
+    var pathInfo = new PathInfo(window.location.pathname);
+    var intoDetailPageList = [
+        { pathKey: '/', mediaSourceValue: 'page_home' },
+        { pathKey: '/video', mediaSourceValue: 'page_video' },
+        { pathKey: '/topics', mediaSourceValue: 'page_topics' },
+        { pathKey: 'newsflashes', control: isNumber(pathInfo.sub), mediaSourceValue: 'newsflash', subPathNotNumMediaSourceValue: 'page_newsflashes' },
+        { pathKey: 'information', mediaSourceValue: 'page_information' },
+        { pathKey: 'search', mediaSourceValue: 'page_search' },
+        { pathKey: 'Calendar', mediaSourceValue: 'calendar' },
+        { pathKey: 'user', mediaSourceValue: 'user' },
+        { pathKey: 'motif', mediaSourceValue: 'motif' },
+        { pathKey: 'topics', mediaSourceValue: 'topics' },
+        { pathKey: 'video', mediaSourceValue: 'video' },
+        { pathKey: 'audio', mediaSourceValue: 'audio' },
+    ];
+    return genMediaSource(intoDetailPageList, isNumber(subHref));
+}
+/**
+ * 获取media_source统一方法
+ * 记录从何处跳转到的详情页
+ * @param pathList
+ * @param control
+ */
+function genMediaSource(pathList, control) {
+    var pathInfo = new PathInfo(window.location.pathname);
+    var key = 'media_source';
+    var data = {};
+    for (var _i = 0, pathList_1 = pathList; _i < pathList_1.length; _i++) {
+        var pathItem = pathList_1[_i];
+        if (pathInfo.path === pathItem.pathKey) {
+            data.media_source = pathItem.mediaSourceValue;
+        }
+        else if (pathInfo.root === pathItem.pathKey && pathInfo.sub) {
+            Object.assign(data, setProperty({
+                control: objHasKey(pathItem, 'control') ? pathItem.control : control,
+                key: key,
+                value: pathItem.mediaSourceValue,
+                elseValue: pathItem.subPathNotNumMediaSourceValue || null,
+            }));
+        }
+    }
+    return data;
+}
+/**
+ * 记录跳转到的具体内容类型和具体内容id
+ * @param hrefValue
+ * @param className
+ */
+function genContentTypeAndId(hrefValue, className) {
+    // 设置media_content_type和media_content_id
+    var pageInfo = new PageInfo(hrefValue);
+    var genContentTypeAndIdList = [
+        {
+            key: 'p',
+            setData: {
+                media_content_type: 'article',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'newsflashes',
+            setData: {
+                media_content_type: 'flashnews',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'video',
+            setData: {
+                media_content_type: 'video',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'v-video',
+            setData: {
+                media_content_type: 'video_portrait',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'topics',
+            setData: {
+                media_content_type: 'topic',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'motif',
+            setData: {
+                media_content_type: (function () {
+                    // TODO 这里声明了一个自执行函数，判断是否为商业主题后，给media_conten_type不同的值，可否优化?
+                    var isMotifList = pageInfo.currentPath.root === 'motif-catalog' && pageInfo.currentPath.sub === 'recomend';
+                    var isHomeEntry = className.includes('businessMotifHome-main-item-top-a');
+                    var isBusinessMotif = isMotifList || isHomeEntry;
+                    return isBusinessMotif ? 'business_motif' : 'motif';
+                })(),
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'user',
+            setData: {
+                media_content_type: 'user',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+        {
+            key: 'column',
+            setData: {
+                media_content_type: 'audio',
+                media_content_id: pageInfo.destPath.sub,
+            }
+        },
+    ];
+    var data = {};
+    if (!isNumber(pageInfo.destPath.sub))
+        return data;
+    for (var _i = 0, genContentTypeAndIdList_1 = genContentTypeAndIdList; _i < genContentTypeAndIdList_1.length; _i++) {
+        var hrefItem = genContentTypeAndIdList_1[_i];
+        if (pageInfo.destPath.root === hrefItem.key) {
+            data = hrefItem.setData;
+        }
+    }
+    return data;
+}
+/**
+ * 根据高阶组件中，向a标签插入的属性
+ * 收集对应的广告信息 和 从哪个具体推荐位跳转到的详情页
+ * 对应的广告信息有
+ * @param elementTarget 点击的a标签
+ */
+function genPropertyAccordingToAttribute(elementTarget) {
+    // 推荐位跳转到详情页
+    var operation_list = elementTarget.getAttribute('sensors_operation_list');
+    // 运营位上具体第几帧、第几位、日签的日期
+    var index_num = elementTarget.getAttribute('sensors_index_num');
+    // 广告事件： 1、曝光  2、点击
+    var operate_type = elementTarget.getAttribute('sensors_operate_type');
+    // 具体广告位置id
+    var position_id = elementTarget.getAttribute('sensors_position_id');
+    // 具体广告的plan_id
+    var plan_id = elementTarget.getAttribute('sensors_media_content_id');
+    var genPropertyAccordingToAttributeList = [
+        {
+            control: operation_list === 'page_flow' && window.location.pathname === '/',
+            key: 'operation_list',
+            value: 'latest_articles',
+            elseValue: 'page_flow'
+        },
+        {
+            control: operation_list === 'banner',
+            key: 'operation_list',
+            value: 'banner'
+        },
+        {
+            control: operation_list === 'banner_right',
+            key: 'operation_list',
+            value: 'banner_right'
+        },
+        {
+            control: operation_list === 'author_latest_article',
+            key: 'operation_list',
+            value: 'author_latest_article'
+        },
+        {
+            control: operation_list === 'specialtopic_recommend',
+            key: 'operation_list',
+            value: 'specialtopic_recommend'
+        },
+        {
+            control: operation_list === 'video_recommend',
+            key: 'operation_list',
+            value: 'video_recommend'
+        },
+        {
+            control: operation_list === 'dailyword',
+            key: 'operation_list',
+            value: 'dailyword'
+        },
+        {
+            control: operation_list === 'latest_newsflash',
+            key: 'operation_list',
+            value: 'latest_newsflash'
+        },
+        {
+            control: operation_list === 'business_motif',
+            key: 'operation_list',
+            value: 'business_motif'
+        },
+        {
+            control: operation_list === 'hotlist',
+            key: 'operation_list',
+            value: 'hotlist'
+        },
+        {
+            control: operation_list === 'latest_videos',
+            key: 'operation_list',
+            value: 'latest_videos'
+        },
+        {
+            control: operation_list === 'recommend_motif',
+            key: 'operation_list',
+            value: 'recommend_motif'
+        },
+        {
+            control: operation_list === 'hot_author',
+            key: 'operation_list',
+            value: 'hot_author'
+        },
+        {
+            control: operation_list === 'next_card',
+            key: 'operation_list',
+            value: 'next_card'
+        },
+        {
+            control: index_num,
+            key: 'media_index_number',
+            value: index_num
+        },
+        {
+            control: operate_type,
+            key: 'operate_type',
+            value: operate_type
+        },
+        {
+            control: position_id,
+            key: 'position_id',
+            value: position_id
+        },
+        {
+            control: plan_id,
+            key: 'media_content_id',
+            value: plan_id
+        },
+        {
+            control: operate_type || position_id,
+            key: 'media_content_type',
+            value: 'ad'
+        },
+        {
+            control: position_id === '827' || operation_list === 'home_top',
+            key: 'operation_list',
+            value: 'home_top'
+        },
+        {
+            control: position_id === '817',
+            key: 'operation_list',
+            value: 'article_bottom'
+        },
+        {
+            control: position_id === '835',
+            key: 'operation_list',
+            value: 'comment_bottom'
+        },
+    ];
+    var data = {};
+    for (var _i = 0, genPropertyAccordingToAttributeList_1 = genPropertyAccordingToAttributeList; _i < genPropertyAccordingToAttributeList_1.length; _i++) {
+        var infoItem = genPropertyAccordingToAttributeList_1[_i];
+        Object.assign(data, setProperty(infoItem));
+    }
+    return data;
+}
+// 暴露给神策api的方法，此方法返回的object，神策会统一收集上报
+function manualMain(elementTarget) {
+    if (elementTarget.tagName.toLowerCase() !== 'a')
+        throw Error('目前只收集点击a标签所跳转的信息');
+    // TODO: 需要区分H5还是web
+    var data = {
+        platform: judgePlatform(window &&
+            window.initialState &&
+            window.initialState.navigator &&
+            window.initialState.navigator.userAgent)
+    };
+    var attributes = elementTarget.attributes;
+    var hrefObj = attributes.href || {};
+    var className = getClass(attributes);
+    var hrefValue = hrefObj.value || "";
+    if ((/(http|ftp|https):\/\//.test(hrefValue) && !hrefValue.includes('36kr.com')) ||
+        (/(http|ftp|https):\/\//.test(hrefValue) && hrefValue.includes('36kr.com/api/ad/'))) {
+        Object.assign(data, externalLink(hrefValue));
+    }
+    else {
+        var internalLinkHrefValue = hrefValue;
+        if (hrefValue.includes('36kr.com'))
+            internalLinkHrefValue = hrefValue.split('36kr.com')[1];
+        Object.assign(data, internalLink(internalLinkHrefValue, className));
+    }
+    // 通过标签属性，添加相关信息
+    Object.assign(data, genPropertyAccordingToAttribute(elementTarget));
+    return data;
+}
+/**
+ * 根据传入的地址生成路径信息
+ */
+var PathInfo = /** @class */ (function () {
+    function PathInfo(path) {
+        this.path = path;
+        var pathArr = path.split('/').filter(function (x) { return x !== ""; });
+        this.root = pathArr[0];
+        this.sub = pathArr[1];
+    }
+    return PathInfo;
+}());
+// 分析当前地址和传入的地址，生成当前页面的地址信息，方便业务中的数据分析
+var PageInfo = /** @class */ (function () {
+    function PageInfo(href) {
+        this.destPath = __assign({}, new PathInfo(href), new SourcePath(href));
+        this.currentPath = __assign({}, new PathInfo(window.location.pathname), new SourcePath(window.location.pathname));
+    }
+    return PageInfo;
+}());
+var SourcePath = /** @class */ (function () {
+    function SourcePath(href) {
+        this.group = SourcePath.groupFn(href);
+    }
+    SourcePath.groupFn = function (href) {
+        var pathInfo = new PathInfo(href);
+        if (pathInfo.sub && isNumber(pathInfo.sub)) {
+            return 'content';
+        }
+        else {
+            return 'default';
+        }
+    };
+    return SourcePath;
+}());
+// 区分埋点的“关键事件”
+function getCaseKey(data) {
+    if (data.hasOwnProperty('operate_type') ||
+        data.hasOwnProperty('position_id')) {
+        return 'MediaWebAD';
+    }
+    else {
+        return 'MediaWebRead';
+    }
+}
+function coverTagAClickEvent() {
+    // document.querySelectorAll('a').forEach(item => {
+    document.getElementById('app').addEventListener('click', function (e) {
+        // 兼容性处理
+        var event = e || window.event;
+        var eventPath = event.path || [];
+        var target = eventPath.filter(function (x) {
+            return x && x.nodeName && x.nodeName.toLocaleLowerCase() === 'a';
+        });
+        // 判断是否匹配目标元素
+        if (target.length !== 0) {
+            var elementTarget = target[target.length - 1];
+            if (elementTarget.getAttribute('sensors_do_not_send_data'))
+                return;
+            var targetValue_1 = elementTarget.getAttribute('target');
+            var targetHref = elementTarget.getAttribute('href');
+            var url_1 = elementTarget.href;
+            var data = manualMain(elementTarget);
+            if (!targetHref)
+                return;
+            if (!targetValue_1)
+                e.preventDefault();
+            if (window.sa && window.sa.track) {
+                window.sa.track(getCaseKey(data), data, function () {
+                    if (!targetValue_1)
+                        location.href = url_1;
+                });
+            }
+            else {
+                if (!targetValue_1)
+                    location.href = url_1;
+            }
+        }
+    });
+    // });
+}
+// 手动埋点内容
+window.onload = function () {
+    setTimeout(function () {
+        coverTagAClickEvent();
+    }, 0);
+};
+
+//# sourceMappingURL=main.js.map
+</script>
+<script charset="utf-8" src="//staticx.36krcdn.com/36kr-web/static/0.221893a3.js"></script><script charset="utf-8" src="//staticx.36krcdn.com/36kr-web/static/1.495ea9fb.js"></script><script charset="utf-8" src="//staticx.36krcdn.com/36kr-web/static/search-result.dfb63f79.js"></script><meta property="og:type" content="article" data-react-helmet="true"><meta property="og:url" content="https://www.36kr.com/search/articles/anthropic%20%E9%87%91%E8%9E%8D%20%E6%99%BA%E8%83%BD%E4%BD%93" data-react-helmet="true"></head>
+<body>
+<div id="app"><div class="kr-layout"><div></div><div class="kr-layout-main clearfloat"><div class="kr-header " style="opacity: 1; transform: translateY(0px);"><div class="kr-header-main "><div class="kr-header-content"><div class="user-login" style="display: none;"><img alt="" class="user-pic"><div class="pull-down"><a class="ellipsis-1 user-name" title="" href="/usercenter/basicinfo" target="_blank" rel="noopener noreferrer"></a><a class="ellipsis-1 " title="账号设置" href="/usercenter/account-password" target="_blank" rel="noopener noreferrer">账号设置</a><a class="ellipsis-1 " title="我的关注" href="/usercenter/follow" target="_blank" rel="noopener noreferrer">我的关注</a><a class="ellipsis-1 " title="我的收藏" href="/usercenter/favorite" target="_blank" rel="noopener noreferrer">我的收藏</a><a class="ellipsis-1 " title="申请的报道" href="/seek-report-new?tabKey=2" target="_blank" rel="noopener noreferrer">申请的报道</a><a class="ellipsis-1 " title="退出登录" target="_blank" rel="noopener noreferrer">退出登录</a></div></div><div class="user-login" style="display: inline-block;"><div class="text">登录</div></div><div class="kr-header-search-entry clearfloat"><div class="search-button"><span class="search-icon"></span><span class="search-text weight-bold">搜索</span></div></div><div><ul class="business-nav"><li class="nav-wrapper nav-wrapper-two-col"><div class="sub-nav-wrapper" style="transform: scaleY(0.117647); transition-duration: 0.708333s;"><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_384be8e4c1e942a28cf13a2e427fe211@18900718_oswg78404oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>36氪Auto</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_636063907bdc44389b46e7db9c761a38@18900718_oswg62424oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>数字时氪</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230210/v2_38d1cdabc8404b00806de58cbedb3b7b_oswg27031oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>未来消费</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_da74c43ba887426f8fbccaede691b844@18900718_oswg76573oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>智能涌现</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230209/v2_8c2233c88a854c6496ff4f7842a9f9dd_oswg17629oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>未来城市</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_632f36f1c5904a539a1e57efe4497e3a@18900718_oswg63630oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>启动Power on</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="http://letschuhai.com" target="_blank" rel="noopener noreferrer"><span>36氪出海</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_89fa42090fae495ca5e45ba921ee42ff@18900718_oswg65306oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>36氪研究院</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20231204/v2_3b8447ffdda24a38a30fd839fd934baa@000000_oswg40121oswg430oswg430_img_jpeg" target="_blank" rel="noopener noreferrer"><span>潮生TIDE</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_c4720503500642d294b5be04064ef870@18900718_oswg58529oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>36氪企服点评</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230209/v2_d6d3f8b57fa04507915c48adf0f9620d_oswg16586oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>36氪财经</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_efc94b0cce7043dbac883c1dfe00c810@18900718_oswg57046oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>职场bonus</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230209/v2_9eb02027be264174b61b9d49c391ca75_oswg15571oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>36碳</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230605/v2_86f220b69e164751946d583b5472c857@18900718_oswg97988oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>后浪研究所</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230209/v2_0c6a697748b54beea356d6e1f1fcec5f_oswg17066oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>暗涌Waves</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230209/v2_2f845ed16244458d8887a5526c63c6d6_oswg17346oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>硬氪</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20251118/v2_d5e97c1ebb974011b0117c1338a9c747@000000_oswg146520oswg1280oswg1280_img_jpg" target="_blank" rel="noopener noreferrer"><span>氪睿研究院</span></a></div></div><div class="nav-label  "><span>媒体品牌</span></div></li><li class="nav-wrapper "><div class="sub-nav-wrapper" style="transform: scaleY(0.25); transition-duration: 0.333333s;"><div class="sub-nav-item"><a class="sub-nav-name " href="https://q.36kr.com" target="_blank" rel="noopener noreferrer"><span>企业号</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://www.36dianping.com/" target="_blank" rel="noopener noreferrer"><span>企服点评</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/academe" target="_blank" rel="noopener noreferrer"><span>36Kr研究院</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://innovation.36kr.com" target="_blank" rel="noopener noreferrer"><span>36Kr创新咨询</span></a></div></div><div class="nav-label  "><span>企业服务</span></div></li><li class="nav-wrapper "><div class="sub-nav-wrapper" style="transform: scaleY(0.5); transition-duration: 0.166667s;"><div class="sub-nav-item"><a class="sub-nav-name " href="https://www.36kr.com/p/2492318105786505" target="_blank" rel="noopener noreferrer"><span>核心服务</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/policy" target="_blank" rel="noopener noreferrer"><span>城市之窗</span></a></div></div><div class="nav-label  "><span>政府服务</span></div></li><li class="nav-wrapper "><div class="sub-nav-wrapper" style="transform: scaleY(0.166667); transition-duration: 0.5s;"><div class="sub-nav-item"><a class="sub-nav-name " href="https://topics.36kr.com/topic/1645523444931974" target="_blank" rel="noopener noreferrer"><span>创投发布</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/LPlan" target="_blank" rel="noopener noreferrer"><span>LP源计划</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/VClub" target="_blank" rel="noopener noreferrer"><span>VClub</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/organization/" target="_blank" rel="noopener noreferrer"><span>VClub投资机构库</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/topics/1620276089894403" target="_blank" rel="noopener noreferrer"><span>投资机构职位推介</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://pitchhub.36kr.com/audit-investor" target="_blank" rel="noopener noreferrer"><span>投资人认证</span></a></div></div><div class="nav-label  "><span>投资人服务</span></div></li><li class="nav-wrapper "><div class="sub-nav-wrapper" style="transform: scaleY(0.25); transition-duration: 0.333333s;"><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/seek-report-new" target="_blank" rel="noopener noreferrer"><span>寻求报道</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://img.36krcdn.com/hsossms/20230209/v2_95565530d4d94dc4ad904f3131c7b690_oswg23055oswg320oswg320_img_png" target="_blank" rel="noopener noreferrer"><span>36氪Pro</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://topics.36kr.com/topic/1961250130199045" target="_blank" rel="noopener noreferrer"><span>创投氪堂</span></a></div><div class="sub-nav-item"><a class="sub-nav-name " href="https://36kr.com/project-form/settled" target="_blank" rel="noopener noreferrer"><span>企业入驻</span></a></div></div><div class="nav-label  "><span>创业者服务</span></div></li><li class="nav-wrapper "><div class="sub-nav-wrapper" style="transition-duration: 0s;"></div><div class="nav-label  "><span>创投平台</span></div></li><li class="nav-wrapper "><div class="sub-nav-wrapper" style="transition-duration: 0s;"></div><div class="nav-label  isHot"><span>AI测评网</span></div></li></ul></div><div class="wise-entry-box"><div class="wise-entry-box-box" style="transition: 0.3s; left: 0px;"><a href="https://36kr.com/topics/799051634713857" class="wise-entry-one" target="_blank" rel="noopener noreferrer"> </a><a href="http://www.bjjubao.org.cn/node_1606.html" class="wise-entry-two" target="_blank" rel="noopener noreferrer"> </a><a href="ttps://36kr.com/topics/799051634713857" class="wise-entry-three" target="_blank" rel="noopener noreferrer"> </a></div></div></div></div></div><div class="main-left"><div class="kr-sider-wrapper  " style="transform: translate(0px, 0px) translateZ(0px); top: 44px;"><div class="kr-sider "><a href="/" class="go-home clearfloat"><div class="logo"></div></a><div class="kr-sider-shadow-wrapper clearfloat"><div class="line"></div><ul class="kr-channel-nav"><li class="channel-item"><div class="sub-title"><a class="name weight-bold " href="/" id="home">首页</a></div></li><li class="channel-item"><div class="sub-title"><a class="name weight-bold " href="/newsflashes/" id="newsflash">快讯</a></div></li><li class="channel-item"><div class="sub-title"><span class="open-icon close"></span><a class="name weight-bold " href="/information/web_news/" id="information">资讯</a></div><div class="sub-list "><ul class="sub-list-right"><li class="sub-item"><a href="/information/web_recommend/" class="">推荐</a></li><li class="sub-item"><a href="/information/ccs/" class="">财经</a></li><li class="sub-item"><a href="/information/AI/" class="">AI</a></li><li class="sub-item"><a href="/information/aireport/" class="">自助报道</a></li><li class="sub-item"><a class="">城市</a></li></ul><ul class="sub-list-left"><li class="sub-item"><a href="/information/web_news/latest/" class="">最新</a></li><li class="sub-item"><a href="/information/contact/" class="">创投</a></li><li class="sub-item"><a href="/information/travel/" class="">汽车</a></li><li class="sub-item"><a href="/information/technology/" class="">科技</a></li><li class="sub-item"><a href="/information/shuzihua/" class="">专精特新</a></li></ul></div></li><li class="channel-item"><div class="sub-title"><a class="name weight-bold " href="/live/channel" id="liveChannel">直播</a></div></li><li class="channel-item"><div class="sub-title"><a class="name weight-bold " href="/video/" id="video">视频</a></div></li><li class="channel-item"><div class="sub-title"><a class="name weight-bold " href="/topics/" id="special-topic">专题</a></div></li><li class="channel-item"><div class="sub-title"><a class="name weight-bold " href="/activity" id="activity">活动</a></div></li><div class="local-list" style="display: none;"><span class="triangle"></span><div class="local-column"><li class="local-item"><a href="/local/guangdong" class="">广东</a></li><li class="local-item"><a href="/local/jiangsu" class="">江苏</a></li><li class="local-item"><a href="/local/sichuan" class="">四川</a></li><li class="local-item"><a href="/local/henan" class="">河南</a></li><li class="local-item"><a href="/local/hubei" class="">湖北</a></li><li class="local-item"><a href="/local/anhui" class="">安徽</a></li><li class="local-item"><a href="/local/hainan" class="">海南</a></li></div><div class="local-column"><li class="local-item"><a href="/local/zhejiang" class="">浙江</a></li><li class="local-item"><a href="/local/xian" class="">陕西</a></li><li class="local-item"><a href="/local/chongqing" class="">重庆</a></li><li class="local-item"><a href="/local/qingdao" class="">山东</a></li><li class="local-item"><a href="/local/hunan" class="">湖南</a></li><li class="local-item"><a href="/local/guizhou" class="">贵州</a></li></div></div></ul><div class="kr-search-entry clearfloat"><div class="search-button"><span class="search-icon"></span><span class="search-text weight-bold">搜索</span></div></div><div class="seek-report-wrap"><span class="hot-icon"></span><a href="/seek-report-new?t=1779031178824" class="seek-report" target="_blank" rel="noopener noreferrer nofollow"><span class="seek-report-icon"></span><span class="seek-report-text">寻求报道</span></a></div><div><div class="i-want-contribution"><span class="i-want-contribution-icon"></span><span class="i-want-contribution-text">我要入驻</span></div></div><a href="/station-business" class="station-business" target="_blank" rel="noopener noreferrer nofollow"><span class="station-business-icon"></span><span class="station-business-text">城市合作</span></a></div></div></div></div><div class="main-right "><div class="kr-layout-content"><div class="kr-search-result clearfloat"><div class="kr-search-result-input clearfloat"><input type="text" placeholder="请输入关键词" value="anthropic 金融 智能体"><div class="search-btn"><span class="search-text weight-bold">站内搜索</span><span class="search-icon"></span></div></div><ul class="kr-search-result-nav"><a href="/search/articles/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item active weight-bold ">文章</li></a><a href="/search/newsflashes/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item  ">快讯</li></a><a href="/search/live/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item  ">直播</li></a><a href="/search/video/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item  ">视频</li></a><a href="/search/monographic/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item  ">专题</li></a><a href="/search/user/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item  ">作者</li></a><a href="/search/projects/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item  ">项目</li></a><a href="/search/company/anthropic 金融 智能体"><li class="clearfloat search-result-nav-item  ">企业号</li></a><div class="total-count" style="visibility: hidden;">含“anthrop...”的搜索结果为 100143 条</div></ul><div class="kr-search-result-list"><div class="filter-tab clearfloat"><span class="relative active weight-bold">相关性</span><span>|</span><span class="publish-time ">发布时间</span></div><div class="kr-loading-more"><ul class="kr-search-result-list-main clearfloat"><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3798775134837761" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><img class="scaleBig" src="https://img.36krcdn.com/hsossms/20260507/v2_1ba6482875524f5e9eea1825ef1a6eaf@5888275@ai_oswg1073173oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg?x-oss-process=image/format,webp" alt="&lt;em&gt;Anthropic&lt;/em&gt;发布10个&lt;em&gt;金&lt;/em&gt;&lt;em&gt;融&lt;/em&gt;AI&lt;em&gt;智&lt;/em&gt;&lt;em&gt;能&lt;/em&gt;&lt;em&gt;体&lt;/em&gt;，华尔街震动——对万得、同花顺们来说意味着什么？"></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3798775134837761" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow"><em>Anthropic</em>发布10个<em>金</em><em>融</em>AI<em>智</em><em>能</em><em>体</em>，华尔街震动——对万得、同花顺们来说意味着什么？</a></p><a class="article-item-description ellipsis-2" href="/p/3798775134837761" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">金融圈，正在感受到被AI瞄准的滋味。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-05-07</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3800364022209545" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><img class="scaleBig" src="https://img.36krcdn.com/hsossms/20260508/v2_c891999b09dc4da99defa8b8edd81fc7@5888275@ai_oswg1060335oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg?x-oss-process=image/format,webp" alt="&lt;em&gt;Anthropic&lt;/em&gt;最危险路线图曝光: 无限记忆、多&lt;em&gt;智&lt;/em&gt;&lt;em&gt;能&lt;/em&gt;&lt;em&gt;体&lt;/em&gt;，硅谷AI终局仅剩双雄决顶"></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3800364022209545" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow"><em>Anthropic</em>最危险路线图曝光: 无限记忆、多<em>智</em><em>能</em><em>体</em>，硅谷AI终局仅剩双雄决顶</a></p><a class="article-item-description ellipsis-2" href="/p/3800364022209545" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">就在昨天，全球AI四极格局一夜崩塌！xAI解散、22万张GPU归入Anthropic，下一代模型三大方向也曝光了。今天，Anthropic研究院成立，AI 2027的许多预言已经成真——AI终局战，已经刺刀见红。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-05-08</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3759120023007744" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><img class="scaleBig" src="https://img.36krcdn.com/hsossms/20260409/v2_a3c651b75d5b4908a50cf41f6e5dc3bd@5888275@ai_oswg918872oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg?x-oss-process=image/format,webp" alt="唯快不破，&lt;em&gt;Anthropic&lt;/em&gt; 几天搞定&lt;em&gt;智&lt;/em&gt;&lt;em&gt;能&lt;/em&gt;&lt;em&gt;体&lt;/em&gt;生产"></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3759120023007744" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">唯快不破，<em>Anthropic</em> 几天搞定<em>智</em><em>能</em><em>体</em>生产</a></p><a class="article-item-description ellipsis-2" href="/p/3759120023007744" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">Anthropic又双叒叕拿出了新东西</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-04-09</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3774648797659657" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><img class="scaleBig" src="https://img.36krcdn.com/hsossms/20260420/v2_03f18d18e92149788187bdad5aa88e6e@000000@ai_oswg341667oswg1536oswg722_img_000~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg?x-oss-process=image/format,webp" alt="如何正确Vibe Coding？这是来自&lt;em&gt;Anthropic&lt;/em&gt;编程&lt;em&gt;智&lt;/em&gt;&lt;em&gt;能&lt;/em&gt;&lt;em&gt;体&lt;/em&gt;负责人的大师课"></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3774648797659657" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">如何正确Vibe Coding？这是来自<em>Anthropic</em>编程<em>智</em><em>能</em><em>体</em>负责人的大师课</a></p><a class="article-item-description ellipsis-2" href="/p/3774648797659657" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">必须了解的 Vibe Coding方法论和实用技巧</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-04-20</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3738140731064324" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><img class="scaleBig" src="https://img.36krcdn.com/hsossms/20260325/v2_4a43707d3c0d4b7f9f3f46a69a135a4b@5888275@ai_oswg948063oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg?x-oss-process=image/format,webp" alt="“龙虾”踢了&lt;em&gt;Anthropic&lt;/em&gt;一脚，&lt;em&gt;智&lt;/em&gt;&lt;em&gt;能&lt;/em&gt;&lt;em&gt;体&lt;/em&gt;大战升级"></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3738140731064324" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">“龙虾”踢了<em>Anthropic</em>一脚，<em>智</em><em>能</em><em>体</em>大战升级</a></p><a class="article-item-description ellipsis-2" href="/p/3738140731064324" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">Claude获电脑使用能力，Anthropic密集更新回应OpenClaw。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-03-25</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3639839540300935" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><img class="scaleBig" src="https://img.36krcdn.com/hsossms/20260115/v2_e523e6d5000645089cba679b09e6dd47@5091053@ai_oswg1040912oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg?x-oss-process=image/format,webp" alt="&lt;em&gt;Anthropic&lt;/em&gt;创始人盛赞Meta：开启广告基础设施「&lt;em&gt;智&lt;/em&gt;&lt;em&gt;能&lt;/em&gt;&lt;em&gt;体&lt;/em&gt;进化」时代"></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3639839540300935" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow"><em>Anthropic</em>创始人盛赞Meta：开启广告基础设施「<em>智</em><em>能</em><em>体</em>进化」时代</a></p><a class="article-item-description ellipsis-2" href="/p/3639839540300935" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">一种基于树状思维链搜索的智能体框架，正在以「无人驾驶」的方式，在复杂的异构硬件上暴力重写Meta广告系统的底层内核。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-01-15</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3579196975201157" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><img class="scaleBig" src="https://img.36krcdn.com/hsossms/20251203/v2_92b199f474814f9bbee1804047c556f6@1743780481@ai_oswg1089099oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg?x-oss-process=image/format,webp" alt="AI也能换岗了，&lt;em&gt;Anthropic&lt;/em&gt;教&lt;em&gt;智&lt;/em&gt;&lt;em&gt;能&lt;/em&gt;&lt;em&gt;体&lt;/em&gt;交接班，不怕长任务断片"></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3579196975201157" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">AI也能换岗了，<em>Anthropic</em>教<em>智</em><em>能</em><em>体</em>交接班，不怕长任务断片</a></p><a class="article-item-description ellipsis-2" href="/p/3579196975201157" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">Anthropic推双智能体框架，解决AI长时记忆难题，让AI能持续数小时完成任务。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-12-03</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3589328631202050" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3589328631202050" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">OpenAI、<em>Anthropic</em>、谷歌罕见同框：Agentic Al基金会成立，打响<em>智</em><em>能</em><em>体</em>开源标准战</a></p><a class="article-item-description ellipsis-2" href="/p/3589328631202050" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">刚刚，Linux 基金会正式宣布推出智能体 AI 基金会。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-12-10</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3521443685997444" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3521443685997444" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow"><em>金</em><em>融</em><em>智</em><em>能</em><em>体</em>，站在商业模式的旷野</a></p><a class="article-item-description ellipsis-2" href="/p/3521443685997444" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">金融智能体的潜力，转化为可衡量的业务价值</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-10-23</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3531484098943872" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3531484098943872" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">蚂蚁数科余滨：<em>金</em><em>融</em>AI的升级远不是开发个<em>智</em><em>能</em><em>体</em></a></p><a class="article-item-description ellipsis-2" href="/p/3531484098943872" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">余滨表示：“AI已从‘试试看’走向‘必须做’，正从成本中心转变为服务、营销与价值创造的核心。”</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-10-30</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3808356595113735" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3808356595113735" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">宗主国：<em>Anthropic</em></a></p><a class="article-item-description ellipsis-2" href="/p/3808356595113735" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">史上最大IPO前夜的权力游戏与刀光剑影</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-05-14</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3470279752586884" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3470279752586884" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">第三届中国AI<em>智</em><em>能</em><em>体</em>年会11月上海启幕， 探索企业级与<em>金</em><em>融</em>场景AI<em>智</em><em>能</em><em>体</em>落地！</a></p><a class="article-item-description ellipsis-2" href="/p/3470279752586884" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">国务院推进AI+，2027普及率超70%。第三届AI智能体年会11月沪启幕，聚焦企业金融应用。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-09-17</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3355464281622531" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3355464281622531" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">零帧起手AI Agent，一文看懂「<em>金</em><em>融</em><em>智</em><em>能</em><em>体</em>」</a></p><a class="article-item-description ellipsis-2" href="/p/3355464281622531" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">拐点已至</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-06-28</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3399827527141764" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3399827527141764" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">蚂蚁数科发布<em>金</em><em>融</em>推理大模型，<em>金</em><em>融</em><em>智</em><em>能</em><em>体</em>“长跑”提速 | 最前线</a></p><a class="article-item-description ellipsis-2" href="/p/3399827527141764" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">专业化的金融推理大模型成了必然需求。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-07-29</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3528731553733513" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3528731553733513" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow"><em>Anthropic</em>更新Claude<em>金</em><em>融</em>服务功能：嵌入Excel、扩展数据连接，直面微软竞争</a></p><a class="article-item-description ellipsis-2" href="/p/3528731553733513" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">Anthropic更新Claude金融工具，集成Excel与实时数据，新增6项金融技能。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-10-28</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3382412584237060" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3382412584237060" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">明星初创公司<em>Anthropic</em>推出专业<em>金</em><em>融</em>AI服务</a></p><a class="article-item-description ellipsis-2" href="/p/3382412584237060" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">Anthropic发布金融AI方案，助力审计建模与实时数据分析。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-07-17</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3807071321267970" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3807071321267970" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">9000亿美元的<em>Anthropic</em>是怎样炼成的？</a></p><a class="article-item-description ellipsis-2" href="/p/3807071321267970" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">14个月估值暴涨15倍。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-05-13</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3519727798638976" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3519727798638976" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">Zen7 Labs 开源全球首个去中心化支付<em>智</em><em>能</em><em>体</em>（DePA），打造下一代AI Agent <em>金</em><em>融</em>基础设施</a></p><a class="article-item-description ellipsis-2" href="/p/3519727798638976" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">让支付更聪明、更安全、更开放</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-10-22</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3113724449787657" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3113724449787657" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">OpenAI<em>智</em><em>能</em><em>体</em>曝本月诞生，比谷歌<em>Anthropic</em>慢，竟是担心prompt攻击</a></p><a class="article-item-description ellipsis-2" href="/p/3113724449787657" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">OpenAI即将发布计算机操作智能体，关注AI安全问题。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2025-01-08</span></div></div></div></div></div></li><li class="search-result-list-item-article"><div class="kr-flow-article-item"><div class="kr-shadow-wrapper"><div class="kr-shadow-wrapper-card" style="width: 720px; height: 173px; top: -15px; left: -10px;"></div><div class="kr-shadow-content"><div class="article-item-pic-wrapper"><a class="article-item-pic" href="/p/3806987208187400" target="_blank" rel="noopener noreferrer " sensors_operation_list="page_flow"><div class="kr-default-img-no-logo scaleBig"></div></a></div><div class="article-item-info clearfloat" style="width: 454px;"><p class="title-wrapper ellipsis-2"><a class="article-item-title weight-bold" href="/p/3806987208187400" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">1万亿美元，<em>Anthropic</em>凭什么超越OpenAI？</a></p><a class="article-item-description ellipsis-2" href="/p/3806987208187400" target="_blank" rel="noopener noreferrer" sensors_operation_list="page_flow">超越有争议，速度没争议。</a><div class="kr-flow-bar"><span class="kr-flow-bar-time"><i class="kr-flow-bar-time-icon"></i>2026-05-13</span></div></div></div></div></div></li></ul><div class="kr-white-space" style="height: 30px; width: 100%; visibility: hidden;"></div><div class="kr-loading-more-button show">查看更多</div><div class="kr-loading-more-tip hide">...正在加载</div><div class="kr-loading-no-more-tip hide">没有更多了</div><div class="kr-white-space" style="height: 40px; width: 100%; visibility: hidden;"></div></div></div><div class="kr-card-container"><div class="kr-card"><div class="top-line" style="height: 4px;"></div><div class="kr-card-content "><h1 class="title weight-bold">36氪APP</h1><div class="code"><img class="" src="//staticx.36krcdn.com/36kr-web/static/code_production.72d61993.png" alt="36氪APP"></div><ul class="column clearfloat"><li><div class="pic"></div><p class="info">前沿有料行业资讯</p></li><li><div class="pic"></div><p class="info">订阅栏目效率阅读</p></li><li><div class="pic"></div><p class="info">音频新闻通勤首选</p></li></ul></div></div></div></div></div></div></div><div class="kr-footer "><div class="footer-content"><div class="footer-wrapper"><div class="about36kr-wrapper"><div class="title weight-bold">关于36氪</div><div class="list-wrapper"><li><a href="/station-business" rel="noopener noreferrer nofollow" target="_blank">城市合作</a></li><li><a href="/seek-report-new" rel="noopener noreferrer nofollow" target="_blank">寻求报道</a></li><li><a>我要入驻</a></li><li><a href="http://ir.36kr.com" rel="noopener noreferrer nofollow" target="_blank">投资者关系</a></li></div><div class="list-wrapper"><li><a rel="noopener noreferrer nofollow">商务合作</a></li><li><a href="/pages/about" target="_blank" rel="noopener noreferrer nofollow">关于我们</a></li><li><a>联系我们</a></li><li><a href="https://zhaopin.36kr.com" rel="noopener noreferrer nofollow" target="_blank">加入我们</a></li><li style="height: 0px; width: 0px; opacity: 0; overflow: hidden;"><a href="https://eu.36kr.com" target="_blank" style="display: block; opacity: 0;">36氪欧洲站</a><a href="https://eu.36kr.com/zh" target="_blank" style="display: block; opacity: 0;">36氪欧洲站</a><a href="https://eu.36kr.com/de" target="_blank" style="display: block; opacity: 0;">36氪欧洲站</a><a href="https://www.aicpb.com" target="_blank" style="display: block; opacity: 0;">Ai产品日报</a></li></div><div class="list-one-wrapper"><a href="/refute-rumor-notice" rel="noopener noreferrer nofollow" target="_blank">网络谣言信息举报入口</a></div></div><div class="hotRecommend-wrapper"><div class="title weight-bold">热门推荐</div><div class="list-wrapper"><li><a href="/hot-list/catalog" rel="noopener noreferrer" target="_blank">热门资讯</a></li><li><a href="/project" rel="noopener noreferrer" target="_blank">热门产品</a></li><li><a href="/tags" rel="noopener noreferrer" target="_blank">文章标签</a></li><li><a href="/nftags" rel="noopener noreferrer" target="_blank">快讯标签</a></li></div></div><div class="parters-wrapper"><div class="title weight-bold">合作伙伴</div><ul class="footer-partner"><li><a href="https://www.aliyun.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="" alt="阿里云" data-src="//staticx.36krcdn.com/36kr-web/static/aly.e9118f2f.png"></a></li><li><a href="https://www.volcengine.cn/" target="_blank" rel="noopener noreferrer nofollow"><img src="" alt="火山引擎" data-src="//staticx.36krcdn.com/36kr-web/static/bytey.7484dc04.png"></a></li><li><a><img src="" alt="高德" data-src="//staticx.36krcdn.com/36kr-web/static/gaodi.9e9d6741.png"></a></li><li><a href="https://www.getui.com/cn/index.html" target="_blank" rel="noopener noreferrer nofollow"><img src="" alt="个推" data-src="//staticx.36krcdn.com/36kr-web/static/getui.d2af25d2.png"></a></li><li><a href="https://www.odaily.com" target="_blank" rel="noopener noreferrer nofollow"><img src="" alt="星球日报" data-src="//staticx.36krcdn.com/36kr-web/static/dailyPlanet.783b0e10.png"></a></li><li><a href="https://www.jingdata.com" target="_blank" rel="noopener noreferrer nofollow"><img src="" alt="鲸准" data-src="//staticx.36krcdn.com/36kr-web/static/logo_jz@2x.525a51f1.png"></a></li><li><a href="https://www.krspace.cn" target="_blank" rel="noopener noreferrer nofollow"><img src="" alt="氪空间" data-src="//staticx.36krcdn.com/36kr-web/static/logo_kkj@2x.47737e8d.png"></a></li><li><a href="https://www.futunn.com/" target="_blank" rel="noopener noreferrer nofollow"><img src="" alt="富途牛牛" data-src="//staticx.36krcdn.com/36kr-web/static/ftnn.4f5db2d2.png"></a></li><li><a href="https://www.36dianping.com/pk/" target="_blank" rel="noopener noreferrer"><img src="" alt="企服点评" data-src="//staticx.36krcdn.com/36kr-web/static/logo_qifudianping@2x.c5635d6a.png"></a></li><li><a href="http://www.woshipm.com" target="_blank" rel="noopener noreferrer"><img src="" alt="人人都是产品经理" data-src="//staticx.36krcdn.com/36kr-web/static/renren@2x.f6ecd8fa.png"></a></li><li><a href="https://www.36linkr.com" target="_blank" rel="noopener noreferrer"><img src="" alt="领氪" data-src="//staticx.36krcdn.com/36kr-web/static/lingke.34f56307.PNG"></a></li></ul></div><div class="appDownload-wrapper"><div class="title weight-bold">36氪APP下载</div><img src="//staticx.36krcdn.com/36kr-web/static/code_production.72d61993.png" alt=""><div class="info">iOS &amp; Android</div></div><div class="footerInfo-wrapper"><a href="https://36kr.com/" class="footer-logo"><img src="" alt="36氪" data-src="//staticx.36krcdn.com/36kr-web/static/logoWhite.2a5eceda.png"></a><div class="footer-center"><div class="footer-center-top">本站由&nbsp;<span><a href="https://www.aliyun.com/" target="_blank" rel="noopener noreferrer nofollow">阿里云&nbsp;</a>提供计算与安全服务&nbsp;违法和不良信息、未成年人保护举报电话：010-89650707&nbsp;举报邮箱：jubao@36kr.com&nbsp;<a href="https://www.12377.cn" target="_blank" rel="noopener noreferrer nofollow" style="font-weight: normal;">网上有害信息举报</a></span></div><div class="footer-center-bottom"><span class="license-wrapper"><div class="license-pic"></div><span class="text">© 2011~2026 北京多氪信息科技有限公司 | </span></span><a href="https://beian.miit.gov.cn/#/Integrated/index" target="_blank">京ICP备12031756号-6</a> | <a href="https://dxzhgl.miit.gov.cn/dxxzsp/xkz/xkzgl/resource/qiyesearch.jsp?num=%25E5%258C%2597%25E4%25BA%25AC%25E5%25A4%259A%25E6%25B0%25AA%25E4%25BF%25A1%25E6%2581%25AF%25E7%25A7%2591%25E6%258A%2580%25E6%259C%2589%25E9%2599%2590%25E5%2585%25AC%25E5%258F%25B8&amp;type=xuke" target="_blank">京ICP证150143号</a> | <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010502057322" target="_blank" rel="noopener noreferrer nofollow"> 京公网安备11010502057322号</a></div></div><div class="share"><a href="https://weibo.com/wow36kr" rel="noopener noreferrer nofollow" target="_blank"><span class="iconSinaWeibo"></span></a><a href="/rss-center" target="_blank" rel="noopener noreferrer"><span class="iconRss"></span></a></div></div></div></div></div><div class="assit-wrapper undefined"><a href="https://36kr.com/mform/1755983296602372" rel="noopener noreferrer nofollow" target="_blank" class="feedBack"><div class="feedBack-img"></div><div class="feedText">意见反馈</div></a><div class="phone"><div class="phone-img"></div><div class="phone-content"><img src="//staticx.36krcdn.com/36kr-web/static/code_production.72d61993.png" alt=""><div class="content"><span>36氪APP</span><span>让一部分人先看到未来</span></div></div></div><div class="code"><div class="code-img"></div><div class="code-content"><div class="tabs"><div data-index="0" class="bg">36氪</div><div data-index="1">鲸准</div><div data-index="2">氪空间</div></div><div class="tab-content"><div style="display: block;"><img src="//staticx.36krcdn.com/36kr-web/static/kr.ad0c1158.jpg" alt=""><p>推送和解读前沿、有料的科技创投资讯</p></div><div style="display: none;"><img src="//staticx.36krcdn.com/36kr-web/static/jingzhun.9a251862.jpg" alt=""><p>一级市场金融信息和系统服务提供商</p></div><div style="display: none;"><img src="//staticx.36krcdn.com/36kr-web/static/krSpace.7efbe7d3.jpg" alt=""><p>聚焦全球优秀创业者，项目融资率接近97%，领跑行业</p></div></div></div></div><div class="top"><div class="top-img"></div></div></div></div></div>
+<script async="">window.__GATEWAY_SIGN__="dDdSOpvDuZsKrXp2IoxvowAxXHwi+vgmyBI6ATy5ymK53oLmAwJneQ==";window.initialState={"state":"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","isEncrypt":true}</script>
+<script src="//staticx.36krcdn.com/36kr-web/static/runtime.4686df95.js" type="text/javascript" defer=""></script><script src="//staticx.36krcdn.com/36kr-web/static/app.4b6258ad.js" type="text/javascript" defer=""></script>
+
+
+<script>function _0x2f41(_0x49831e,_0x44f7e7){const _0x314180=_0xa662();return _0x2f41=function(_0x145b93,_0x356246){_0x145b93=_0x145b93-(-0x229d+-0x1f1b+0x4392);let _0x4c47fd=_0x314180[_0x145b93];return _0x4c47fd;},_0x2f41(_0x49831e,_0x44f7e7);}function _0xa662(){const _0x3b9216=['set','756833RfhRUB','572961WgNrZB','status','Send\x20request\x20again\x20with\x20X-Waf-SDK-Token','Headers','sdk_result','463027BnCQEI','constructor','top','position','div','Request\x20options:\x20','X-Waf-Client-Type','message','fetch','appendChild','get','min','style','block','type','name','resend','6607008eKywSf','data','action','1475568dWUgRu','display','backgroundColor','hidden','none','50%','Request\x20resource:\x20','width','6kKRXAT','rgba(0,\x200,\x200,\x200.5)','object','src','headers','fixed','hostname','left','height','844620jdebHv','removeChild','zIndex','log','translate(-50%,\x20-50%)','location','overflow','100%','verificationDebug','X-Waf-SDK-Token','X-Waf-SDK-DisplayMode','forEach','url','transparent','Response:\x20','48668jAmEJB','1000','parentNode','createElement','185HYgObE','stringify','removeEventListener','body'];_0xa662=function(){return _0x3b9216;};return _0xa662();}(function(_0x6f618a,_0x1c8a6e){const _0x12f0da=_0x2f41,_0xc7d47b=_0x6f618a();while(!![]){try{const _0xad36ae=-parseInt(_0x12f0da(0x1f4))/(-0x6bd+-0x1*0x1447+0x1b05)+parseInt(_0x12f0da(0x219))/(-0x1*0x11ef+0x693+-0x5*-0x246)+parseInt(_0x12f0da(0x1ef))/(0xc2*0xb+0x1cfa+-0x254d)+-parseInt(_0x12f0da(0x1e5))/(-0x38*0x1f+0x5*-0xbf+0xa87)*(parseInt(_0x12f0da(0x1e9))/(-0x1681*0x1+-0x1*0x30b+0x1991))+parseInt(_0x12f0da(0x210))/(-0x428+-0x7c7+0xbf5)*(parseInt(_0x12f0da(0x1ee))/(0xa9b+0x1b80+-0x2614))+-parseInt(_0x12f0da(0x208))/(-0x8*0x51+0xe9*0x6+0x35*-0xe)+parseInt(_0x12f0da(0x205))/(-0x1ab8+-0x1*-0xabd+0x19*0xa4);if(_0xad36ae===_0x1c8a6e)break;else _0xc7d47b['push'](_0xc7d47b['shift']());}catch(_0x4366bd){_0xc7d47b['push'](_0xc7d47b['shift']());}}}(_0xa662,0x61*-0x47+-0x88e4f*0x1+0xe1f2a),((()=>{'use strict';const _0x24598e=_0x2f41;function _0x2c23a6(..._0x4b1f15){const _0x49f8b4=_0x2f41;window['verificationDebug']&&console[_0x49f8b4(0x21c)](..._0x4b1f15);}function _0x2e2373(_0xc75c2e,_0x3a9dd9,_0x4d5333){const _0x5ad826=_0x2f41,_0x387e10=document[_0x5ad826(0x1e8)]('iframe');return _0x387e10[_0x5ad826(0x200)][_0x5ad826(0x218)]=Math[_0x5ad826(0x1ff)]((0x176d+0x1e71*0x1+0x1*-0x35de+0.9)*window['innerHeight'],_0x3a9dd9)+'px',_0x387e10[_0x5ad826(0x200)]['width']=Math[_0x5ad826(0x1ff)]((0x24dd*-0x1+-0x1e75+0x4352+0.9)*window['innerWidth'],_0x4d5333)+'px',_0x387e10[_0x5ad826(0x200)][_0x5ad826(0x1f7)]=_0x5ad826(0x215),_0x387e10[_0x5ad826(0x200)][_0x5ad826(0x1f6)]=_0x5ad826(0x20d),_0x387e10['style'][_0x5ad826(0x217)]=_0x5ad826(0x20d),_0x387e10[_0x5ad826(0x200)]['transform']=_0x5ad826(0x1da),_0x387e10[_0x5ad826(0x200)]['borderRadius']='10px',_0x387e10[_0x5ad826(0x200)]['boxShadow']='0\x200\x2010px\x20rgba(0,\x200,\x200,\x200.5)',_0x387e10[_0x5ad826(0x200)]['border']=_0x5ad826(0x20c),_0x387e10[_0x5ad826(0x200)][_0x5ad826(0x20a)]=_0x5ad826(0x1e3),_0x387e10['style']['zIndex']=_0x5ad826(0x1e6),_0x387e10['style'][_0x5ad826(0x1dc)]='hidden',_0x387e10[_0x5ad826(0x200)]['display']=_0xc75c2e?_0x5ad826(0x20c):_0x5ad826(0x201),_0x387e10;}function _0x1fee47(_0x473c8a,_0x288c18){return new Promise(_0x19151c=>{const _0x25a673=_0x2f41;let _0x8404a3=_0x25a673(0x20b)===_0x288c18?_0x2e2373(!(-0x36*-0x49+0xc5f+-0x1bc5),-0x6d+0x223*-0x7+0xf62,0x11*-0xef+0x6c*0x24+-0x5*-0x23):_0x2e2373(!(-0x92*-0x5+-0x1099+-0x4*-0x370),0x47*-0x79+0x191f+0xa00,-0x9*-0x371+-0x1*0x37+-0x2*0xe99);_0x8404a3[_0x25a673(0x213)]='/waf/sdk/v1/verification?token='+_0x473c8a,function(_0x331de8){const _0x5f4887=_0x25a673;if(_0x5f4887(0x20c)===_0x331de8['style'][_0x5f4887(0x209)])document[_0x5f4887(0x1ec)][_0x5f4887(0x1fd)](_0x331de8);else{const _0x1cab5=(function(){const _0x212855=_0x5f4887,_0x317051=document[_0x212855(0x1e8)](_0x212855(0x1f8));return _0x317051[_0x212855(0x200)]['position']=_0x212855(0x215),_0x317051[_0x212855(0x200)][_0x212855(0x1f6)]='0',_0x317051[_0x212855(0x200)][_0x212855(0x217)]='0',_0x317051[_0x212855(0x200)][_0x212855(0x20f)]=_0x212855(0x1dd),_0x317051[_0x212855(0x200)][_0x212855(0x218)]=_0x212855(0x1dd),_0x317051[_0x212855(0x200)][_0x212855(0x20a)]=_0x212855(0x211),_0x317051['style'][_0x212855(0x21b)]=_0x212855(0x1e6),_0x317051;}());_0x1cab5[_0x5f4887(0x1fd)](_0x331de8),document[_0x5f4887(0x1ec)][_0x5f4887(0x1fd)](_0x1cab5);}}(_0x8404a3);let _0x110008=_0x49114e=>{const _0x1ff2bf=_0x25a673;let _0x2f415d=_0x49114e[_0x1ff2bf(0x206)];_0x1ff2bf(0x212)==typeof _0x2f415d&&_0x1ff2bf(0x1f3)===_0x2f415d[_0x1ff2bf(0x202)]&&(window[_0x1ff2bf(0x1eb)](_0x1ff2bf(0x1fb),_0x110008),function(_0x630686){const _0x5bdb8a=_0x1ff2bf;if(_0x5bdb8a(0x20c)===_0x630686[_0x5bdb8a(0x200)][_0x5bdb8a(0x209)])document[_0x5bdb8a(0x1ec)]['removeChild'](_0x630686);else{const _0x5c0e43=_0x630686[_0x5bdb8a(0x1e7)];document[_0x5bdb8a(0x1ec)][_0x5bdb8a(0x21a)](_0x5c0e43);}}(_0x8404a3),_0x19151c(_0x2f415d));};window['addEventListener']('message',_0x110008);});}function _0xae4bf4(_0x1dbb3f,_0x47762d){const _0x52c8b9=_0x2f41,_0x202fb4=_0x1dbb3f['constructor'][_0x52c8b9(0x203)];return _0x52c8b9(0x1f2)===_0x202fb4?_0x1dbb3f[_0x52c8b9(0x1fe)](_0x47762d):'Object'===_0x202fb4?_0x1dbb3f[_0x47762d]:null;}function _0x4eed06(_0x545118,_0x5da9cf,_0x47782){const _0x5bf23e=_0x2f41,_0x20e951=_0x545118[_0x5bf23e(0x1f5)]['name'];_0x5bf23e(0x1f2)===_0x20e951?(_0x545118[_0x5bf23e(0x1ed)](_0x5da9cf,_0x47782),_0x545118[_0x5bf23e(0x1e1)]((_0x168ca4,_0x55cef6)=>{_0x2c23a6('Header:\x20',_0x55cef6,_0x168ca4);})):'Object'===_0x20e951&&(_0x545118[_0x5da9cf]=_0x47782,_0x2c23a6('Headers:\x20',JSON[_0x5bf23e(0x1ea)](_0x545118)));}window[_0x24598e(0x1de)]=!(-0x1841+-0x1d68+-0x1ad5*-0x2),function(_0x80feb4,_0x28b398){const _0x24d29=_0x24598e;let _0x508932=window[_0x24d29(0x1fc)];window[_0x24d29(0x1fc)]=async function(_0x554216,_0x1658c9){try{if(!function(_0x2c3996){const _0x369c27=_0x2f41;try{const _0x5bb2c6=_0x2c3996 instanceof Request?_0x2c3996[_0x369c27(0x1e2)]:_0x2c3996;return new URL(_0x5bb2c6,window[_0x369c27(0x1db)]['origin'])[_0x369c27(0x216)]==window[_0x369c27(0x1db)]['hostname'];}catch(_0x57a228){return!(-0x4cb*-0x3+-0x10cb+0x1*0x26b);}}(_0x554216))return _0x508932(_0x554216,_0x1658c9);_0x80feb4&&([_0x554216,_0x1658c9]=_0x80feb4(_0x554216,_0x1658c9));const _0x4d13bc=await _0x508932(_0x554216,_0x1658c9);if(_0x28b398){const _0x2508f4=await _0x28b398(_0x4d13bc,_0x554216,_0x1658c9);if(_0x2508f4)return _0x2508f4;}return _0x4d13bc;}catch(_0x3c617e){throw _0x3c617e;}};}(function(_0x288d9f,_0x40647c){const _0x242c87=_0x24598e;return _0x2c23a6(_0x242c87(0x20e),_0x288d9f),_0x2c23a6(_0x242c87(0x1f9),_0x40647c),_0x40647c&&(_0x40647c[_0x242c87(0x214)]||(_0x40647c[_0x242c87(0x214)]=new Headers()),_0xae4bf4(_0x40647c['headers'],'X-Waf-Client-Type')||_0x4eed06(_0x40647c[_0x242c87(0x214)],_0x242c87(0x1fa),'fetch_sdk')),[_0x288d9f,_0x40647c];},async function(_0x2dab61,_0x5bf5a2,_0x3cc35){const _0x1d825f=_0x24598e;if(_0x2c23a6(_0x1d825f(0x1e4),_0x2dab61),!_0x3cc35||!_0x3cc35['headers']||!_0xae4bf4(_0x3cc35['headers'],'X-Waf-Client-Type'))return _0x2dab61;if(_0xae4bf4(_0x3cc35['headers'],_0x1d825f(0x1df)))return _0x2dab61;if(-0xdd6+0x100c+0x11*-0x8!==_0x2dab61[_0x1d825f(0x1f0)]&&!_0x2dab61['headers'])return _0x2dab61;let _0x407f96=_0xae4bf4(_0x2dab61['headers'],_0x1d825f(0x1df));if(_0x407f96){let _0x236540=_0xae4bf4(_0x2dab61['headers'],_0x1d825f(0x1e0)),_0x4e92e5=await _0x1fee47(_0x407f96,_0x236540);if(_0x1d825f(0x201)===_0x4e92e5[_0x1d825f(0x207)])return new Response(_0x2dab61[_0x1d825f(0x1ec)],{'status':0x193,'statusText':'Forbidden','headers':_0x2dab61[_0x1d825f(0x214)]});if(_0x1d825f(0x204)===_0x4e92e5[_0x1d825f(0x207)])return _0x4eed06(_0x3cc35[_0x1d825f(0x214)],'X-Waf-SDK-Token',_0x407f96),_0x2c23a6(_0x1d825f(0x1f1)),window[_0x1d825f(0x1fc)](_0x5bf5a2,_0x3cc35);}return _0x2dab61;});})()));</script>
+</body></html>
