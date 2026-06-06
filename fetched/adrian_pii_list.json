@@ -1,0 +1,82 @@
+[
+  {
+    "name": "__init__.py",
+    "path": "sdk/adrian/pii/__init__.py",
+    "sha": "d35270a7266b3e5f278ec07b771719430b221448",
+    "size": 730,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/__init__.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/__init__.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/d35270a7266b3e5f278ec07b771719430b221448",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/pii/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/__init__.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/d35270a7266b3e5f278ec07b771719430b221448",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/__init__.py"
+    }
+  },
+  {
+    "name": "_engine.py",
+    "path": "sdk/adrian/pii/_engine.py",
+    "sha": "d3c4de8095fd9480718b2362b94184d6b38d95d5",
+    "size": 2026,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_engine.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_engine.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/d3c4de8095fd9480718b2362b94184d6b38d95d5",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/pii/_engine.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_engine.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/d3c4de8095fd9480718b2362b94184d6b38d95d5",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_engine.py"
+    }
+  },
+  {
+    "name": "_patterns.py",
+    "path": "sdk/adrian/pii/_patterns.py",
+    "sha": "8f13c390539b7254249060a8c1a3fce9e81944c7",
+    "size": 11887,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_patterns.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_patterns.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/8f13c390539b7254249060a8c1a3fce9e81944c7",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/pii/_patterns.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_patterns.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/8f13c390539b7254249060a8c1a3fce9e81944c7",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_patterns.py"
+    }
+  },
+  {
+    "name": "_redactor.py",
+    "path": "sdk/adrian/pii/_redactor.py",
+    "sha": "cad07039b530fbb21a324a65d7316ccb0b0f1bf0",
+    "size": 7794,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_redactor.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_redactor.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/cad07039b530fbb21a324a65d7316ccb0b0f1bf0",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/pii/_redactor.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_redactor.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/cad07039b530fbb21a324a65d7316ccb0b0f1bf0",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_redactor.py"
+    }
+  },
+  {
+    "name": "_strategies.py",
+    "path": "sdk/adrian/pii/_strategies.py",
+    "sha": "103750420d75ce63358e527fc2509387d24daa7a",
+    "size": 3690,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_strategies.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_strategies.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/103750420d75ce63358e527fc2509387d24daa7a",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/pii/_strategies.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii/_strategies.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/103750420d75ce63358e527fc2509387d24daa7a",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pii/_strategies.py"
+    }
+  }
+]
