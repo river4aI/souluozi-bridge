@@ -1,0 +1,34 @@
+[
+  {
+    "name": "__init__.py",
+    "path": "sdk/adrian/handlers/__init__.py",
+    "sha": "45715150b32065d0d215c10808d2b389c6dfec45",
+    "size": 122,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handlers/__init__.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/handlers/__init__.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/45715150b32065d0d215c10808d2b389c6dfec45",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/handlers/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handlers/__init__.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/45715150b32065d0d215c10808d2b389c6dfec45",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/handlers/__init__.py"
+    }
+  },
+  {
+    "name": "jsonl.py",
+    "path": "sdk/adrian/handlers/jsonl.py",
+    "sha": "d2825fa7dfcc25eb68ae6508c72aa17a633888ba",
+    "size": 1915,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handlers/jsonl.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/handlers/jsonl.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/d2825fa7dfcc25eb68ae6508c72aa17a633888ba",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/handlers/jsonl.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handlers/jsonl.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/d2825fa7dfcc25eb68ae6508c72aa17a633888ba",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/handlers/jsonl.py"
+    }
+  }
+]
