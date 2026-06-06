@@ -1,0 +1,930 @@
+[
+  {
+    "name": "aarp",
+    "path": "internal/aarp",
+    "sha": "adee94eb36f0d4c992f57af90ef400edafcbddb0",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/aarp?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/aarp",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/adee94eb36f0d4c992f57af90ef400edafcbddb0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/aarp?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/adee94eb36f0d4c992f57af90ef400edafcbddb0",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/aarp"
+    }
+  },
+  {
+    "name": "abom",
+    "path": "internal/abom",
+    "sha": "27daee339bb51682344cb65d305659adee513506",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/abom?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/abom",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/27daee339bb51682344cb65d305659adee513506",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/abom?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/27daee339bb51682344cb65d305659adee513506",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/abom"
+    }
+  },
+  {
+    "name": "addressprotect",
+    "path": "internal/addressprotect",
+    "sha": "4538abb69f73956fe8d9a983ddecf986f3f6b74f",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/addressprotect?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/addressprotect",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/4538abb69f73956fe8d9a983ddecf986f3f6b74f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/addressprotect?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/4538abb69f73956fe8d9a983ddecf986f3f6b74f",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/addressprotect"
+    }
+  },
+  {
+    "name": "atomicfile",
+    "path": "internal/atomicfile",
+    "sha": "b79f3b2d474138505fc8d64d6533676fcd9896a1",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/atomicfile?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/atomicfile",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/b79f3b2d474138505fc8d64d6533676fcd9896a1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/atomicfile?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/b79f3b2d474138505fc8d64d6533676fcd9896a1",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/atomicfile"
+    }
+  },
+  {
+    "name": "audit",
+    "path": "internal/audit",
+    "sha": "af37fa8b87848b54772b7fe64f361730ee450eff",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/audit?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/audit",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/af37fa8b87848b54772b7fe64f361730ee450eff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/audit?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/af37fa8b87848b54772b7fe64f361730ee450eff",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/audit"
+    }
+  },
+  {
+    "name": "blockreason",
+    "path": "internal/blockreason",
+    "sha": "33e02ef792ff2b35f6d9e5db9c14905945b11982",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/blockreason?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/blockreason",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/33e02ef792ff2b35f6d9e5db9c14905945b11982",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/blockreason?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/33e02ef792ff2b35f6d9e5db9c14905945b11982",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/blockreason"
+    }
+  },
+  {
+    "name": "capture",
+    "path": "internal/capture",
+    "sha": "9ae434c6c049fa7c8b39237d800f058686fffe00",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/capture?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/capture",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9ae434c6c049fa7c8b39237d800f058686fffe00",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/capture?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9ae434c6c049fa7c8b39237d800f058686fffe00",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/capture"
+    }
+  },
+  {
+    "name": "certgen",
+    "path": "internal/certgen",
+    "sha": "9a0a0d673afeccc38d6e8bd4cbda9e8b2bf1d8d5",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/certgen?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/certgen",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9a0a0d673afeccc38d6e8bd4cbda9e8b2bf1d8d5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/certgen?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9a0a0d673afeccc38d6e8bd4cbda9e8b2bf1d8d5",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/certgen"
+    }
+  },
+  {
+    "name": "cli",
+    "path": "internal/cli",
+    "sha": "c877704e8c1fc48185c849e5ffb17c9462325a0b",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/cli?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/cli",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/c877704e8c1fc48185c849e5ffb17c9462325a0b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/cli?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/c877704e8c1fc48185c849e5ffb17c9462325a0b",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/cli"
+    }
+  },
+  {
+    "name": "cliutil",
+    "path": "internal/cliutil",
+    "sha": "f365d33de5e7a00a1ac5d4c6af91cf6b5c3e7acd",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/cliutil?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/cliutil",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f365d33de5e7a00a1ac5d4c6af91cf6b5c3e7acd",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/cliutil?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f365d33de5e7a00a1ac5d4c6af91cf6b5c3e7acd",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/cliutil"
+    }
+  },
+  {
+    "name": "config",
+    "path": "internal/config",
+    "sha": "9b5a4a2ea55fb1e486796ffeef2349c2806cc8c8",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/config?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/config",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9b5a4a2ea55fb1e486796ffeef2349c2806cc8c8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/config?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9b5a4a2ea55fb1e486796ffeef2349c2806cc8c8",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/config"
+    }
+  },
+  {
+    "name": "contract",
+    "path": "internal/contract",
+    "sha": "f565fdd64e5f2744b7af0c7c03bc2479704aa615",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/contract?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/contract",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f565fdd64e5f2744b7af0c7c03bc2479704aa615",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/contract?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f565fdd64e5f2744b7af0c7c03bc2479704aa615",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/contract"
+    }
+  },
+  {
+    "name": "decide",
+    "path": "internal/decide",
+    "sha": "8bc79bb8151673ea4b97c6b58cf14a95464e95d5",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/decide?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/decide",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/8bc79bb8151673ea4b97c6b58cf14a95464e95d5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/decide?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/8bc79bb8151673ea4b97c6b58cf14a95464e95d5",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/decide"
+    }
+  },
+  {
+    "name": "discover",
+    "path": "internal/discover",
+    "sha": "9b706c181c1097ed8b42df688b7db4f50c2f1fc1",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/discover?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/discover",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9b706c181c1097ed8b42df688b7db4f50c2f1fc1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/discover?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9b706c181c1097ed8b42df688b7db4f50c2f1fc1",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/discover"
+    }
+  },
+  {
+    "name": "edition",
+    "path": "internal/edition",
+    "sha": "e0f2781a66140f6386ea98299e57d35b963322d8",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/edition?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/edition",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e0f2781a66140f6386ea98299e57d35b963322d8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/edition?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e0f2781a66140f6386ea98299e57d35b963322d8",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/edition"
+    }
+  },
+  {
+    "name": "emit",
+    "path": "internal/emit",
+    "sha": "f6bb6d7353665eea49c60f934456f7fba5ea1f9c",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/emit?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/emit",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f6bb6d7353665eea49c60f934456f7fba5ea1f9c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/emit?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f6bb6d7353665eea49c60f934456f7fba5ea1f9c",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/emit"
+    }
+  },
+  {
+    "name": "envelope",
+    "path": "internal/envelope",
+    "sha": "e8edae3acb5b5d39a493b068e36c2e7ba0ebf31b",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/envelope?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/envelope",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e8edae3acb5b5d39a493b068e36c2e7ba0ebf31b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/envelope?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e8edae3acb5b5d39a493b068e36c2e7ba0ebf31b",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/envelope"
+    }
+  },
+  {
+    "name": "extract",
+    "path": "internal/extract",
+    "sha": "9b81a79ea52b7b35a2dfcb088db38550fcb5a32a",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/extract?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/extract",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9b81a79ea52b7b35a2dfcb088db38550fcb5a32a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/extract?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/9b81a79ea52b7b35a2dfcb088db38550fcb5a32a",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/extract"
+    }
+  },
+  {
+    "name": "filescan",
+    "path": "internal/filescan",
+    "sha": "f45ef23999b739e45e4158b78fc0b64a594c3548",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/filescan?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/filescan",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f45ef23999b739e45e4158b78fc0b64a594c3548",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/filescan?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f45ef23999b739e45e4158b78fc0b64a594c3548",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/filescan"
+    }
+  },
+  {
+    "name": "filesentry",
+    "path": "internal/filesentry",
+    "sha": "58eae0f58e656542f705b2980622034f2068026d",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/filesentry?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/filesentry",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/58eae0f58e656542f705b2980622034f2068026d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/filesentry?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/58eae0f58e656542f705b2980622034f2068026d",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/filesentry"
+    }
+  },
+  {
+    "name": "gitprotect",
+    "path": "internal/gitprotect",
+    "sha": "135fc32b871c6dafe28932252fa995cc56148ba3",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/gitprotect?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/gitprotect",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/135fc32b871c6dafe28932252fa995cc56148ba3",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/gitprotect?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/135fc32b871c6dafe28932252fa995cc56148ba3",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/gitprotect"
+    }
+  },
+  {
+    "name": "health",
+    "path": "internal/health",
+    "sha": "db0a2c041c914794519e701bdc5b9876f0feec09",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/health?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/health",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/db0a2c041c914794519e701bdc5b9876f0feec09",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/health?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/db0a2c041c914794519e701bdc5b9876f0feec09",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/health"
+    }
+  },
+  {
+    "name": "hitl",
+    "path": "internal/hitl",
+    "sha": "81cbe236c011e26c6ce78069575a8aceeec3f4b7",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/hitl?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/hitl",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/81cbe236c011e26c6ce78069575a8aceeec3f4b7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/hitl?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/81cbe236c011e26c6ce78069575a8aceeec3f4b7",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/hitl"
+    }
+  },
+  {
+    "name": "integrity",
+    "path": "internal/integrity",
+    "sha": "f8f88043ea241a4ff255a93d48bf4d881651747c",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/integrity?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/integrity",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f8f88043ea241a4ff255a93d48bf4d881651747c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/integrity?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/f8f88043ea241a4ff255a93d48bf4d881651747c",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/integrity"
+    }
+  },
+  {
+    "name": "jsonscan",
+    "path": "internal/jsonscan",
+    "sha": "342d9538e0607a87921dbb533b9d503c23c77af2",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/jsonscan?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/jsonscan",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/342d9538e0607a87921dbb533b9d503c23c77af2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/jsonscan?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/342d9538e0607a87921dbb533b9d503c23c77af2",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/jsonscan"
+    }
+  },
+  {
+    "name": "killswitch",
+    "path": "internal/killswitch",
+    "sha": "37ec651b47551dd493edb61281e7f6650aee4f16",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/killswitch?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/killswitch",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/37ec651b47551dd493edb61281e7f6650aee4f16",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/killswitch?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/37ec651b47551dd493edb61281e7f6650aee4f16",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/killswitch"
+    }
+  },
+  {
+    "name": "license",
+    "path": "internal/license",
+    "sha": "5a40333c144bea365786e549664e4f0eba118809",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/license?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/license",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/5a40333c144bea365786e549664e4f0eba118809",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/license?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/5a40333c144bea365786e549664e4f0eba118809",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/license"
+    }
+  },
+  {
+    "name": "manifest",
+    "path": "internal/manifest",
+    "sha": "3d5ff7883bc2b13183a2559ca4b0e92078861beb",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/manifest?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/manifest",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/3d5ff7883bc2b13183a2559ca4b0e92078861beb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/manifest?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/3d5ff7883bc2b13183a2559ca4b0e92078861beb",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/manifest"
+    }
+  },
+  {
+    "name": "mcp",
+    "path": "internal/mcp",
+    "sha": "727e795868c41a29f3ca98e4c823e07cbdf186b1",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/mcp?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/mcp",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/727e795868c41a29f3ca98e4c823e07cbdf186b1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/mcp?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/727e795868c41a29f3ca98e4c823e07cbdf186b1",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/mcp"
+    }
+  },
+  {
+    "name": "mcpwrap",
+    "path": "internal/mcpwrap",
+    "sha": "38d57525f0ecd65b81edc9ba6b260467bfddef96",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/mcpwrap?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/mcpwrap",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/38d57525f0ecd65b81edc9ba6b260467bfddef96",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/mcpwrap?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/38d57525f0ecd65b81edc9ba6b260467bfddef96",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/mcpwrap"
+    }
+  },
+  {
+    "name": "media",
+    "path": "internal/media",
+    "sha": "ba2c704a44d452c7fe01926ada3212be4cc64361",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/media?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/media",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/ba2c704a44d452c7fe01926ada3212be4cc64361",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/media?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/ba2c704a44d452c7fe01926ada3212be4cc64361",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/media"
+    }
+  },
+  {
+    "name": "metrics",
+    "path": "internal/metrics",
+    "sha": "a0598bd91986bb8fdfd761c38f4ef0d7446b0215",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/metrics?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/metrics",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/a0598bd91986bb8fdfd761c38f4ef0d7446b0215",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/metrics?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/a0598bd91986bb8fdfd761c38f4ef0d7446b0215",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/metrics"
+    }
+  },
+  {
+    "name": "normalize",
+    "path": "internal/normalize",
+    "sha": "81e0ba2175a74e2be07058f01bf63815ebacfe6b",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/normalize?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/normalize",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/81e0ba2175a74e2be07058f01bf63815ebacfe6b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/normalize?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/81e0ba2175a74e2be07058f01bf63815ebacfe6b",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/normalize"
+    }
+  },
+  {
+    "name": "posture",
+    "path": "internal/posture",
+    "sha": "289528cc99c85b6781259f7724f0d6d21e32b9e2",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/posture?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/posture",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/289528cc99c85b6781259f7724f0d6d21e32b9e2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/posture?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/289528cc99c85b6781259f7724f0d6d21e32b9e2",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/posture"
+    }
+  },
+  {
+    "name": "preflight",
+    "path": "internal/preflight",
+    "sha": "407e3d1346775df9c7203854d319c3fbf523d1fb",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/preflight?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/preflight",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/407e3d1346775df9c7203854d319c3fbf523d1fb",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/preflight?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/407e3d1346775df9c7203854d319c3fbf523d1fb",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/preflight"
+    }
+  },
+  {
+    "name": "projectscan",
+    "path": "internal/projectscan",
+    "sha": "42b8826791135a9a386c45f34547a954849f1a71",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/projectscan?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/projectscan",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/42b8826791135a9a386c45f34547a954849f1a71",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/projectscan?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/42b8826791135a9a386c45f34547a954849f1a71",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/projectscan"
+    }
+  },
+  {
+    "name": "proxy",
+    "path": "internal/proxy",
+    "sha": "2f347bc1df8caff07aee79fe2f1b9ef15877fe41",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/proxy?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/proxy",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2f347bc1df8caff07aee79fe2f1b9ef15877fe41",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/proxy?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2f347bc1df8caff07aee79fe2f1b9ef15877fe41",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/proxy"
+    }
+  },
+  {
+    "name": "receipt",
+    "path": "internal/receipt",
+    "sha": "941299b3be659177127904a36644b57c3d2bb349",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/receipt?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/receipt",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/941299b3be659177127904a36644b57c3d2bb349",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/receipt?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/941299b3be659177127904a36644b57c3d2bb349",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/receipt"
+    }
+  },
+  {
+    "name": "recorder",
+    "path": "internal/recorder",
+    "sha": "5261b0f3d1089ed18769258c78e11015fca36bb2",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/recorder?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/recorder",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/5261b0f3d1089ed18769258c78e11015fca36bb2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/recorder?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/5261b0f3d1089ed18769258c78e11015fca36bb2",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/recorder"
+    }
+  },
+  {
+    "name": "redact",
+    "path": "internal/redact",
+    "sha": "463695bcd7c1391ad436c8c524d2c4b148225074",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/redact?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/redact",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/463695bcd7c1391ad436c8c524d2c4b148225074",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/redact?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/463695bcd7c1391ad436c8c524d2c4b148225074",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/redact"
+    }
+  },
+  {
+    "name": "replaycapture",
+    "path": "internal/replaycapture",
+    "sha": "6c965dd1e1d84f2b8c8f55c4272e29eca11cd4c5",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/replaycapture?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/replaycapture",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/6c965dd1e1d84f2b8c8f55c4272e29eca11cd4c5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/replaycapture?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/6c965dd1e1d84f2b8c8f55c4272e29eca11cd4c5",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/replaycapture"
+    }
+  },
+  {
+    "name": "report",
+    "path": "internal/report",
+    "sha": "e6e5aa75fc28dbcc7540bdb5590d1917183208a9",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/report?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/report",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e6e5aa75fc28dbcc7540bdb5590d1917183208a9",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/report?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e6e5aa75fc28dbcc7540bdb5590d1917183208a9",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/report"
+    }
+  },
+  {
+    "name": "reqpolicy",
+    "path": "internal/reqpolicy",
+    "sha": "e696b62427e58b2a01c5fef6ef07ce57dde5499d",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/reqpolicy?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/reqpolicy",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e696b62427e58b2a01c5fef6ef07ce57dde5499d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/reqpolicy?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/e696b62427e58b2a01c5fef6ef07ce57dde5499d",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/reqpolicy"
+    }
+  },
+  {
+    "name": "rules",
+    "path": "internal/rules",
+    "sha": "fbcb21bf434139e5727292bc490d27bf490060e7",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/rules?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/rules",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/fbcb21bf434139e5727292bc490d27bf490060e7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/rules?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/fbcb21bf434139e5727292bc490d27bf490060e7",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/rules"
+    }
+  },
+  {
+    "name": "sandbox",
+    "path": "internal/sandbox",
+    "sha": "51a0ced7415f71d918bceba3fc091815bcce83e2",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/sandbox?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/sandbox",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/51a0ced7415f71d918bceba3fc091815bcce83e2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/sandbox?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/51a0ced7415f71d918bceba3fc091815bcce83e2",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/sandbox"
+    }
+  },
+  {
+    "name": "sarif",
+    "path": "internal/sarif",
+    "sha": "dd4cde86d59243a8628d94408f9f7c7b80710dfa",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/sarif?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/sarif",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/dd4cde86d59243a8628d94408f9f7c7b80710dfa",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/sarif?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/dd4cde86d59243a8628d94408f9f7c7b80710dfa",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/sarif"
+    }
+  },
+  {
+    "name": "scanapi",
+    "path": "internal/scanapi",
+    "sha": "da71d28e3dd4a2ad7e9a9dcf90d557d8187cbc04",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/scanapi?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/scanapi",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/da71d28e3dd4a2ad7e9a9dcf90d557d8187cbc04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/scanapi?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/da71d28e3dd4a2ad7e9a9dcf90d557d8187cbc04",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/scanapi"
+    }
+  },
+  {
+    "name": "scanner",
+    "path": "internal/scanner",
+    "sha": "2f7b52343331d7aa75c78bc8f9aef2a49df88e88",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/scanner?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/scanner",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2f7b52343331d7aa75c78bc8f9aef2a49df88e88",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/scanner?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2f7b52343331d7aa75c78bc8f9aef2a49df88e88",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/scanner"
+    }
+  },
+  {
+    "name": "seedprotect",
+    "path": "internal/seedprotect",
+    "sha": "2b46fd3ab9678e326c314f77cba0fcc435fd0b7a",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/seedprotect?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/seedprotect",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2b46fd3ab9678e326c314f77cba0fcc435fd0b7a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/seedprotect?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2b46fd3ab9678e326c314f77cba0fcc435fd0b7a",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/seedprotect"
+    }
+  },
+  {
+    "name": "sentry",
+    "path": "internal/sentry",
+    "sha": "ccdc4531ea3312f977d9fecd8e217b96348df08b",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/sentry?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/sentry",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/ccdc4531ea3312f977d9fecd8e217b96348df08b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/sentry?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/ccdc4531ea3312f977d9fecd8e217b96348df08b",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/sentry"
+    }
+  },
+  {
+    "name": "session",
+    "path": "internal/session",
+    "sha": "854c37d58147b41bf4d2d066474b9817ec76b32b",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/session?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/session",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/854c37d58147b41bf4d2d066474b9817ec76b32b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/session?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/854c37d58147b41bf4d2d066474b9817ec76b32b",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/session"
+    }
+  },
+  {
+    "name": "shield",
+    "path": "internal/shield",
+    "sha": "0a7eacebcce146c44b4c891eb6219d2dc657748c",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/shield?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/shield",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/0a7eacebcce146c44b4c891eb6219d2dc657748c",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/shield?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/0a7eacebcce146c44b4c891eb6219d2dc657748c",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/shield"
+    }
+  },
+  {
+    "name": "signing",
+    "path": "internal/signing",
+    "sha": "fbcd99bf4e275b7ada51e2e5dd91cf1fec93ea42",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/signing?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/signing",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/fbcd99bf4e275b7ada51e2e5dd91cf1fec93ea42",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/signing?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/fbcd99bf4e275b7ada51e2e5dd91cf1fec93ea42",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/signing"
+    }
+  },
+  {
+    "name": "skillscan",
+    "path": "internal/skillscan",
+    "sha": "2d21ccaf3dca77465c920f3533f580897fae91ff",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/skillscan?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/skillscan",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2d21ccaf3dca77465c920f3533f580897fae91ff",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/skillscan?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/2d21ccaf3dca77465c920f3533f580897fae91ff",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/skillscan"
+    }
+  },
+  {
+    "name": "svid",
+    "path": "internal/svid",
+    "sha": "0852b331de05230af54feedff067529c93d91b04",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/svid?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/svid",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/0852b331de05230af54feedff067529c93d91b04",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/svid?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/0852b331de05230af54feedff067529c93d91b04",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/svid"
+    }
+  },
+  {
+    "name": "svidsidecar",
+    "path": "internal/svidsidecar",
+    "sha": "fdd4674cfcda3efb41d8669bbef88dd736da2129",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/svidsidecar?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/svidsidecar",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/fdd4674cfcda3efb41d8669bbef88dd736da2129",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/svidsidecar?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/fdd4674cfcda3efb41d8669bbef88dd736da2129",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/svidsidecar"
+    }
+  },
+  {
+    "name": "testwait",
+    "path": "internal/testwait",
+    "sha": "32fa62385838b5efbaf281369d98f70a3845dfe1",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/testwait?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/testwait",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/32fa62385838b5efbaf281369d98f70a3845dfe1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/testwait?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/32fa62385838b5efbaf281369d98f70a3845dfe1",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/testwait"
+    }
+  },
+  {
+    "name": "wsutil",
+    "path": "internal/wsutil",
+    "sha": "23658575752e30fd70b60615781b7c0d50d3e3a7",
+    "size": 0,
+    "url": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/wsutil?ref=main",
+    "html_url": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/wsutil",
+    "git_url": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/23658575752e30fd70b60615781b7c0d50d3e3a7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/luckyPipewrench/pipelock/contents/internal/wsutil?ref=main",
+      "git": "https://api.github.com/repos/luckyPipewrench/pipelock/git/trees/23658575752e30fd70b60615781b7c0d50d3e3a7",
+      "html": "https://github.com/luckyPipewrench/pipelock/tree/main/internal/wsutil"
+    }
+  }
+]
