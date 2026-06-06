@@ -1,0 +1,34 @@
+[
+  {
+    "name": "__init__.py",
+    "path": "sdk/adrian/format/__init__.py",
+    "sha": "c348eaeb8ede0292e91047adc3cecac73f6eb6e2",
+    "size": 421,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/format/__init__.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/format/__init__.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/c348eaeb8ede0292e91047adc3cecac73f6eb6e2",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/format/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/format/__init__.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/c348eaeb8ede0292e91047adc3cecac73f6eb6e2",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/format/__init__.py"
+    }
+  },
+  {
+    "name": "types.py",
+    "path": "sdk/adrian/format/types.py",
+    "sha": "1fd1e8043e1a920e5004287489ddb3c47c310dd7",
+    "size": 4762,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/format/types.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/format/types.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/1fd1e8043e1a920e5004287489ddb3c47c310dd7",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/format/types.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/format/types.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/1fd1e8043e1a920e5004287489ddb3c47c310dd7",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/format/types.py"
+    }
+  }
+]
