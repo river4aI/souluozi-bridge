@@ -17,8 +17,13 @@ jobs:
           mkdir -p fetched
           NAME="${{ github.event.client_payload.name }}"
           URL="${{ github.event.client_payload.url }}"
+          AUTH="${{ github.event.client_payload.auth_header }}"
           USER_AGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-          curl -L -sS --max-time 30 -H "User-Agent: $USER_AGENT" -o "fetched/$NAME" "$URL"
+          if [ -n "$AUTH" ]; then
+            curl -L -sS --max-time 30 -H "User-Agent: $USER_AGENT" -H "Authorization: $AUTH" -o "fetched/$NAME" "$URL"
+          else
+            curl -L -sS --max-time 30 -H "User-Agent: $USER_AGENT" -o "fetched/$NAME" "$URL"
+          fi
       - name: Commit and push
         run: |
           git config user.name "Souluozi Bridge"
