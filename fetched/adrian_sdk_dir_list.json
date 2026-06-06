@@ -1,0 +1,290 @@
+[
+  {
+    "name": "__init__.py",
+    "path": "sdk/adrian/__init__.py",
+    "sha": "ea8fdc89446592ab4399ca784762dc964d6bac07",
+    "size": 33271,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/__init__.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/__init__.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/ea8fdc89446592ab4399ca784762dc964d6bac07",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/__init__.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/ea8fdc89446592ab4399ca784762dc964d6bac07",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/__init__.py"
+    }
+  },
+  {
+    "name": "adapters",
+    "path": "sdk/adrian/adapters",
+    "sha": "8b3967b807ea9b835802c3484a45b791f0c5d711",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/adapters?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/adapters",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/8b3967b807ea9b835802c3484a45b791f0c5d711",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/adapters?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/8b3967b807ea9b835802c3484a45b791f0c5d711",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/adapters"
+    }
+  },
+  {
+    "name": "callbacks.py",
+    "path": "sdk/adrian/callbacks.py",
+    "sha": "a1bff71d22595b88c4530a61c9f4d6542a93aba7",
+    "size": 3315,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/callbacks.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/callbacks.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/a1bff71d22595b88c4530a61c9f4d6542a93aba7",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/callbacks.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/callbacks.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/a1bff71d22595b88c4530a61c9f4d6542a93aba7",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/callbacks.py"
+    }
+  },
+  {
+    "name": "config.py",
+    "path": "sdk/adrian/config.py",
+    "sha": "238b54caa7f20e51880e4a558138c4b1fd34fd96",
+    "size": 6276,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/config.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/config.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/238b54caa7f20e51880e4a558138c4b1fd34fd96",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/config.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/config.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/238b54caa7f20e51880e4a558138c4b1fd34fd96",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/config.py"
+    }
+  },
+  {
+    "name": "context.py",
+    "path": "sdk/adrian/context.py",
+    "sha": "9231566b2eb946ed2c3ce3dd4de5f7a2e06daefc",
+    "size": 8588,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/context.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/context.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/9231566b2eb946ed2c3ce3dd4de5f7a2e06daefc",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/context.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/context.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/9231566b2eb946ed2c3ce3dd4de5f7a2e06daefc",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/context.py"
+    }
+  },
+  {
+    "name": "format",
+    "path": "sdk/adrian/format",
+    "sha": "bfd32c9adada3cd65ca587d6d6cacb1403070d08",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/format?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/format",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/bfd32c9adada3cd65ca587d6d6cacb1403070d08",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/format?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/bfd32c9adada3cd65ca587d6d6cacb1403070d08",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/format"
+    }
+  },
+  {
+    "name": "handler.py",
+    "path": "sdk/adrian/handler.py",
+    "sha": "3289041df2cd00d91da212c36911f16d6efb20aa",
+    "size": 19806,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handler.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/handler.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/3289041df2cd00d91da212c36911f16d6efb20aa",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/handler.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handler.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/3289041df2cd00d91da212c36911f16d6efb20aa",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/handler.py"
+    }
+  },
+  {
+    "name": "handlers",
+    "path": "sdk/adrian/handlers",
+    "sha": "c9ec8697ff30ba72691c3d5c26e936c3eba6e457",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handlers?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/handlers",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/c9ec8697ff30ba72691c3d5c26e936c3eba6e457",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/handlers?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/c9ec8697ff30ba72691c3d5c26e936c3eba6e457",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/handlers"
+    }
+  },
+  {
+    "name": "hooks.py",
+    "path": "sdk/adrian/hooks.py",
+    "sha": "4ee49761bd11917c21c8248ec2d1b15764fcca53",
+    "size": 2921,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/hooks.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/hooks.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/4ee49761bd11917c21c8248ec2d1b15764fcca53",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/hooks.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/hooks.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/4ee49761bd11917c21c8248ec2d1b15764fcca53",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/hooks.py"
+    }
+  },
+  {
+    "name": "identity.py",
+    "path": "sdk/adrian/identity.py",
+    "sha": "c8345bd0aa918925221e0a26579c89d4e8a7ba65",
+    "size": 1559,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/identity.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/identity.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/c8345bd0aa918925221e0a26579c89d4e8a7ba65",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/identity.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/identity.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/c8345bd0aa918925221e0a26579c89d4e8a7ba65",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/identity.py"
+    }
+  },
+  {
+    "name": "mcp.py",
+    "path": "sdk/adrian/mcp.py",
+    "sha": "b41eae97e6e3fe1dc94a6fc01664e88eaed0df88",
+    "size": 12609,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/mcp.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/mcp.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/b41eae97e6e3fe1dc94a6fc01664e88eaed0df88",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/mcp.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/mcp.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/b41eae97e6e3fe1dc94a6fc01664e88eaed0df88",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/mcp.py"
+    }
+  },
+  {
+    "name": "pairing.py",
+    "path": "sdk/adrian/pairing.py",
+    "sha": "717b82cc25b39347163d0a38a5f07a346571fbb1",
+    "size": 8899,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pairing.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pairing.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/717b82cc25b39347163d0a38a5f07a346571fbb1",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/pairing.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pairing.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/717b82cc25b39347163d0a38a5f07a346571fbb1",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/pairing.py"
+    }
+  },
+  {
+    "name": "pii",
+    "path": "sdk/adrian/pii",
+    "sha": "efbd7dfb29ce4c78cd1f9e40136ecb60309f8ce0",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/pii",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/efbd7dfb29ce4c78cd1f9e40136ecb60309f8ce0",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/pii?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/efbd7dfb29ce4c78cd1f9e40136ecb60309f8ce0",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/pii"
+    }
+  },
+  {
+    "name": "proto",
+    "path": "sdk/adrian/proto",
+    "sha": "f8544161cf61a20fb4a867a515cdb731cca3d9f8",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/proto",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/f8544161cf61a20fb4a867a515cdb731cca3d9f8",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/f8544161cf61a20fb4a867a515cdb731cca3d9f8",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/proto"
+    }
+  },
+  {
+    "name": "py.typed",
+    "path": "sdk/adrian/py.typed",
+    "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/py.typed?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/py.typed",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/py.typed",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/py.typed?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/py.typed"
+    }
+  },
+  {
+    "name": "session_persistence.py",
+    "path": "sdk/adrian/session_persistence.py",
+    "sha": "0f88429f631d4c1c1630d2aada7afa15c5163712",
+    "size": 5173,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/session_persistence.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/session_persistence.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/0f88429f631d4c1c1630d2aada7afa15c5163712",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/session_persistence.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/session_persistence.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/0f88429f631d4c1c1630d2aada7afa15c5163712",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/session_persistence.py"
+    }
+  },
+  {
+    "name": "types.py",
+    "path": "sdk/adrian/types.py",
+    "sha": "13c1506c14b17336bd9f440e7d10cf5ec40024eb",
+    "size": 7984,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/types.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/types.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/13c1506c14b17336bd9f440e7d10cf5ec40024eb",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/types.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/types.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/13c1506c14b17336bd9f440e7d10cf5ec40024eb",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/types.py"
+    }
+  },
+  {
+    "name": "ws.py",
+    "path": "sdk/adrian/ws.py",
+    "sha": "1ab5df4bae3d5e6a8276a3774b19533599010f98",
+    "size": 40647,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/ws.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/ws.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/1ab5df4bae3d5e6a8276a3774b19533599010f98",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/ws.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/ws.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/1ab5df4bae3d5e6a8276a3774b19533599010f98",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/ws.py"
+    }
+  }
+]
