@@ -1,0 +1,130 @@
+[
+  {
+    "name": "__init__.py",
+    "path": "sdk/adrian/proto/__init__.py",
+    "sha": "34f2f99a88f5b45e22c79afcce308518a5546c9d",
+    "size": 426,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/__init__.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/__init__.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/34f2f99a88f5b45e22c79afcce308518a5546c9d",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/proto/__init__.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/__init__.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/34f2f99a88f5b45e22c79afcce308518a5546c9d",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/__init__.py"
+    }
+  },
+  {
+    "name": "buf.gen.yaml",
+    "path": "sdk/adrian/proto/buf.gen.yaml",
+    "sha": "5845eeca2738a0c281b5503f2964e8b67321a53b",
+    "size": 130,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf.gen.yaml?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/buf.gen.yaml",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/5845eeca2738a0c281b5503f2964e8b67321a53b",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/proto/buf.gen.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf.gen.yaml?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/5845eeca2738a0c281b5503f2964e8b67321a53b",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/buf.gen.yaml"
+    }
+  },
+  {
+    "name": "buf.lock",
+    "path": "sdk/adrian/proto/buf.lock",
+    "sha": "709ae023960e2125168e37fb5e9139f300c6bd01",
+    "size": 283,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf.lock?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/buf.lock",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/709ae023960e2125168e37fb5e9139f300c6bd01",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/proto/buf.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf.lock?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/709ae023960e2125168e37fb5e9139f300c6bd01",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/buf.lock"
+    }
+  },
+  {
+    "name": "buf.yaml",
+    "path": "sdk/adrian/proto/buf.yaml",
+    "sha": "25426d9c51d358adf4a2785eade80ec995c16573",
+    "size": 76,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf.yaml?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/buf.yaml",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/25426d9c51d358adf4a2785eade80ec995c16573",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/proto/buf.yaml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf.yaml?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/25426d9c51d358adf4a2785eade80ec995c16573",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/buf.yaml"
+    }
+  },
+  {
+    "name": "buf",
+    "path": "sdk/adrian/proto/buf",
+    "sha": "78eba1d869a7998fb9b964016722d06c597e0782",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/proto/buf",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/78eba1d869a7998fb9b964016722d06c597e0782",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/buf?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/78eba1d869a7998fb9b964016722d06c597e0782",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian/proto/buf"
+    }
+  },
+  {
+    "name": "event.proto",
+    "path": "sdk/adrian/proto/event.proto",
+    "sha": "aaa4b9b485f30d4473e8aed4a463c7e4972975e5",
+    "size": 10852,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/event.proto?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/event.proto",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/aaa4b9b485f30d4473e8aed4a463c7e4972975e5",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/proto/event.proto",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/event.proto?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/aaa4b9b485f30d4473e8aed4a463c7e4972975e5",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/event.proto"
+    }
+  },
+  {
+    "name": "event_pb2.py",
+    "path": "sdk/adrian/proto/event_pb2.py",
+    "sha": "696cb1a1016c4fe28a5813b5368dc44786f7274c",
+    "size": 14698,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/event_pb2.py?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/event_pb2.py",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/696cb1a1016c4fe28a5813b5368dc44786f7274c",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/proto/event_pb2.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/event_pb2.py?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/696cb1a1016c4fe28a5813b5368dc44786f7274c",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/event_pb2.py"
+    }
+  },
+  {
+    "name": "event_pb2.pyi",
+    "path": "sdk/adrian/proto/event_pb2.pyi",
+    "sha": "0343546f783ea990f8275adf659315a01d0c00a7",
+    "size": 27563,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/event_pb2.pyi?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/event_pb2.pyi",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/0343546f783ea990f8275adf659315a01d0c00a7",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/adrian/proto/event_pb2.pyi",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian/proto/event_pb2.pyi?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/0343546f783ea990f8275adf659315a01d0c00a7",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/adrian/proto/event_pb2.pyi"
+    }
+  }
+]
