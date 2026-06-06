@@ -1,0 +1,98 @@
+[
+  {
+    "name": "adrian",
+    "path": "sdk/adrian",
+    "sha": "eeed4b0c7843e055460b3bcc783a0e544d760653",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/eeed4b0c7843e055460b3bcc783a0e544d760653",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/adrian?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/eeed4b0c7843e055460b3bcc783a0e544d760653",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/adrian"
+    }
+  },
+  {
+    "name": "pyproject.toml",
+    "path": "sdk/pyproject.toml",
+    "sha": "e20b3766e9381a8e5aebf786c73ed4b9590543a2",
+    "size": 2685,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/pyproject.toml?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/pyproject.toml",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/e20b3766e9381a8e5aebf786c73ed4b9590543a2",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/pyproject.toml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/pyproject.toml?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/e20b3766e9381a8e5aebf786c73ed4b9590543a2",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/pyproject.toml"
+    }
+  },
+  {
+    "name": "pyrightconfig.json",
+    "path": "sdk/pyrightconfig.json",
+    "sha": "54584665d3940db507e1cc7efdd7bb8397c854ab",
+    "size": 448,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/pyrightconfig.json?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/pyrightconfig.json",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/54584665d3940db507e1cc7efdd7bb8397c854ab",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/pyrightconfig.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/pyrightconfig.json?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/54584665d3940db507e1cc7efdd7bb8397c854ab",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/pyrightconfig.json"
+    }
+  },
+  {
+    "name": "tests",
+    "path": "sdk/tests",
+    "sha": "203a6f745d47697a5c464e6a4ac80a5518ad20cf",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/tests?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/tests",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/203a6f745d47697a5c464e6a4ac80a5518ad20cf",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/tests?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/203a6f745d47697a5c464e6a4ac80a5518ad20cf",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/tests"
+    }
+  },
+  {
+    "name": "tools",
+    "path": "sdk/tools",
+    "sha": "dc505318f463bee1facd1048c2bba486cd2fd56f",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/tools?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/sdk/tools",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/dc505318f463bee1facd1048c2bba486cd2fd56f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/tools?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/dc505318f463bee1facd1048c2bba486cd2fd56f",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/sdk/tools"
+    }
+  },
+  {
+    "name": "uv.lock",
+    "path": "sdk/uv.lock",
+    "sha": "2c18e6e369af9183b628ae76ee7a0d818651ef26",
+    "size": 280687,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/uv.lock?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/sdk/uv.lock",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/2c18e6e369af9183b628ae76ee7a0d818651ef26",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/sdk/uv.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/sdk/uv.lock?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/2c18e6e369af9183b628ae76ee7a0d818651ef26",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/sdk/uv.lock"
+    }
+  }
+]
