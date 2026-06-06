@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Makefile",
+    "path": "backend/Makefile",
+    "sha": "ed899cc57bc59fb98d7b2d65eb992f21a6a2255c",
+    "size": 1262,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/Makefile?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/backend/Makefile",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/ed899cc57bc59fb98d7b2d65eb992f21a6a2255c",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/backend/Makefile",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/Makefile?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/ed899cc57bc59fb98d7b2d65eb992f21a6a2255c",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/backend/Makefile"
+    }
+  },
+  {
+    "name": "cmd",
+    "path": "backend/cmd",
+    "sha": "388cdac8ed0480d2d9c71342e252b9116ba5a5db",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/cmd?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/cmd",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/388cdac8ed0480d2d9c71342e252b9116ba5a5db",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/cmd?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/388cdac8ed0480d2d9c71342e252b9116ba5a5db",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/cmd"
+    }
+  },
+  {
+    "name": "go.mod",
+    "path": "backend/go.mod",
+    "sha": "978c7d932b7b91051b887b14d81218527bafaeea",
+    "size": 700,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/go.mod?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/backend/go.mod",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/978c7d932b7b91051b887b14d81218527bafaeea",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/backend/go.mod",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/go.mod?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/978c7d932b7b91051b887b14d81218527bafaeea",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/backend/go.mod"
+    }
+  },
+  {
+    "name": "go.sum",
+    "path": "backend/go.sum",
+    "sha": "f935a6bc4c2a071510e956def5537d31a2cb0381",
+    "size": 5224,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/go.sum?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/blob/main/backend/go.sum",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/f935a6bc4c2a071510e956def5537d31a2cb0381",
+    "download_url": "https://raw.githubusercontent.com/secureagentics/Adrian/main/backend/go.sum",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/go.sum?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/blobs/f935a6bc4c2a071510e956def5537d31a2cb0381",
+      "html": "https://github.com/secureagentics/Adrian/blob/main/backend/go.sum"
+    }
+  },
+  {
+    "name": "internal",
+    "path": "backend/internal",
+    "sha": "f54f642b23c8db887a4bd11c44cd8c351610ea48",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/f54f642b23c8db887a4bd11c44cd8c351610ea48",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/f54f642b23c8db887a4bd11c44cd8c351610ea48",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal"
+    }
+  },
+  {
+    "name": "migrations",
+    "path": "backend/migrations",
+    "sha": "a1c97cae5428419c495b06ad0f40a8f96f709e92",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/migrations?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/migrations",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/a1c97cae5428419c495b06ad0f40a8f96f709e92",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/migrations?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/a1c97cae5428419c495b06ad0f40a8f96f709e92",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/migrations"
+    }
+  },
+  {
+    "name": "proto",
+    "path": "backend/proto",
+    "sha": "77cb70ab534143bfc372e984b2a70fd81cebf63a",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/proto?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/proto",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/77cb70ab534143bfc372e984b2a70fd81cebf63a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/proto?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/77cb70ab534143bfc372e984b2a70fd81cebf63a",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/proto"
+    }
+  }
+]
