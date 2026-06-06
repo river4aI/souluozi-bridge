@@ -1,0 +1,162 @@
+[
+  {
+    "name": "alerts",
+    "path": "backend/internal/alerts",
+    "sha": "fc1a963e32914247765bfea4d527a6d4876e6904",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/alerts?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/alerts",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/fc1a963e32914247765bfea4d527a6d4876e6904",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/alerts?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/fc1a963e32914247765bfea4d527a6d4876e6904",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/alerts"
+    }
+  },
+  {
+    "name": "api",
+    "path": "backend/internal/api",
+    "sha": "46249e5f0cb7929adda0717270e77cf9c208a056",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/api?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/api",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/46249e5f0cb7929adda0717270e77cf9c208a056",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/api?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/46249e5f0cb7929adda0717270e77cf9c208a056",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/api"
+    }
+  },
+  {
+    "name": "auth",
+    "path": "backend/internal/auth",
+    "sha": "b5a7942d8a8f3021e614398915a12008dd9d0420",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/auth?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/auth",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/b5a7942d8a8f3021e614398915a12008dd9d0420",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/auth?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/b5a7942d8a8f3021e614398915a12008dd9d0420",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/auth"
+    }
+  },
+  {
+    "name": "config",
+    "path": "backend/internal/config",
+    "sha": "f66a8ef8e25f3e2bd42c127dc969a0a06db05168",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/config?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/config",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/f66a8ef8e25f3e2bd42c127dc969a0a06db05168",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/config?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/f66a8ef8e25f3e2bd42c127dc969a0a06db05168",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/config"
+    }
+  },
+  {
+    "name": "db",
+    "path": "backend/internal/db",
+    "sha": "1c3439d45ed2c72c18afede61a50af343324c4c7",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/db?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/db",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/1c3439d45ed2c72c18afede61a50af343324c4c7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/db?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/1c3439d45ed2c72c18afede61a50af343324c4c7",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/db"
+    }
+  },
+  {
+    "name": "engine",
+    "path": "backend/internal/engine",
+    "sha": "68868cf45deacb6a899bd338a00d2ed0e2fa4b9a",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/engine?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/engine",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/68868cf45deacb6a899bd338a00d2ed0e2fa4b9a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/engine?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/68868cf45deacb6a899bd338a00d2ed0e2fa4b9a",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/engine"
+    }
+  },
+  {
+    "name": "notifications",
+    "path": "backend/internal/notifications",
+    "sha": "4a32a03033760ea60d38e10723e1f13ab65ee721",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/notifications?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/notifications",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/4a32a03033760ea60d38e10723e1f13ab65ee721",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/notifications?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/4a32a03033760ea60d38e10723e1f13ab65ee721",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/notifications"
+    }
+  },
+  {
+    "name": "proto",
+    "path": "backend/internal/proto",
+    "sha": "70fd96681f4175961f30d73b382672ab8fe07e03",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/proto?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/proto",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/70fd96681f4175961f30d73b382672ab8fe07e03",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/proto?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/70fd96681f4175961f30d73b382672ab8fe07e03",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/proto"
+    }
+  },
+  {
+    "name": "store",
+    "path": "backend/internal/store",
+    "sha": "8e8334778378b690791570b5552a777d571c2f7d",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/store?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/store",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/8e8334778378b690791570b5552a777d571c2f7d",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/store?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/8e8334778378b690791570b5552a777d571c2f7d",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/store"
+    }
+  },
+  {
+    "name": "ws",
+    "path": "backend/internal/ws",
+    "sha": "72c90c22d391aed03096341cd7723315c04057e2",
+    "size": 0,
+    "url": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/ws?ref=main",
+    "html_url": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/ws",
+    "git_url": "https://api.github.com/repos/secureagentics/Adrian/git/trees/72c90c22d391aed03096341cd7723315c04057e2",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/secureagentics/Adrian/contents/backend/internal/ws?ref=main",
+      "git": "https://api.github.com/repos/secureagentics/Adrian/git/trees/72c90c22d391aed03096341cd7723315c04057e2",
+      "html": "https://github.com/secureagentics/Adrian/tree/main/backend/internal/ws"
+    }
+  }
+]
