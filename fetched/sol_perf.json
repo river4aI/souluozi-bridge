@@ -1,0 +1,1 @@
+{"jsonrpc":"2.0","result":[{"numNonVoteTransactions":105700,"numSlots":149,"numTransactions":211996,"samplePeriodSecs":60,"slot":426644879},{"numNonVoteTransactions":127065,"numSlots":150,"numTransactions":234167,"samplePeriodSecs":60,"slot":426644730},{"numNonVoteTransactions":128967,"numSlots":153,"numTransactions":238078,"samplePeriodSecs":60,"slot":426644580}],"id":1}
